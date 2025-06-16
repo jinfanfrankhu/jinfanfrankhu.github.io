@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Hi, I'm Frank 👋
+# Hi, I'm Frank. Welcome to my website!
 
-I'm a CS + Math + Linguistics student exploring how language and data interact.  
-Check out my [about](/about), [projects](/projects), or some of my [blog posts](/blog).
+I'm a student at Phillips Academy Andover exploring language and AI.  
+Check out my [about me](/about), [projects](/projects), or some of my [posts](/post).
