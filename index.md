@@ -6,3 +6,4 @@
     <p>Check out my <a href="/about">about me</a>, <a href="/projects">projects</a>, or some of my <a href="/posts">posts</a>.</p>
   </div>
 </div>
+
