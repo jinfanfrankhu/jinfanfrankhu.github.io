@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: post
+title: "Testing Post Features"
+date: 2025-06-16
 ---
 
 <article class="post">
