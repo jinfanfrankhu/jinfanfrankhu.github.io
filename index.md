@@ -3,6 +3,6 @@
   <div>
     <h1>Hi, I’m Frank. Welcome to my website!</h1>
     <p>I’m a student at Phillips Academy Andover exploring language and AI.</p>
-    <p>Check out my <a href="/about">about me</a>, <a href="/projects">projects</a>, or some of my <a href="/blog">posts</a>.</p>
+    <p>Check out my <a href="/about">about me</a>, <a href="/projects">projects</a>, or some of my <a href="/posts">posts</a>.</p>
   </div>
 </div>
