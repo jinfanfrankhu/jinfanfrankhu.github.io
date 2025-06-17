@@ -4,10 +4,12 @@ title: Posts
 permalink: /posts/
 ---
 
-<ul>
+<ul class="custom-post-list">
   {% for post in site.posts %}
+    {% assign cat_index = forloop.index0 | modulo: 4 | plus: 1 %}
     <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a> - <span>{{ post.date | date: "%B %d, %Y" }}</span>
+      <img src="/images/cat{{ cat_index }}.png" class="cat-bullet" alt="cat {{ cat_index }}" />
+      <a href="{{ post.url | relative_url }}"><strong>{{ post.title }}</strong></a> – <span>{{ post.date | date: "%B %d, %Y" }}</span>
     </li>
   {% endfor %}
 </ul>
