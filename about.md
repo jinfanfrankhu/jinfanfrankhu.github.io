@@ -10,6 +10,14 @@ Don't worry though, they thought the name through. They weren't calling me a 凡
 
 I'm  also extraordinarily allergic to dogs. As a kid, our family had two dogs, both very cute. I'd spend hours snuggled up next to them, rubbing my face in their fur and wondering, *hey,  why can't I breathe out of my nose?* Waking up congested and choking, I genuinely thought I had tuberculosis or something. I found out that I was allergic when I was ten, three years after our last dog passed away. It's funny though, just like how lactose intolerant people seem to love dairy the most, I really, *really*, like dogs. And cats. Even though I'm allergic to them too. 
 
+<div style="display: flex; align-items: center; gap: 30px;">
+  <img src="/images/BoyScouts.jpg" alt="Profile photo" style="width: 180px; border-radius: 8px;">
+  <div>
+    <h1>Hi, I’m Frank. Welcome to my website!</h1>
+    <p>I’m a senior at Phillips Academy Andover exploring language and AI.</p>
+  </div>
+</div>
+
 ### Contact me
 
 [jinfanfrank@gmail.com](mailto:jinfanfrank@gmail.com)
