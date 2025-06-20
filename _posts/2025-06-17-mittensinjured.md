@@ -2,6 +2,7 @@
 layout: post
 title: "Mittens Got Injured"
 date: 2025-06-17
+permalink: /posts/mittensinjured
 ---
 Mittens snuck out yesterday night and came back limping :(
 

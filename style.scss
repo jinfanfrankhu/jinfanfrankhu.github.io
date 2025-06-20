@@ -301,6 +301,40 @@ ul.custom-post-list li {
   vertical-align: middle;
 }
 
+.projects-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.project-card {
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.project-image {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.project-title {
+  font-size: 2em;
+  margin-top: 20px;
+}
+
+.project-description {
+  font-size: 1.2em;
+  margin-top: 10px;
+  color: #555;
+}
+
+.project-divider {
+  border: 1px solid #eee;
+  margin: 40px 0;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
