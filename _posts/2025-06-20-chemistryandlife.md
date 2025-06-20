@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reaction Coordinate Diagrams and What They Say About Living Life"
-date: 2025-06-19
+date: 2025-06-20
 ---
 
 So this year, I took Organic Chemistry, and if there's one fundamental concept or takeaway that I got from the class, it's the importance of Reaction Coordinate Diagrams. For those who are unfamiliar, here's a pic:
