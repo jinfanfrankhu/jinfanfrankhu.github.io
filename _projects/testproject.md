@@ -1,9 +1,9 @@
 ---
 layout: project
-title: Test
+title: Tokenization in Turkish and Finnish
 image: /images/projects/test.png
-description: A short sentence about what this project does.
-permalink: /projects/test/
+description: Scraped text in Turkish and Finnish to study tokenization in agglutinative languages. Evaluated using Word2Vec models and Named Entity Recognition sets.
+permalink: /projects/tokenizationtf/
 ---
 
-Testing testing 123
+content
