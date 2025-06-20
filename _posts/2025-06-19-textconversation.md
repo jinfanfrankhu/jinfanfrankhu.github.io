@@ -3,6 +3,7 @@ layout: post
 title: "3 Hours of Sleep: The Humble Text Message Conversation"
 date: 2025-06-19
 permalink: /posts/textconversation
+description: Jinfan Frank Hu reflects on texting and calling as communication methods.
 ---
 
 Disclaimer: I am operating on 3 hours of sleep. Forgive me if the writing quality is dookie buns.
