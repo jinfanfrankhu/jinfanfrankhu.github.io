@@ -2,6 +2,7 @@
 layout: post
 title: "Testing Post Features"
 date: 2025-06-16
+permalink: /posts/firstpost
 ---
 
 Testing, testing, 1-2-3

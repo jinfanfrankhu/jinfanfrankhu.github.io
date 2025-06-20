@@ -2,11 +2,12 @@
 layout: post
 title: "Reaction Coordinate Diagrams and What They Say About Living Life"
 date: 2025-06-20
+permalink: /posts/chemistryandlife
 ---
 
 So this year, I took Organic Chemistry, and if there's one fundamental concept or takeaway that I got from the class, it's the importance of Reaction Coordinate Diagrams. For those who are unfamiliar, here's a pic:
 
-![Reaction Coordinate Diagram Example]({{ "/images/ReactionCoordinateDiagram.png" | relative_url }})
+![Reaction Coordinate Diagram Example]({{ "/images/posts/ReactionCoordinateDiagram.png" | relative_url }})
 
 Basically, for any reactant to react, it has to have a certain activation energy. Usually, this activation energy comes in the form of heat or radiation. With enough energy, it overcomes the hump and usually goes to a lower energy state. That's how catalysts work: by turning a single reaction into a multi-step reaction, lowering that activation energy hump so things move along faster.
 
