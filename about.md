@@ -2,6 +2,7 @@
 layout: page
 title: Who is Frank?
 permalink: /about/
+description: Learn about who Jinfan Frank Hu is, when, where, and why he was born, and what he's allergic to. 
 ---
 
 <div class="about-container">
