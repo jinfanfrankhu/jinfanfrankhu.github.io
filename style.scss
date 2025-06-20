@@ -34,6 +34,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Times New Roman", Times, serif;
   color: $darkerGray;
   font-weight: bold;
+  text-align: center;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -333,6 +334,29 @@ ul.custom-post-list li {
 .project-divider {
   border: 1px solid #eee;
   margin: 40px 0;
+}
+
+.about-container {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.about-img {
+  width: 300px;
+  border-radius: 8px;
+}
+
+@media (max-width: 768px) {
+  .about-container {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .about-img {
+    width: 100%;
+    max-width: 300px;
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
