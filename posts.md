@@ -2,6 +2,7 @@
 layout: page
 title: Posts
 permalink: /posts/
+description: "Jinfan Frank Hu's posts and musings about whatever he's thinking about. Look out for philosophy, linguistics, and of course, cats."
 ---
 
 <ul class="custom-post-list">

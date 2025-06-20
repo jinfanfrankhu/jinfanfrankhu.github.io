@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
+description: "Jinfan Frank Hu's projects. Look out for computational linguistics and AI projects."
 ---
 
 <div class="projects-container">

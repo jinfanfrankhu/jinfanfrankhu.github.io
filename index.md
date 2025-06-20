@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Jinfan Frank Hu | Phillips Academy Andover | Linguistics & AI"
+description: "Welcome to the personal website of Jinfan Frank Hu, a student at Phillips Academy exploring computational linguistics, AI research, NLP projects, coding, language preservation, and occasional posts about cats, hockey, and cheese."
+---
+
 <div style="display: flex; align-items: center; gap: 30px;">
   <img src="/images/ProfilePhoto.jpg" alt="Profile photo" style="width: 180px; border-radius: 8px;">
   <div>
