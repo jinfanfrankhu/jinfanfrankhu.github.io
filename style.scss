@@ -289,17 +289,22 @@ ul.custom-post-list {
   padding-left: 0;
 }
 
-ul.custom-post-list li {
-  margin: 15px 0;
+.custom-post-list li {
+  margin-bottom: 20px;  /* add space between items */
   display: flex;
-  align-items: center;
+  align-items: flex-start;
 }
 
 .cat-bullet {
-  width: 32px;
+  width: 40px;
   height: auto;
   margin-right: 10px;
-  vertical-align: middle;
+}
+
+.post-content {
+  display: flex;
+  flex-direction: column;
+}
 }
 
 .projects-container {
