@@ -19,5 +19,3 @@ I'm  also extraordinarily allergic to dogs. As a kid, our family had two dogs, b
 ### Contact me
 
 [jinfanfrank@gmail.com](mailto:jinfanfrank@gmail.com)
-
-+1 (203) 219-7134
