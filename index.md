@@ -15,3 +15,5 @@ description: "Welcome to the personal website of Jinfan Frank Hu, a student at P
 I won't lie to you and tell you that I've got it all figured out, but I love making stuff, fixing problems, and understanding things. I also love my cats. Even if they're a little naughty. Or if they scratch me. (The black one is Mittens and the white one is Coco!)
 
 I've broken two bones (thanks hockey), I speak English, Mandarin, Spanish, and French decent enough (will still get yelled at by a Parisian though). 
+
+![Collage of Jinfan Frank Hu]( {{ "/images/ProfileCollage.jpg" | relative_url }} )
