@@ -363,6 +363,30 @@ ul.custom-post-list {
   }
 }
 
+.cat-toggle summary {
+  list-style: none;
+  cursor: pointer;
+  position: relative;
+  padding-left: 50px; /* leave some space for the icon */
+}
+
+.cat-toggle summary::before {
+  content: "";
+  background-image: url("/images/cat-closed.png");
+  background-size: contain; /* or 'cover', depending on your preference */
+  background-repeat: no-repeat;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 40px;
+  height: 40px;
+}
+
+.cat-toggle[open] summary::before {
+  background-image: url("/images/cat-open.png");
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
