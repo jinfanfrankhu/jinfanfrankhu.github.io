@@ -14,8 +14,8 @@ This is a 3d projection of 72,000 English words in Word2Vec. Every point represe
 
 TLDR: This is actually super relevant now, as this is an old model for how generative AI encodes words. AI models assign words large lists of numbers and do operations with those numbers to predict what to say. 
 
-<details id="catDetails">
-<img src="/images/cat-closed.png" id="catClosed" style="cursor: pointer;"><summary><strong>Click to expand a longer explanation.</strong></summary>
+<details>
+<img src="/images/cat-closed.png" style="cursor: pointer; display: block; margin: 0 auto;"><summary><strong>Click to expand a longer explanation.</strong></summary>
 
 <p>The idea behind Word2Vec is deceptively simple: words that appear in similar contexts tend to have similar meanings. Instead of trying to define what a word is, Word2Vec learns what words do based on how they behave and where they co-occur in real text. It slides a small window across text and learns to predict nearby words from a given word (or vice versa). Over time, it adjusts a set of numerical vectors so that words used in similar contexts end up with vectors that cluster together.</p>
 
@@ -25,6 +25,11 @@ TLDR: This is actually super relevant now, as this is an old model for how gener
 
 <p>So why does this matter for AI today? Modern large language models (LLMs) like GPT or Gemini are way more sophisticated than Word2Vec, but the core idea of representing words as vectors that encode meaning is still foundational.</p>
 
-<img src="/images/cat-open.png" id="catOpen" style="cursor: pointer;">
+<img src="/images/cat-open.png" style="display: block; margin: 0 auto;">
 
 </details>
+
+#### Ok, cool. So what does this have to do with Turkish and Finnish? 
+
+TLDR: Turkish and Finnish build words by using lots of suffixes, and sometimes it's more efficient for AI's to break up words into smaller tokens (tokenization) to better understand the text.
+
