@@ -36,12 +36,12 @@ TLDR: Turkish and Finnish build words by using lots of suffixes, and sometimes i
 <details>
 <img src="/images/cat-closed.png" style="cursor: pointer; display: block; margin: 0 auto;"><summary><strong>Click to expand a longer explanation.</strong></summary>
 
-While English typically forms meaning through relatively short, separate words, Turkish and Finnish are highly agglutinative languages: they build words by attaching multiple suffixes to a root, sometimes stacking many layers of grammatical information into a single long word. This creates challenges for language models. If you tokenize purely at the word level, many unique word forms appear extremely rare or entirely unseen in training data, even though the underlying root or morphemes are quite common.
+<p>While English typically forms meaning through relatively short, separate words, Turkish and Finnish are highly agglutinative languages: they build words by attaching multiple suffixes to a root, sometimes stacking many layers of grammatical information into a single long word. This creates challenges for language models. If you tokenize purely at the word level, many unique word forms appear extremely rare or entirely unseen in training data, even though the underlying root or morphemes are quite common.</P>
 
-"Evlerimizde" = "In our houses"
-"ev" = house, "ler" = plural, "imiz" = our, and "de" = in
+<p>"Evlerimizde" = "In our houses"</p>
+<p>"ev" = house, "ler" = plural, "imiz" = our, and "de" = in</p>
 
-By breaking words into smaller subword units, models can better generalize across these variants. Going back to Word2Vec and other similar embedding models, all of these systems are heavily affected by tokenization because the "units" they learn from depend on how the text is split. In agglutinative languages like Turkish and Finnish, thoughtful tokenization = robust representation of morphemes (prefixes, suffixes, infixes, and roots) rather than treating each agglutination as an entirely independent word. 
+<p>By breaking words into smaller subword units, models can better generalize across these variants. Going back to Word2Vec and other similar embedding models, all of these systems are heavily affected by tokenization because the "units" they learn from depend on how the text is split. In agglutinative languages like Turkish and Finnish, thoughtful tokenization = robust representation of morphemes (prefixes, suffixes, infixes, and roots) rather than treating each agglutination as an entirely independent word.</p>
 
 <img src="/images/cat-open.png" style="display: block; margin: 0 auto;">
 
