@@ -5,7 +5,6 @@ description: "Welcome to the personal website of Jinfan Frank Hu, a student at P
 ---
 
 <div style="display: flex; align-items: center; gap: 30px;">
-  <img src="/images/ProfilePhoto.jpg" alt="Profile photo" style="width: 180px; border-radius: 8px;">
   <div>
     <h1>Hi. My name is Jinfan Frank Hu. Welcome to my website!</h1>
     <p>I’m a senior at Phillips Academy Andover exploring language and AI.</p>
