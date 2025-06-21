@@ -21,7 +21,7 @@ TLDR: This is actually super relevant now, as this is an old model for how gener
 
 <p>This process turns language into geometry. Words that appear in similar contexts often land near each other in the high-dimensional space, because they share linguistic environments, and therefore, meanings. More impressively, Word2Vec captures relationships as directions: the famous example is that the vector difference between <em>king</em> and <em>queen</em> roughly matches the difference between <em>man</em> and <em>woman</em>.</p>
 
-<p><img src="{{ '/images/projects/tokenizationtf/VectorDifference.png' | relative_url }}" alt="Vector difference between uncle, aunt, man, and woman" style="display: block; margin: 0 auto;"></p>
+<p><img src="{{ '/images/projects/tokenizationtf/VectorDifference.png' | relative_url }}" alt="Vector difference between uncle, aunt, man, and woman" style="display: block; margin: 20px auto; max-width: 100%; height: auto;"></p>
 
 <p>So why does this matter for AI today? Modern large language models (LLMs) like GPT or Gemini are way more sophisticated than Word2Vec, but the core idea of representing words as vectors that encode meaning is still foundational.</p>
 
