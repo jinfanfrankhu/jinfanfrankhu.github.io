@@ -15,7 +15,7 @@ This is a 3d projection of 72,000 English words in Word2Vec. Every point represe
 TLDR: This is actually super relevant now, as this is an old model for how generative AI encodes words. AI models assign words large lists of numbers and do operations with those numbers to predict what to say. 
 
 <details>
-<summary>Click to expand a longer explanation.</summary>
+<summary class="cat-toggle"><strong>Click to expand a longer explanation.</strong></summary>
 
 <p>The idea behind Word2Vec is deceptively simple: words that appear in similar contexts tend to have similar meanings. Instead of trying to define what a word is, Word2Vec learns what words do based on how they behave and where they co-occur in real text. It slides a small window across text and learns to predict nearby words from a given word (or vice versa). Over time, it adjusts a set of numerical vectors so that words used in similar contexts end up with vectors that cluster together.</p>
 
