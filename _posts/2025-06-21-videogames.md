@@ -6,7 +6,7 @@ permalink: /posts/videogames
 description: Jinfan Frank Hu talks about Scarcity Mindset and why he's so bad at video games.
 ---
 
-This is day 1 of journalling with a prompt. Today's prompt: 
+This is day 1 of journaling with Selena. Today's prompt: 
 
 ***What have you unlearned recently?***
 
