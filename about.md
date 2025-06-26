@@ -16,7 +16,12 @@ description: Learn about who Jinfan Frank Hu is, when, where, and why he was bor
 
 I'm  also extraordinarily allergic to dogs. As a kid, our family had two dogs, both very cute. I'd spend hours snuggled up next to them, rubbing my face in their fur and wondering, *hey,  why can't I breathe out of my nose?* Waking up congested and choking, I genuinely thought I had tuberculosis or something. I found out that I was allergic when I was ten, three years after our last dog passed away. It's funny though, just like how lactose intolerant people seem to love dairy the most, I really, *really*, like dogs. And cats. Even though I'm allergic to them too. 
 
+<div style="flex-shrink: 0;">
+  <img src="{{ '/images/ProfileCollage.jpg' | relative_url }}" alt="Collage of Jinfan Frank Hu" style="object-fit: cover; border-radius: 12px;">
+</div>
 
 ### Contact me
 
 [jinfanfrank@gmail.com](mailto:jinfanfrank@gmail.com)
+
+<a href=instagram.com/frankly.hu>@frankly.hu</a>
