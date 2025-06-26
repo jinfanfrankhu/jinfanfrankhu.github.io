@@ -7,7 +7,7 @@ description: Learn about who Jinfan Frank Hu is, when, where, and why he was bor
 
 <div class="about-container">
   <div class="about-text">
-    <p>I was born 4 days early on December 30, 2007. My mom told me it was so I'd be marked as a dependent on her taxes that year, saving her a cool $10k. In the Stamford Hospital, I was christened Jinfan Frank Hu (胡近凡), meaning Close To Ordinary. Or Close To Mundane. Or Close To Whatever. I know, I know, what a cruel joke. </p>
+    <p>I was born 4 days early on December 30, 2007. My mom told me it was so I'd be marked as a dependent on her taxes that year, saving her a cool $10k. In the Stamford Hospital, I was christened Jinfan Frank Hu (胡近凡), meaning Close To Ordinary. Or Close To Mundane. Or Close To Whatever. I know, I know, what a cruel joke.</p>
     
     <p>Don't worry though, they thought the name through. They weren't calling me a 凡人 (commoner), they named me Jinfan because they hoped I'd aspire to be ordinary. A.K.A, I was born extraordinary. A.K.A, I'm <strong>built different</strong>. And, you know, it's easy to say that you're built different when you beat someone in a 1on1 in hockey, but it's real difficult to say that you're built different when your eye prescription is -475 in both eyes. Yup, I'm extraordinarily nearsighted. </p>
   </div>

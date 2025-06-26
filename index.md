@@ -17,3 +17,4 @@ I won't lie to you and tell you that I've got it all figured out, but I love mak
 I've broken two bones (thanks hockey), I speak English, Mandarin, Spanish, and French decent enough (will still get yelled at by a Parisian though). 
 
 ![Collage of Jinfan Frank Hu]( {{ "/images/ProfileCollage.jpg" | relative_url }} )
+
