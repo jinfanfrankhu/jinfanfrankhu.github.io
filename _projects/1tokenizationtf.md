@@ -74,3 +74,62 @@ TLDR: I used character-level segmentation, character n-grams, word level, and By
 
 TLDR: You can easily scrape Wikipedia articles in both Turkish and Finnish, and you can train a simple model on the Word2Vec models to do something called Named Entity Recognition (NER). I used the accuracy on NER to compare efficacy.
 
+<details>
+<img src="/images/cat-closed.png" style="display: block; margin: 0 auto;"><summary><strong>Click to expand a longer explanation.</strong></summary>
+
+<p>So you can pretty much download all wikipedia content in a certain language, for Turkish I got an xml file that was like 8 gigabytes, for Finnish 6 gigs. After that, I just ran a thing to convert it to a .json (a file format more familiar to me).  Since this is aimed at low-resource language tokenization, I chose to only take 10,000 articles / messages from the json. Badabing, badaboom, my data was ready.</p>
+
+<p>So from there, I downloaded some conll files, and they're basically files built for named entity recognition (NER). An example sentence from NER is as follows:</p>
+
+<div style="display: flex; justify-content: center; gap: 12px; margin-top: 20px;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <span>The</span>
+    <span style="color: gray;">O</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <span>Mona</span>
+    <span style="color: gray;">B-ART</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <span>Lisa</span>
+    <span style="color: gray;">I-ART</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <span>is</span>
+    <span style="color: gray;">O</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <span>housed</span>
+    <span style="color: gray;">O</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <span>in</span>
+    <span style="color: gray;">O</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <span>Paris</span>
+    <span style="color: gray;">B-LOC</span>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <span>France</span>
+    <span style="color: gray;">I-LOC</span>
+  </div>
+</div>
+
+<p></p>
+
+<p>So now an explanation: O indicates that the word doesn't mark an entity. The prefix B- indicates the start of an entity, and I- indicates a continuation of said entity. So for "Mona Lisa", Mona would be B-ART, while Lisa would be I-ART. Likewise, "Paris, France" represents a single location, with Paris marking the beginning of the location.</p>
+
+<p>NER is commonly used as an evaluation method because it's a well defined labelling problem that won't cause any ambiguity while solving, and it's useful as a downstream task benchmark. For example, "Washington" could be both a location or a person, and it tests the model's ability to contextualize words to figure out which is which. It also tests syntactic and semantic understanding.</p>
+
+<p>Using our conll files, we had thousands of sentences to train another model. First, we'd load the word2vec model from each tokenization strategy to convert the words into embeddings (the vectors I showed from before). Next, using training conlls, our NER model learned which words were what entity and learned to generalize using context too. Finally, it was evaluated on a testing set of conlls, which gave us accuracies for each model.</p>
+
+<img src="/images/cat-open.png" style="display: block; margin: 0 auto;">
+
+</details>
+
+#### So... what were the results? What did you find?
+
+TLDR: Word-level lowkey blew all other strategies out of the water. The best one that came close was BPE50k, which makes sense, as at that vocabulary size, it was probably approaching word-level tokenization anyways. 
+
+For more details, check out <a href="/images/projects/tokenization/paper.pdf" target="_blank">my paper!</a> It's been indexed into <a href="https://ieeexplore.ieee.org/Xplore/home.jsp">IEEE Xplore</a> and I'm presenting at the <a href="https://acdsa.org/home">International Conference on Artificial Intelligence, Computer, Data Sciences and Applications.</a>
