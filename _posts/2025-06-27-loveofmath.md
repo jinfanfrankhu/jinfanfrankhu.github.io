@@ -39,3 +39,5 @@ To my grandparents 12 years ago: I still know my times tables better in Chinese.
 To my mom 12 years ago: I remember being wrapped in a towel on your bed, shivering from the cold air after a shower, still doing subtraction in my head: 一百二十一减去六十七... I have an answer for you now. Fifty four. 
 
 And finally, to myself in 5 years: I hope you not only continue liking math, but that you learn to love math as I once did. 
+
+![Frank Hu Math Kangaroo Shirt 2018]({{ "/images/posts/MathKangarooShirt.jpg" | relative_url }})
