@@ -64,7 +64,7 @@ TLDR: I used character-level segmentation, character n-grams, word level, and By
 
 <p>And now, for the fun part: BPE. BPE was the gold standard for tokenization strategies until about 2021, when other strategies such as BERT, ULM, byte-level BPE, etc. have marginally improved over BPE. What BPE does is it starts with character level tokenization. So for example, if I'm dealing with text with the English alphabet + commas + periods, my text will have a vocabulary size of 28 tokens. Next, we merge the most common pair.</p>
 
-<p>For example, “abcbabcbab” would be merged as follows: "a” + “b” = “ab”  “c” + “b” = “cb”  “ab” + “cb” = “abcb”, and so on. In a real corpus of text, there'll obviously be a ton of different merges, which organically begins to approximate prefixes, suffixes, and full root words.</p>
+<p>For example, “abcbabcbab” would be merged as follows: "a” + “b” = “ab” --> “c” + “b” = “cb” --> “ab” + “cb” = “abcb”, and so on. In a real corpus of text, there'll obviously be a ton of different merges, which organically begins to approximate prefixes, suffixes, and full root words.</p>
 
 <img src="/images/cat-open.png" style="display: block; margin: 0 auto;">
 
@@ -132,4 +132,4 @@ TLDR: You can easily scrape Wikipedia articles in both Turkish and Finnish, and 
 
 TLDR: Word-level lowkey blew all other strategies out of the water. The best one that came close was BPE50k, which makes sense, as at that vocabulary size, it was probably approaching word-level tokenization anyways. 
 
-For more details, check out <a href="/images/projects/tokenization/paper.pdf" target="_blank">my paper!</a> It's been indexed into <a href="https://ieeexplore.ieee.org/Xplore/home.jsp">IEEE Xplore</a> and I'm presenting at the <a href="https://acdsa.org/home">International Conference on Artificial Intelligence, Computer, Data Sciences and Applications.</a>
+For more details, check out <a href="{{ site.baseurl }}/files/paper.pdf" target="_blank">my paper!</a> It's been indexed into <a href="https://ieeexplore.ieee.org/Xplore/home.jsp">IEEE Xplore</a> and I'm presenting at the <a href="https://acdsa.org/home">International Conference on Artificial Intelligence, Computer, Data Sciences and Applications.</a>
