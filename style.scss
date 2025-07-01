@@ -376,7 +376,11 @@ ul.custom-post-list {
 .tag-hub {
   
   // Tag Buttons Section
-  #tag-buttons {
+    #tag-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* this centers items on each row */
+    gap: 8px 10px; /* vertical and horizontal spacing between buttons */
     margin-bottom: 1em;
 
     button {
@@ -385,7 +389,6 @@ ul.custom-post-list {
       border: 1px solid #d4a373;
       border-radius: 6px;
       padding: 6px 12px;
-      margin: 4px 6px 4px 0;
       font-family: Georgia, serif;
       font-size: 0.95em;
       cursor: pointer;
@@ -399,7 +402,6 @@ ul.custom-post-list {
       &.active {
         background-color: #c97b32;
         color: white;
-        font-weight: bold;
         border-color: #a55a1c;
       }
     }

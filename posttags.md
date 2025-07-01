@@ -34,12 +34,12 @@ posts.forEach(post => {
 // STEP 3: Create sorted tag buttons
 const tagButtonsDiv = document.getElementById('tag-buttons');
 const sortedTags = Object.keys(tagCounts).sort((a, b) => tagCounts[b] - tagCounts[a]);
-
+/***
 const allButton = document.createElement('button');
 allButton.innerText = 'All';
 allButton.dataset.tag = 'all';
 tagButtonsDiv.appendChild(allButton);
-
+***/
 sortedTags.forEach(tag => {
   const btn = document.createElement('button');
   btn.innerText = `${tag} (${tagCounts[tag]})`;
