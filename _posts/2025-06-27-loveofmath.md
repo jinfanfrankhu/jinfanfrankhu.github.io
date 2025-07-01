@@ -4,6 +4,10 @@ title: "Day 7: An Open Secret I've Come to Accept: I Like Math"
 date: 2025-06-28
 permalink: /posts/math
 description: Frank Hu talks about his love for math and his struggles he's had with it. 
+tags:
+  - deep
+  - family
+  - academic
 ---
 
 This is day 7 of journaling with Selena. Today's prompt: 
