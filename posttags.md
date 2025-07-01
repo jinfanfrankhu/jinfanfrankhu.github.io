@@ -3,11 +3,13 @@ layout: page
 title: Post Tags
 permalink: /posttags/
 ---
-<!-- Tag buttons will go here -->
-<div id="tag-buttons"></div>
+<div class="tag-hub">
+   <!-- Tag buttons will go here -->
+   <div id="tag-buttons"></div>
 
-<!-- Posts will go here -->
-<ul id="tagged-posts"></ul>
+  <!-- Posts will go here -->
+  <ul id="tagged-posts"></ul>
+</div>
 
 <script>
 // STEP 1: Generate posts data from Jekyll
@@ -49,17 +51,39 @@ sortedTags.forEach(tag => {
 const postsList = document.getElementById('tagged-posts');
 function renderPosts(filterTag = 'all') {
   postsList.innerHTML = '';
+  let index = 0;
   posts.forEach(post => {
     if (filterTag === 'all' || post.tags.includes(filterTag)) {
+      index++;
+      const catIndex = (index - 1) % 4 + 1;
+
       const li = document.createElement('li');
+      li.classList.add('custom-post-item');
+
+      // Create cat bullet image
+      const img = document.createElement('img');
+      img.src = `/images/cat${catIndex}.png`;
+      img.alt = `cat ${catIndex}`;
+      img.className = 'cat-bullet';
+
+      // Create post link
       const a = document.createElement('a');
       a.href = post.url;
-      a.textContent = post.title;
-      li.appendChild(a);
+      a.innerHTML = `<strong>${post.title}</strong>`;
+
+      // Wrap in post content div
+      const div = document.createElement('div');
+      div.className = 'post-content';
+      div.appendChild(a);
+
+      // Combine all
+      li.appendChild(img);
+      li.appendChild(div);
       postsList.appendChild(li);
     }
   });
 }
+
 renderPosts(); // Show all by default
 
 // STEP 5: Hook up button filtering
