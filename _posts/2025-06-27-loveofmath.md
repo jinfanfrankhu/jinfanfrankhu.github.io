@@ -8,12 +8,6 @@ tags:
   - "Deep Dives"
   - "Family"
   - "Academic"
-  - "ADLKFJSDLKJFKLSDJFLKSDJ"
-  - "SDLFJDSKLFJSDLFKSDFSD"
-  - ")(SUDFDS)"
-  - "SDLFKJSDKLFJCXCVCX"
-  - "WHLDKJFLKDSJ"
-  - "SDOIFHDS"
 ---
 
 This is day 7 of journaling with Selena. Today's prompt: 

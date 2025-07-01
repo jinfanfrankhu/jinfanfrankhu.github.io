@@ -12,7 +12,7 @@ permalink: /posttags/
 </div>
 
 <script>
-// STEP 1: Generate posts data from Jekyll
+// Generate posts data from Jekyll
 const posts = [
   {% for post in site.posts %}
     {
@@ -23,7 +23,7 @@ const posts = [
   {% endfor %}
 ];
 
-// STEP 2: Count tag frequencies
+// Count tag frequencies
 const tagCounts = {};
 posts.forEach(post => {
   post.tags.forEach(tag => {
@@ -31,7 +31,7 @@ posts.forEach(post => {
   });
 });
 
-// STEP 3: Create sorted tag buttons
+// Create sorted tag buttons
 const tagButtonsDiv = document.getElementById('tag-buttons');
 const sortedTags = Object.keys(tagCounts).sort((a, b) => tagCounts[b] - tagCounts[a]);
 /***
@@ -47,13 +47,13 @@ sortedTags.forEach(tag => {
   tagButtonsDiv.appendChild(btn);
 });
 
-// STEP 4: Render all posts
+// Render all posts
 const postsList = document.getElementById('tagged-posts');
-function renderPosts(filterTag = 'all') {
+function renderPosts(filterTag = null) {
   postsList.innerHTML = '';
   let index = 0;
   posts.forEach(post => {
-    if (filterTag === 'all' || post.tags.includes(filterTag)) {
+    if (!filterTag || post.tags.includes(filterTag)) {
       index++;
       const catIndex = (index - 1) % 4 + 1;
 
@@ -86,7 +86,18 @@ function renderPosts(filterTag = 'all') {
 
 renderPosts(); // Show all by default
 
-// STEP 5: Hook up button filtering with active styling
+// Check URL for ?tag=XYZ and trigger button
+const urlParams = new URLSearchParams(window.location.search);
+const defaultTag = urlParams.get('tag');
+if (defaultTag) {
+  const match = Array.from(tagButtonsDiv.children).find(btn => btn.dataset.tag === defaultTag);
+  if (match) {
+    match.classList.add('active');
+    renderPosts(defaultTag);
+  }
+}
+
+// Hook up button filtering with active styling
 tagButtonsDiv.addEventListener('click', e => {
   if (e.target.tagName === 'BUTTON') {
     // remove active class from all buttons
