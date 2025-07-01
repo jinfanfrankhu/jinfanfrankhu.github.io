@@ -5,6 +5,8 @@ permalink: /posts/
 description: "Jinfan Frank Hu's posts and musings about whatever he's thinking about. Look out for philosophy, linguistics, and of course, cats."
 ---
 
+See all posts <a href="/allposts/">here,</a> or sort them by tags <a href="/posttags/">here</a></p>
+
 <h2>Deep Dives</h2>
 <ul class="custom-post-list">
   {% assign deep_posts = site.posts | where_exp: "post", "post.tags contains 'deep'" | slice: 0, 5 %}
@@ -19,7 +21,6 @@ description: "Jinfan Frank Hu's posts and musings about whatever he's thinking a
     </li>
   {% endfor %}
 </ul>
-<!-- <a href="/posts/deep">See all Deep Cuts →</a>>
 
 <br><br>
 
@@ -37,4 +38,3 @@ description: "Jinfan Frank Hu's posts and musings about whatever he's thinking a
     </li>
   {% endfor %}
 </ul>
-<!-- <a href="/posts/joy">See all Little Joys →</a>>
