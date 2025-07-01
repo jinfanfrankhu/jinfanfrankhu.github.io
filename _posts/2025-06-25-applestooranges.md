@@ -5,9 +5,9 @@ date: 2025-06-25
 permalink: /posts/translating
 description: Frank Hu translates for his grandparents at the doctor's office and what it has to do with apples and oranges.
 tags:
-  - deep
-  - language
-  - family
+  - "Deep Dives"
+  - "Language"
+  - "Family"
 ---
 
 This is day 5 of journaling with Selena. Today's <a href="https://collegeadmissions.uchicago.edu/apply/essay/">prompt</a>: 

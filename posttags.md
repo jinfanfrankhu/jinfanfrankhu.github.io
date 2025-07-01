@@ -3,9 +3,6 @@ layout: page
 title: Post Tags
 permalink: /posttags/
 ---
-
-<h1>Browse by Tag</h1>
-
 <!-- Tag buttons will go here -->
 <div id="tag-buttons"></div>
 

@@ -5,8 +5,8 @@ date: 2025-06-19
 permalink: /posts/textconversation
 description: Jinfan Frank Hu reflects on texting and calling as communication methods.
 tags:
-  - little
-  - friends
+  - "Little Things"
+  - "Friends"
 ---
 
 Disclaimer: I am operating on 3 hours of sleep. Forgive me if the writing quality is dookie buns.

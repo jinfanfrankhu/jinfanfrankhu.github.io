@@ -5,8 +5,8 @@ date: 2025-06-21
 permalink: /posts/videogames
 description: Jinfan Frank Hu talks about Scarcity Mindset and why he's so bad at video games.
 tags:
-  - deep
-  - family
+  - "Deep Dives"
+  - "Family"
 ---
 
 This is day 1 of journaling with Selena. Today's prompt: 

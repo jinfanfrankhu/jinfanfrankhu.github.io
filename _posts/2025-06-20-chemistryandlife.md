@@ -5,8 +5,8 @@ date: 2025-06-20
 permalink: /posts/chemistryandlife
 description: Jinfan Frank Hu applies his chemistry knowledge as a mantra to live your life.
 tags:
-  - deep
-  - academic
+  - "Deep Dives"
+  - "Academic"
 ---
 
 So this year, I took Organic Chemistry, and if there's one fundamental concept or takeaway that I got from the class, it's the importance of Reaction Coordinate Diagrams. For those who are unfamiliar, here's a pic:
