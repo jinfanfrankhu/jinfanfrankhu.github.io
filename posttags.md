@@ -86,10 +86,20 @@ function renderPosts(filterTag = 'all') {
 
 renderPosts(); // Show all by default
 
-// STEP 5: Hook up button filtering
+// STEP 5: Hook up button filtering with active styling
 tagButtonsDiv.addEventListener('click', e => {
   if (e.target.tagName === 'BUTTON') {
+    // remove active class from all buttons
+    document.querySelectorAll('#tag-buttons button').forEach(btn => {
+      btn.classList.remove('active');
+    });
+
+    // add active to clicked one
+    e.target.classList.add('active');
+
+    // render posts
     renderPosts(e.target.dataset.tag);
   }
 });
+
 </script>
