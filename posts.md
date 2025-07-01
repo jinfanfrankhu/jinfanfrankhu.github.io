@@ -9,7 +9,7 @@ See all posts <a href="/allposts/">here,</a> or sort them by tags <a href="/post
 
 <h2>Deep Dives</h2>
 <ul class="custom-post-list">
-  {% assign deep_posts = site.posts | where_exp: "post", "post.tags contains 'deep'" | slice: 0, 5 %}
+  {% assign deep_posts = site.posts | where_exp: "post", "post.tags contains 'Deep Dives'" | slice: 0, 5 %}
   {% for post in deep_posts %}
     {% assign cat_index = forloop.index0 | modulo: 4 | plus: 1 %}
     <li>
@@ -26,7 +26,7 @@ See all posts <a href="/allposts/">here,</a> or sort them by tags <a href="/post
 
 <h2>The Little Things</h2>
 <ul class="custom-post-list">
-  {% assign joy_posts = site.posts | where_exp: "post", "post.tags contains 'little'" | slice: 0, 5 %}
+  {% assign joy_posts = site.posts | where_exp: "post", "post.tags contains 'Little Things'" | slice: 0, 5 %}
   {% for post in joy_posts %}
     {% assign cat_index = forloop.index0 | modulo: 4 | plus: 1 %}
     <li>

@@ -5,7 +5,7 @@ date: 2025-06-28
 permalink: /posts/math
 description: Frank Hu talks about his love for math and his struggles he's had with it. 
 tags:
-  - "Deep"
+  - "Deep Dives"
   - "Family"
   - "Academic"
   - "ADLKFJSDLKJFKLSDJFLKSDJ"
