@@ -11,7 +11,9 @@ tags:
   - "My Favorites"
 ---
 
-The format for this post was inspired by <a href="https://mitadmissions.org/blogs/entry/king-of-boston-king-of-the-world/">The King of Boston</a>. What a goated post. Please check it out.
+This is day 8 of journalling with Selena. There is no prompt.
+
+The format for this post was inspired by <a href="https://mitadmissions.org/blogs/entry/king-of-boston-king-of-the-world/">The King of Boston</a>. Genuinely an amazing read, please check it out.
 
 <b>i. undocumented creature</b>
 
