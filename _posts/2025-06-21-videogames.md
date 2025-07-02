@@ -2,7 +2,7 @@
 layout: post
 title: "Day 1: Video Games and Scarcity Mindset"
 date: 2025-06-21
-permalink: /posts/videogames
+permalink: /posts/video-games
 description: Jinfan Frank Hu talks about Scarcity Mindset and why he's so bad at video games.
 tags:
   - "Deep Dives"

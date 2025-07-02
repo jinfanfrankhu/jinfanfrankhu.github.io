@@ -2,7 +2,7 @@
 layout: post
 title: "3 Hours of Sleep: The Humble Text Message Conversation"
 date: 2025-06-19
-permalink: /posts/textconversation
+permalink: /posts/text-conversation
 description: Jinfan Frank Hu reflects on texting and calling as communication methods.
 tags:
   - "Little Things"
