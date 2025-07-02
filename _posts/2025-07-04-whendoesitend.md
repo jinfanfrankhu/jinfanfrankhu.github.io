@@ -142,3 +142,5 @@ Which pierces so that it assaults
 Mercy itself, and frees all faults.  
 As you from crimes would pardoned be,  
 Let your indulgence set me free.  
+
+![Let me keep going.]({{ "/images/posts/letmeplease.jpg" | relative_url }})
