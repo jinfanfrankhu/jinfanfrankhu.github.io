@@ -9,6 +9,7 @@ tags:
   - "Family"
   - "Academic"
   - "My Favorites"
+  - "Andover
 ---
 
 This is day 8 of journalling with Selena. There is no prompt.
@@ -116,7 +117,9 @@ But even in death, his words are not final. We read his works through post colon
 
 Maybe nothing is ever final. Maybe through the right eyes and the right mind, we'll all be reinterpreted. And maybe they'll get us way wrong. 
 
-Maybe there's freedom in not lasting forever. But while I still can, please, hand me the pen, the photoshop, the edit button. I want to write my own story, leave my own mark, and deliver my last monologue before I give it to you to have.
+Maybe there's freedom in not lasting forever. But while I still can, please, hand me the pen, the photoshop, the edit button. 
+
+I want to write my own story, leave my own mark, and deliver my last monologue before it's no longer mine to have.
 
 <hr class="project-divider">
 
