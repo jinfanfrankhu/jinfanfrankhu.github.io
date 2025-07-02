@@ -9,7 +9,7 @@ tags:
   - "Family"
   - "Academic"
   - "My Favorites"
-  - "Andover
+  - "Andover"
 ---
 
 This is day 8 of journalling with Selena. There is no prompt.
