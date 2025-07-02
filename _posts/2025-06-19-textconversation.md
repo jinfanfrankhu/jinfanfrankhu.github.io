@@ -9,12 +9,12 @@ tags:
   - "Friends"
 ---
 
-Disclaimer: I am operating on 3 hours of sleep. Forgive me if the writing quality is dookie buns.
+Last night, I practically pulled an all nighter. I slept at 7am after a lovely conversation with a friend on text  (and got up at 10). From a purely technical view, texting seems colder than calling: no voice, no intonation, no prosody. But paradoxically, I find texting far more intimate.
 
-Last night, I practically pulled an all nighter. I slept at 7am after a lovely conversation with a friend on text. From a purely technical view, texting seems colder than calling: no voice, no intonation, no prosody. But paradoxically, I find texting far more intimate.
+Calls move fast. I'd know from my linguistics work -- I talk at a comfortable 160 wpm, yet I type painfully slow (damn you <a href="https://www.fon.hum.uva.nl/praat/">praat!!</a> And since they move so fast, sometimes I feel suffocated. Awkward silences loom when there's nothing left to say. Distractions often pull me away too. I've had too many study facetimes that turn into the caller and I listening to eachothers keyboards clacking, with an occasional observation that injects a quick 30 minute conversation island in a sea of static. 
 
-Calls demand constant attention. Without it, awkward silences loom. Distractions often pull me away too. But texts are different. Every message is deliberate, written, erased, rewritte, then finally sent. And the act of sending feels both vulnerable and freeing.
+Texts are different. Every message is deliberate, written, erased, rewritten, then finally sent. And the act of sending feels both vulnerable and freeing. I could swipe away, scroll insta reels, and disappear from the conversation with nothing more than a read receipt. Unlike calling, I don't have to say my goodbyes and hit the "End Call" button. I'm free to operate at my own pace, and my conversation partner can too. The conversation only continues if both sides *want* it to. 
 
-Unlike calls, texting allows escape. I can swipe away, scroll insta reels, and disappear from the conversation with nothing more than a read receipt. My conversation partner can too. That's what makes it special. The conversation only continues if both sides *want* it to. So when I see the "..." bubble appear, disappear, and finally return as a message, I smile. Because they didn't have to keep talking if they didn't want to, but they chose to. 
+Sometimes, I'm paralyzed by calls. I can't find the right words, and in fear of saying the wrong ones, I gasp like a fish, uhming and stuttering my way to an exasperated "I don't know how to put it into words!" Likewise, when typing, I'm keenly aware of my "..." bubble appearing, disappearing, and bobbing up and down, as if it were saying, "He's thinking, he's going to get back to you. Give him a second and he'll have the words." Especially when conversations feel like minefields, where one wrong word will send both my conversation partner and I blasting sky-high to misunderstanding, hurt feelings, or silence, I feel safe with my text-message bomb squad. And sometimes, when a pair of eyes aren't searching my face for answers, when the bubble becomes a shield that gives you room to breathe, I feel confident I can get it right, that I'll cut the right wire.
 
-We are so goated twin.
+Likewise, when I see the "..." bubble flutter on my screen, I can't help but smile. After all, it's just code for: *I'm still thinking about you.*
