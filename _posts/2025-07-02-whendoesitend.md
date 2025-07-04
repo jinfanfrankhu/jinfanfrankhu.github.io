@@ -15,6 +15,7 @@ tags:
 This is day 8 of journalling with Selena. There is no prompt.
 
 The format for this post was inspired by <a href="https://mitadmissions.org/blogs/entry/king-of-boston-king-of-the-world/">The King of Boston</a>. Genuinely an amazing read, please check it out.
+<br><br>
 
 <b>i. undocumented creature</b>
 
@@ -25,6 +26,7 @@ After the reset, my phone now holds 3,906 items in my camera roll as of today. I
 I didn't like sitting still, didn't like posing. I'd tug at my face in response to "picture" or "photo" or "照片." Relatives would make that familiar smacking *ntsssch* sound with their tongue when they saw the faces I made in the photo. I'd do anything to screw up being captured. Bunny ears, waving my hands til they became a beige blur, anything to avoid the cage of my mom's facebook posts or my grandparent's WeChat 朋友圈. The more I did, the more they wanted to freeze it. Prove it. Post it.
 
 Of the six photos I have, I find it hard to reconcile that they were once me. I still express surprise when my elementary school classmates and teachers recognize me. I don't know what's more jarring -- the fact that they recognize me, or the fact that I don't. I look at the photo, and my uncanny valley twin stares back with his eyes that reveal nothing. Someone I used to know, whose name I'd long forgotten. 
+<br><br>
 
 <b>ii. hot potato, hot potato, we've got the hot potato</b>
 
@@ -46,6 +48,7 @@ So what? I still thought that everyone automatically lived to 100 years old, and
 
 Some quick mental calculations confirmed that he'd be 99 years old by the time 2075 rolled around. *Fine*, I thought. *It's no different from the sun's explosion not mattering."*
 
+<br><br>
 <b>iii. when i go</b>
 
 On the four hour drive back from school, I sat in silence, cruising down the I-95. Again, my dad snapped me out of my reverie.
@@ -78,6 +81,7 @@ Her bathroom faucet dripped, no matter how hard I tried to tighten it. Likewise,
 
 She is not yet dead.
 
+<br><br>
 <b>iv. history 300</b>
 
 I was told to take history 300 senior year, but I decided to stick it out upper year. When my mom found out, she called me, incredulous. She said I'd regret it, that it'd take up too much time, and that I should be focusing on science or whatever it was that would make my transcript actually strong. I didn't listen, and I didn't have a good reason as to why I didn't, just that it felt weird to push it back. 
@@ -94,6 +98,7 @@ At the end of each term, we'd gather all our PSSRs and mark them up, writing ref
 
 And so now I fear something else, more than just hitting "publish" or typing "git push" in the command line. I fear never being finished.
 
+<br><br>
 <b>v. even in death</b>
 
 *"Be cheerful, sir.*  
