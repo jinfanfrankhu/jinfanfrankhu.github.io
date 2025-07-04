@@ -3,7 +3,7 @@ layout: post
 title: "Day 5: Apples, Oranges, and Cataracts"
 date: 2025-06-25
 permalink: /posts/translating
-description: Frank Hu translates for his grandparents at the doctor's office and what it has to do with apples and oranges.
+description: "Frank Hu translates for his grandparents at the doctor's office and what it has to do with apples and oranges."
 tags:
   - "Deep Dives"
   - "Language"
