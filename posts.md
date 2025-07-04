@@ -5,7 +5,7 @@ permalink: /posts/
 description: "Jinfan Frank Hu's posts and musings about whatever he's thinking about. Look out for philosophy, linguistics, and of course, cats."
 ---
 
-See all posts <a href="/allposts/">here,</a> or sort them by tags <a href="/posttags/">here!</a>
+See all posts and sort them by tags <a href="/posttags/">here!</a>
 
 <h2>Deep Dives</h2>
 <ul class="custom-post-list">
