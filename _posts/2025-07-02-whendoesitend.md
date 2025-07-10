@@ -14,7 +14,7 @@ tags:
 
 This is day 8 of journalling with Selena. There is no prompt.
 
-The format for this post was inspired by <a href="https://mitadmissions.org/blogs/entry/king-of-boston-king-of-the-world/", target="_blank">The King of Boston</a>. Genuinely an amazing read, please check it out.
+The format for this post was inspired by <a href="https://mitadmissions.org/blogs/entry/king-of-boston-king-of-the-world/" target="_blank">The King of Boston</a>. Genuinely an amazing read, please check it out.
 <br><br>
 
 <b>i. undocumented creature</b>
