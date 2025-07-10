@@ -5,7 +5,7 @@ date: 2025-06-20
 permalink: /posts/chemistry-and-life
 description: Jinfan Frank Hu applies his chemistry knowledge as a mantra to live your life.
 tags:
-  - "Deep Dives"
+  - "Little Things"
   - "Academic"
   - "Andover"
 ---

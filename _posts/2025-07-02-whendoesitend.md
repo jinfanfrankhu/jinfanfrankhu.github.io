@@ -32,11 +32,15 @@ Of the six photos I have, I find it hard to reconcile that they were once me. I 
 
 Some people look at Wikipedia, and some just take the first search result on Google. Little me had something better. I had my dad, who seemed to know everything about anything, whether it was physics or history or math. All his answers lined up with what I'd been taught, and a lot of the time, the only answers I had were what he'd told me.
 
-This time, something didn't add up. Reading some book about humans and climate change, I showed my dad a graph of CO2 and oil consumption. The book foretold catastrophe -- rising sea levels and mass extinctions, a total upheaval of everything we humans knew the Earth to be. How could this be? I'd just gotten over the fact that the sun would explode in 5 billion years, and now they were telling me the clock was ticking way faster. I scampered downstairs to do some cross-validation. The answer I got?
+I had a Big Book of Science<sup>TM</sup> that I loved reading from, but there were a few passages that made me terrified. One such passage was a quick fact about the sun -- *Did you know, the Sun will expand in 5 billion years, swallowing the Earth?* I started shaking after I read that. I knew from a few pages before that the sun was pretty hot, and it was definitely not a good thing that the sun would swallow the earth. I ran downstairs, panicked and looking for reassurance. My dad laughed. 
+
+*"Don't worry, think about it, that's longer than the whole universe will be around. Life will be different as we know it then."* Satisfied, I ran back upstairs to continue reading, happy that nothing bad was going to happen. 
+
+Only a few days later, something else didn't add up. Reading some book about humans and climate change, I showed my dad a graph of CO2 and oil consumption. The book foretold catastrophe -- rising sea levels and mass extinctions, a total upheaval of everything we humans knew the Earth to be. How could this be? I'd just gotten over the fact that the sun would explode in 5 billion years, and now they were telling me the clock was ticking way faster. I scampered downstairs to do some cross-validation. The answer I got?
 
 *"It doesn't really matter."*
 
-Uhhhh... ok... maybe I'd have to do more research. Maybe on the next page my book would agree, saying "Sike, your dad's right, it's all good."
+Huh. An uncharacteristically short response. Maybe I'd have to do more research. Maybe on the next page my book would agree, saying "Sike, your dad's right, it's all good."
 
 I read two more pages, then ran downstairs with more findings to confirm. "Baba, baba, is it true that by 2075 if things don't stop these things could be irreversable?"
 
@@ -77,9 +81,13 @@ She lived alone in an apartment on the third floor. Her face was wrinkled, each 
 
 My mom considered having her come to the US to live with us. What kind of a granddaughter could send the woman who raised her to a senior home, when all that was expected of you was that you take care of them as they got old? But maybe it was the visa that fell through, or maybe she wanted to stay in Wuhan. She never did come to the US.
 
-Her bathroom faucet dripped, no matter how hard I tried to tighten it. Likewise, her memories and cognition dripped too. My mom flew out to China to see her in April. I don't think my great-grandmother remembered her. On a WeChat video call, I studied her face, and the new stories she had to tell from the last time I'd seen her. My mom said that it was impossible, that she barely knew how to eat, to speak, let alone live. Silent like a tree, she still stands.
+Her bathroom faucet dripped, no matter how hard I tried to tighten it. Likewise, her memories and cognition dripped too. My mom flew out to China to see her in April. I don't think my great-grandmother remembered her. On a WeChat video call, I studied her face again. Now, it was as if she'd aged backwards. Her wrinkles stretched across her gaunt skeleton. My mom cried. *五十斤*, she'd sob. *Fifty pounds.* She weighed less an elementary schooler. Her mouth lay open agape, opening and closing as if gasping for air. My mom fed her congee, and she could not swallow. I couldn't swallow either. 
 
-She is not yet dead.
+I looked away, but the beeping of her heart rate monitor reading 84% oxygen saturation and my mom's gasps did not let me leave. I finally asked: "Can she still speak?" 
+
+My moms sobs grew louder. My great-grandmother groaned. 
+
+One year later, she is not yet dead. She is immobile, catatonic, dreaming, a log on a hospital bed. My mothers calls go unanswered. Though her heart still beats, her eyes have not opened for months. 
 
 <br><br>
 <b>iv. history 300</b>
@@ -118,14 +126,16 @@ Before Shakespeare died, he wrote *The Tempest* -- a play that opens with a stor
 
 As I reread my blog posts, my writings from last year, and look at photos of a boy I hardly recognize, I wonder what Shakespeare would've done with an edit button. If he would've taken back his goodbye. 
 
-But even in death, his words are not final. We read his works through post colonial, queer, anti-capitalist lenses. We find new meanings in the same old lines. We revise him, even after death has taken his bones.
+But even in death, his words are not final. We read his works through post colonial, queer, anti-capitalist lenses. We find new meanings in the same old lines. We revise him, even long after his bones have returned to earth.
 
-Maybe nothing is ever final. Maybe through the right eyes and the right mind, we'll all be reinterpreted. And maybe they'll get us way wrong. 
+Maybe nothing is ever final. Maybe through the right eyes and the right mind, we'll all be reinterpreted. And maybe they'll get us way wrong. That's the paradox -- we crave control over our narrative, and must accept we'll never fully have it.
 
-Maybe there's freedom in not lasting forever. But while I still can, please, hand me the pen, the photoshop, the edit button. 
+Maybe there's freedom in not lasting forever. But while I still can, please, hand me the pen, the photoshop, the edit button. I want to write my own story, leave my own mark, and deliver my last monologue before it's no longer mine to have.
+<br><br>
 
-I want to write my own story, leave my own mark, and deliver my last monologue before it's no longer mine to have.
+It will never be enough. But that's life, and it's death too.
 
+<br><br>
 <hr class="project-divider">
 
 <b>Prospero's Epilogue</b>
