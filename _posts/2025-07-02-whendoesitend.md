@@ -50,7 +50,7 @@ So what? I still thought that everyone automatically lived to 100 years old, and
 
 *"You do. I'll be dead by then, it doesn't matter to me."*
 
-Some quick mental calculations confirmed that he'd be 99 years old by the time 2075 rolled around. *Fine*, I thought. *It's no different from the sun's explosion not mattering."*
+Some quick mental calculations confirmed that he'd be 99 years old by the time 2075 rolled around. *Fine*, I thought. *It's no different from the sun's explosion not mattering... I think."* 
 
 <br><br>
 <b>iii. when i go</b>
@@ -94,17 +94,17 @@ One year later, she is not yet dead. She is immobile, catatonic, dreaming, a log
 
 I was told to take history 300 senior year, but I decided to stick it out upper year. When my mom found out, she called me, incredulous. She said I'd regret it, that it'd take up too much time, and that I should be focusing on science or whatever it was that would make my transcript actually strong. I didn't listen, and I didn't have a good reason as to why I didn't, just that it felt weird to push it back. 
 
-We had to submit primary source set responses (PSSRs), on artworks, on testimonials, on photos, on music, and answer questions looking at the material from a variety of lenses. What was being said? What was left out? How did this tie into what we were learning?
+For homework, we submitted primary source set responses (PSSRs), on artworks, on testimonials, on photos, on music, and answer questions looking at the material from a variety of lenses. What was being said? What was left out? How did this tie into what we were learning? These low-stakes writing assignments were supposed to be unpolished, a quick snapshot of thinking and reflection, an easy way to develop voice as a writer. 
 
-And as I did so, I started thinking about finality. What it means to take a photo or paint a portrait and never edit it again, to leave it, final, for the world to see, to poke, to prod, to analyze in PSSRs and debate in classrooms. 
+As I did so, I started thinking about finality. About what it means to take a photo or paint a portrait and never edit it again, to leave it, final, for the world to see, to poke, to prod, to analyze in PSSRs and debate in classrooms. 
 
 It must be terrifying, I thought. To hit publish, to be studied, to give something up like that and hope you weren't misunderstood.
 
-And writing this blog, I felt the same way when my mom told me she read my posts, and that she didn't really get them. Last night, I edited a lot of them in the hopes that no one else reading them would have the same takeaways. And yet, for all the fear of finality -- of putting something out there and never being able to take it back -- I found that constant revision had its own burden.
+And writing this blog, I felt the same way when my mom told me she read my posts, and that she didn't really get them. I nodded and agreed, but I was horrified. How could I let her see what I wasn't even done with? How could I let anyone see what I wasn't done with? Last night, I edited a lot of them in the hopes that no one else reading them would have the same feeling, that they wouldn't text me saying, <i>hey, I didn't really <b>get</b> what you were trying to say with that <a href="{{ site.baseurl }}/posts/ice-cream" target="_blank">ice cream post.</a></i> And yet, for all the fear of finality -- of putting something out there and never being able to take it back -- I found that constant revision had its own burden.
 
-At the end of each term, we'd gather all our PSSRs and mark them up, writing reflections on themes that emerged, and what we hoped to improve on in the next term. I thought I'd like that part, that I'd feel growth and improvement, but oftentimes the scramble felt like regret. I held up a prior version of myself and my thoughts, and I took highlighter and graphite to point out what I'd done and what I hoped to do better. 
+At the end of each term, we'd gather all our PSSRs and mark them up, writing reflections on themes that emerged, and what we hoped to improve on in the next term. I thought I'd like it, that I'd feel growth and improvement, that I'd feel proud of my little snapshots, but oftentimes the scramble felt like regret. I held up a prior version of myself and my thoughts, and I took highlighter and graphite to point out what I'd done and what I hoped to do better. I scoffed at what I was happy with weeks ago. *Pshhh, how could I even think this way? What a totally out-of-touch take.* It always felt fake to write about a theme that emerged, because all I could think was that I sure didn't do a good job at analyzing. Every end of term reflection felt like regret. Like hatred. And even more than that, I was angry at feeling regret. After all, the whole point was to take a snapshot of the moment.
 
-And so now I fear something else, more than just hitting "publish" or typing "git push" in the command line. I fear never being finished.
+So now, I fear something else, more than just hitting "publish" or typing "git push" in the command line. I fear never being finished.
 
 <br><br>
 <b>v. even in death</b>
@@ -124,11 +124,11 @@ And so now I fear something else, more than just hitting "publish" or typing "gi
 
 Before Shakespeare died, he wrote *The Tempest* -- a play that opens with a storm and ends in quiet. Some argue that his epilogue was not only a character's farewell to the stage, but Shakespeare's as well. Others say he didn't mean anything by it.
 
-As I reread my blog posts, my writings from last year, and look at photos of a boy I hardly recognize, I wonder what Shakespeare would've done with an edit button. If he would've taken back his goodbye. 
+As I reread my blog posts, my writings from last year, the cringy way I'd text in old text messages, and look at photos of a boy I hardly recognize, I wonder what Shakespeare would've done with an edit button. If he would've taken back his goodbye. 
 
 But even in death, his words are not final. We read his works through post colonial, queer, anti-capitalist lenses. We find new meanings in the same old lines. We revise him, even long after his bones have returned to earth.
 
-Maybe nothing is ever final. Maybe through the right eyes and the right mind, we'll all be reinterpreted. And maybe they'll get us way wrong. That's the paradox -- we crave control over our narrative, and must accept we'll never fully have it.
+Maybe nothing is ever final, not in the sense that life goes on after yours ends. Maybe through the right eyes and the right mind, we'll all be reinterpreted. And maybe they'll get us way wrong. That's the paradox -- we crave control over our narrative, and must accept we'll never fully have it.
 
 Maybe there's freedom in not lasting forever. But while I still can, please, hand me the pen, the photoshop, the edit button. I want to write my own story, leave my own mark, and deliver my last monologue before it's no longer mine to have.
 <br><br>
