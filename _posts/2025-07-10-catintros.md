@@ -7,6 +7,7 @@ description: "Jinfan Frank Hu has two cats, Mittens and Coco. One is a tuxedo, t
 tags:
   - "Little Things"
   - "Family"
+  - "Warm"
 ---
 
 I have two cats, Mittens and Coco. They are incredibly friendly and docile, and I love them very much. 

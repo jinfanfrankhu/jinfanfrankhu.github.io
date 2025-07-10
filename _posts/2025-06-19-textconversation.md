@@ -7,6 +7,7 @@ description: Jinfan Frank Hu reflects on texting and calling as communication me
 tags:
   - "Little Things"
   - "Friends"
+  - "Warm"
 ---
 
 Last night, I practically pulled an all nighter. I slept at 7am after a lovely conversation with a friend on text  (and got up at 10). From a purely technical view, texting seems colder than calling: no voice, no intonation, no prosody. But paradoxically, I find texting far more intimate.
