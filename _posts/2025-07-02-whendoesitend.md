@@ -14,7 +14,7 @@ tags:
 
 This is day 8 of journalling with Selena. There is no prompt.
 
-The format for this post was inspired by <a href="https://mitadmissions.org/blogs/entry/king-of-boston-king-of-the-world/">The King of Boston</a>. Genuinely an amazing read, please check it out.
+The format for this post was inspired by <a href="https://mitadmissions.org/blogs/entry/king-of-boston-king-of-the-world/", target="_blank">The King of Boston</a>. Genuinely an amazing read, please check it out.
 <br><br>
 
 <b>i. undocumented creature</b>
@@ -32,7 +32,7 @@ Of the six photos I have, I find it hard to reconcile that they were once me. I 
 
 Some people look at Wikipedia, and some just take the first search result on Google. Little me had something better. I had my dad, who seemed to know everything about anything, whether it was physics or history or math. All his answers lined up with what I'd been taught, and a lot of the time, the only answers I had were what he'd told me.
 
-I had a Big Book of Science<sup>TM</sup> that I loved reading from, but there were a few passages that made me terrified. One such passage was a quick fact about the sun -- *Did you know, the Sun will expand in 5 billion years, swallowing the Earth?* I started shaking after I read that. I knew from a few pages before that the sun was pretty hot, and it was definitely not a good thing that the sun would swallow the earth. I ran downstairs, panicked and looking for reassurance. My dad laughed. 
+I had a <a href="https://www.amazon.com/Biggest-Book-Science-Kidsbooks/dp/1588656632", target="_blank">Biggest Book of Science</a><sup>TM</sup> that I loved reading from, but there were a few passages that made me terrified. One such passage was a quick fact about the sun -- *Did you know, the Sun will expand in 5 billion years, swallowing the Earth?* I started shaking after I read that. I knew from a few pages before that the sun was pretty hot, and it was definitely not a good thing that the sun would swallow the earth. I ran downstairs, panicked and looking for reassurance. My dad laughed. 
 
 *"Don't worry, think about it, that's longer than the whole universe will be around. Life will be different as we know it then."* Satisfied, I ran back upstairs to continue reading, happy that nothing bad was going to happen. 
 
@@ -128,11 +128,11 @@ As I reread my blog posts, my writings from last year, the cringy way I'd text i
 
 But even in death, his words are not final. We read his works through post colonial, queer, anti-capitalist lenses. We find new meanings in the same old lines. We revise him, even long after his bones have returned to earth.
 
-Maybe nothing is ever final, not in the sense that life goes on after yours ends. Maybe through the right eyes and the right mind, we'll all be reinterpreted. And maybe they'll get us way wrong. That's the paradox -- we crave control over our narrative, and must accept we'll never fully have it.
+Maybe nothing is ever final -- not because we live on, but because others keep rewriting us. Maybe through the right eyes and the right mind, we'll all be reinterpreted. And maybe they'll get us way wrong. That's the paradox -- we crave control over our narrative, yet must accept we'll never fully have it.
 
 Maybe there's freedom in not lasting forever. But while I still can, please, hand me the pen, the photoshop, the edit button. I want to write my own story, leave my own mark, and deliver my last monologue before it's no longer mine to have.
-<br><br>
 
+<br><br>
 It will never be enough. But that's life, and it's death too.
 
 <br><br>
