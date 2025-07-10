@@ -27,6 +27,6 @@ Her most endearing habit are her purrs. When we pick her up and carry her around
 
 Don't be fooled. Mittens is all bark, no bite. His 18 lb frame is as gentle as they come. His drool has done more damage to me allergy-wise than a claw ever could. On the flip side, Coco is all bite, no bark. She'll brush up against my legs, give me a little bit of attention, then bite my ankles as if to say: "know your place."
 
-![Mittens and Coco together on Frank's carpet]({{ "/images/posts/mitetensandcoco.jpg" | relative_url }})
+![Mittens and Coco together on Frank's carpet]({{ "/images/posts/mittensandcoco.jpg" | relative_url }})
 
 
