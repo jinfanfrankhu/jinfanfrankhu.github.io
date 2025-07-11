@@ -87,7 +87,7 @@ I looked away, but the beeping of her heart rate monitor reading 84% oxygen satu
 
 My moms sobs grew louder. My great-grandmother groaned. 
 
-One year later, she is not yet dead. She is immobile, catatonic, dreaming, a log on a hospital bed. My mothers calls go unanswered. Though her heart still beats, her eyes have not opened for months. 
+One year later, she is not yet dead. She is immobile, catatonic, dreaming, a log on a hospital bed. My mothers calls go unanswered. Though her heart still beats, her eyes have not opened for months. Maybe I could understand why my dad wanted to go on his own terms. But twenty one more years are too short. Twenty one years is no time at all. After all, I've been around seventeen, yet it hardly feels like I've been around for that long at all. If living is thinking, choosing, doing, then I'm just getting started.
 
 <br><br>
 <b>iv. history 300</b>
@@ -104,7 +104,7 @@ And writing this blog, I felt the same way when my mom told me she read my posts
 
 At the end of each term, we'd gather all our PSSRs and mark them up, writing reflections on themes that emerged, and what we hoped to improve on in the next term. I thought I'd like it, that I'd feel growth and improvement, that I'd feel proud of my little snapshots, but oftentimes the scramble felt like regret. I held up a prior version of myself and my thoughts, and I took highlighter and graphite to point out what I'd done and what I hoped to do better. I scoffed at what I was happy with weeks ago. *Pshhh, how could I even think this way? What a totally out-of-touch take.* It always felt fake to write about a theme that emerged, because all I could think was that I sure didn't do a good job at analyzing. Every end of term reflection felt like regret. Like hatred. And even more than that, I was angry at feeling regret. After all, the whole point was to take a snapshot of the moment.
 
-So now, I fear something else, more than just hitting "publish" or typing "git push" in the command line. I fear never being finished.
+So now, I fear something else, more than just hitting "publish" or typing "git push" in the command line. I fear the moment when there's nothing left to revise, when there's no more chances to look over it that one more time. Because to revise is to still be alive. And if I couldn't even love the revision process, I might as well've been dead already.
 
 <br><br>
 <b>v. even in death</b>
@@ -124,16 +124,18 @@ So now, I fear something else, more than just hitting "publish" or typing "git p
 
 Before Shakespeare died, he wrote *The Tempest* -- a play that opens with a storm and ends in quiet. Some argue that his epilogue was not only a character's farewell to the stage, but Shakespeare's as well. Others say he didn't mean anything by it.
 
-As I reread my blog posts, my writings from last year, the cringy way I'd text in old text messages, and look at photos of a boy I hardly recognize, I wonder what Shakespeare would've done with an edit button. If he would've taken back his goodbye. 
+As I reread my blog posts, my writings from last year, the cringy way I'd text in old text messages, and look at photos of a boy I hardly recognize, I wonder what Shakespeare would've done with an edit button. If he ever wished he could take it back. 
 
 But even in death, his words are not final. We read his works through post colonial, queer, anti-capitalist lenses. We find new meanings in the same old lines. We revise him, even long after his bones have returned to earth.
 
-Maybe nothing is ever final -- not because we live on, but because others keep rewriting us. Maybe through the right eyes and the right mind, we'll all be reinterpreted. And maybe they'll get us way wrong. That's the paradox -- we crave control over our narrative, yet must accept we'll never fully have it.
+Maybe nothing is ever final -- not because we live on, but because others keep rewriting us. We become their interpretations, their blog posts, their PSSRs. And maybe they'll get us all wrong. That's the paradox -- we crave control over our narrative, yet must accept we'll never fully have it.
 
-Maybe there's freedom in not lasting forever. But while I still can, please, hand me the pen, the photoshop, the edit button. I want to write my own story, leave my own mark, and deliver my last monologue before it's no longer mine to have.
+Sometimes, turning in an essay feels like a white flag to me. I surrender my typos, my flaws, and that's that. I know someone else will read it, mark it up, maybe misread what I meant entirely. Maybe they'll miss the point. Maybe *I* missed the point. And maybe I could've made it just that little bit better, because I know that in my subconscious, turning it in half-meant that I'd given up entirely. That I'd dropped the hot potato, passed the consequences on, hoping someone else would clean up the mess. 
+
+But I'm still here, still thinking, still writing. I won't get it all right, I won't even get most of it right. But while I still can, please -- hand me the pen, the Photoshop, the edit button. I want to revise the story while it's still mine. I want to catch the hot potato and hold it, even if it burns. 
 
 <br><br>
-It will never be enough. But that's life, and it's death too.
+I'll never do it all. But hey, that's life, and it's death too.
 
 <br><br>
 <hr class="project-divider">
