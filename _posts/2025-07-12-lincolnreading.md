@@ -6,11 +6,29 @@ permalink: /posts/lincoln-reading
 description: "Lincoln Feng talks about his upbringing and love of reading, and reflections about moving."
 tags:
   - "Lincoln Feng"
+  - "Guest Post"
 ---
 
 Lincoln Feng has been my ride or die since the first week of Rye Country Day School, seventh grade. I think he's seen me at my lowest, at my most vulnerable, and my most naked. Thank you for being such an excellent friend. To many more whimsical excursions.
 
 <hr class="project-divider">
+
+<audio id="beach-audio" loop>
+  <source src="{{ '/files/ballade1.mp3' | relative_url }}" type="audio/mpeg">
+</audio>
+
+<script>
+  window.addEventListener('DOMContentLoaded', function() {
+    var audio = document.getElementById('beach-audio');
+    // Try to autoplay after short delay
+    setTimeout(function() {
+      audio.play().catch(() => {
+        // If browser blocks autoplay, do nothing
+        // You could also show a play button here if desired
+      });
+    }, 500);
+  });
+</script>
 
 **Foreword:**
 
