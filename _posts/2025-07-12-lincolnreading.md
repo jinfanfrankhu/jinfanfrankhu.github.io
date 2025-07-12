@@ -13,13 +13,13 @@ Lincoln Feng has been my ride or die since the first week of Rye Country Day Sch
 
 <hr class="project-divider">
 
-<audio id="beach-audio" loop>
-  <source src="{{ '/files/ballade1.mp3' | relative_url }}" type="audio/mpeg">
+<audio id="piano-audio" loop>
+  <source src="{{ '/files/chopinballade.mp3' | relative_url }}" type="audio/mpeg">
 </audio>
 
 <script>
   window.addEventListener('DOMContentLoaded', function() {
-    var audio = document.getElementById('beach-audio');
+    var audio = document.getElementById('piano-audio');
     // Try to autoplay after short delay
     setTimeout(function() {
       audio.play().catch(() => {
