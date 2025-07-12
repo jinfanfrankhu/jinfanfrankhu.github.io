@@ -32,7 +32,7 @@ Lincoln Feng has been my ride or die since the first week of Rye Country Day Sch
 
 **Foreword:**
 
-As I sit down and begin writing, I have to admit that this project is not my idea. No, this is a child born from a little bit of jealousy. As with most things in my life, I begin this piece inspired by Frank. 
+As I sit down and begin writing, I have to admit that this project is not my idea. No, this is a child born from a little bit of jealousy. As with most things in my life, I begin this piece inspired by <a href="https://jinfanhu.com/posts/when-does-it-end" target="_blank">Frank</a>. 
 
 Reflection is difficult. Self reflection, particularly so. Even physically, we look at ourselves in a mirror and think that’s what we look like, only to be shocked when we see how photographs turn out.  
 
