@@ -22,6 +22,8 @@ Perhaps this is why it’s so difficult to begin writing this piece.
 
 Nevertheless, here we are. 
 
+<hr class="project-divider">
+
 It all started with the bookstore across the street. 
 
 I don’t know why I ever walked in there, to be completely honest. 
