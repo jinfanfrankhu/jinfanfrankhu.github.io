@@ -26,7 +26,7 @@ Lincoln Feng has been my ride or die since the first week of Rye Country Day Sch
         // If browser blocks autoplay, do nothing
         // You could also show a play button here if desired
       });
-    }, 500);
+    }, 2000);
   });
 </script>
 
