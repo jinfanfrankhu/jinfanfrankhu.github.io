@@ -9,6 +9,7 @@ tags:
   - "Family"
   - "Academic"
   - "Andover"
+image: /images/posts/MathKangarooShirt.jpg
 ---
 
 This is day 7 of journaling with Selena. Today's prompt: 

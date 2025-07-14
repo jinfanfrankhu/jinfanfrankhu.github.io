@@ -10,6 +10,7 @@ tags:
   - "Academic"
   - "My Favorites"
   - "Andover"
+image: /images/posts/letmeplease.jpg
 ---
 
 This is day 8 of journalling with Selena. There is no prompt.

@@ -6,15 +6,15 @@
   <meta name="description" content="{{ page.description | default: site.seo_description }}">
 
   <!-- Open Graph for LinkedIn, Facebook, Discord -->
-  <meta property="og:title" content="{{ page.title | default: site.title }}">
+  <meta property="og:title" content="{{ page.title | default: site.title | escape}}">
   <meta property="og:description" content="{{ page.description | default: site.seo_description }}">
-  <meta property="og:type" content="website">
+  <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-  <meta property="og:image" content="{{ site.url }}/images/preview.jpg"> <!-- change this -->
+  <meta property="og:image" content="{{ site.url }}{{ page.image | default: '/images/ProfileCollage.jpg' }}">
 
   <!-- Twitter Card (used by X, some Discord embeds) -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{{ page.title | default: site.title }}">
+  <meta name="twitter:title" content="{{ page.title | default: site.title | escape}}">
   <meta name="twitter:description" content="{{ page.description | default: site.seo_description }}">
   <meta name="twitter:image" content="{{ site.url }}/images/preview.jpg">
 
@@ -22,6 +22,31 @@
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
   <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
   <link rel="icon" href="{{ site.baseurl }}/favicon.png" type="image/png">
+  <link rel="canonical" href="{{ page.url | absolute_url }}" />
 
-  <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  <!-- SEO -->
+  {% if page.layout == "post" %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "{{ page.title | escape }}",
+    "author": { "@type": "Person", "name": "Jinfan Frank Hu" },
+    "datePublished": "{{ page.date | date_to_xmlschema }}",
+    "image": "{{ site.url }}/images/preview.jpg",
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ site.title }}",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ site.url }}/images/MittensYawning.png"
+      }
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ page.url | absolute_url }}"
+    }
+  }
+  </script>
+  {% endif %}
 </head>

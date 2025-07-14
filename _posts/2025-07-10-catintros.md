@@ -8,6 +8,7 @@ tags:
   - "Little Things"
   - "Family"
   - "Warm"
+image: /images/posts/cocobox.jpg
 ---
 
 I have two cats, Mittens and Coco. They are incredibly friendly and docile, and I love them very much. 
