@@ -11,7 +11,7 @@ tags:
   - "Andover"
 ---
 
-So this year, I took Organic Chemistry, and if there's one fundamental concept or takeaway that I got from the class, it's the importance of <a href="https://nonsibihighschool.org/advancedch19.php" target="_blank">Reaction Coordinate Diagrams</a>. For those who are unfamiliar, here's a pic:
+So this year, I took Organic Chemistry, and if there's one fundamental concept or takeaway that I got from the class, it's the importance of <a href="https://nonsibihighschool.org/advancedch19.php" target="_blank" rel="noopener noreferrer">Reaction Coordinate Diagrams</a>. For those who are unfamiliar, here's a pic:
 
 ![Reaction Coordinate Diagram Example]({{ "/images/posts/ReactionCoordinateDiagram.png" | relative_url }})
 

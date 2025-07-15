@@ -16,7 +16,7 @@ image: /images/posts/letmeplease.jpg
 
 This is day 8 of journalling with Selena. There is no prompt.
 
-The format for this post was inspired by <a href="https://mitadmissions.org/blogs/entry/king-of-boston-king-of-the-world/" target="_blank">The King of Boston</a>. Genuinely an amazing read, please check it out.
+The format for this post was inspired by <a href="https://mitadmissions.org/blogs/entry/king-of-boston-king-of-the-world/" target="_blank" rel="noopener noreferrer">The King of Boston</a>. Genuinely an amazing read, please check it out.
 <br><br>
 
 <b>i. undocumented creature</b>
@@ -34,7 +34,7 @@ Of the six photos I have, I find it hard to reconcile that they were once me. I 
 
 Some people look at Wikipedia, and some just take the first search result on Google. Little me had something better. I had my dad, who seemed to know everything about anything, whether it was physics or history or math. All his answers lined up with what I'd been taught, and a lot of the time, the only answers I had were what he'd told me.
 
-I had a <a href="https://www.amazon.com/Biggest-Book-Science-Kidsbooks/dp/1588656632" target="_blank">Biggest Book of Science</a> that I loved reading from, but there were a few passages that made me terrified. One such passage was a quick fact about the sun -- *Did you know, the Sun will expand in 5 billion years, swallowing the Earth?* I started shaking after I read that. I knew from a few pages before that the sun was pretty hot, and it was definitely not a good thing that the sun would swallow the earth. I ran downstairs, panicked and looking for reassurance. My dad laughed. 
+I had a <a href="https://www.amazon.com/Biggest-Book-Science-Kidsbooks/dp/1588656632" target="_blank" rel="noopener noreferrer">Biggest Book of Science</a> that I loved reading from, but there were a few passages that made me terrified. One such passage was a quick fact about the sun -- *Did you know, the Sun will expand in 5 billion years, swallowing the Earth?* I started shaking after I read that. I knew from a few pages before that the sun was pretty hot, and it was definitely not a good thing that the sun would swallow the earth. I ran downstairs, panicked and looking for reassurance. My dad laughed. 
 
 *"Don't worry, think about it, that's longer than the whole universe will be around. Life will be different as we know it then."* Satisfied, I ran back upstairs to continue reading, happy that nothing bad was going to happen. 
 
@@ -102,7 +102,7 @@ As I did so, I started thinking about finality. About what it means to take a ph
 
 It must be terrifying, I thought. To hit publish, to be studied, to give something up like that and hope you weren't misunderstood.
 
-And writing this blog, I felt the same way when my mom told me she read my posts, and that she didn't really get them. I nodded and agreed, but I was horrified. How could I let her see what I wasn't even done with? How could I let anyone see what I wasn't done with? Last night, I edited a lot of them in the hopes that no one else reading them would have the same feeling, that they wouldn't text me saying, <i>hey, I didn't really <b>get</b> what you were trying to say with that <a href="{{ site.baseurl }}/posts/ice-cream" target="_blank">ice cream post.</a></i> And yet, for all the fear of finality -- of putting something out there and never being able to take it back -- I found that constant revision had its own burden.
+And writing this blog, I felt the same way when my mom told me she read my posts, and that she didn't really get them. I nodded and agreed, but I was horrified. How could I let her see what I wasn't even done with? How could I let anyone see what I wasn't done with? Last night, I edited a lot of them in the hopes that no one else reading them would have the same feeling, that they wouldn't text me saying, <i>hey, I didn't really <b>get</b> what you were trying to say with that <a href="{{ site.baseurl }}/posts/ice-cream" target="_blank" rel="noopener noreferrer">ice cream post.</a></i> And yet, for all the fear of finality -- of putting something out there and never being able to take it back -- I found that constant revision had its own burden.
 
 At the end of each term, we'd gather all our PSSRs and mark them up, writing reflections on themes that emerged, and what we hoped to improve on in the next term. I thought I'd like it, that I'd feel growth and improvement, that I'd feel proud of my little snapshots, but oftentimes the scramble felt like regret. I held up a prior version of myself and my thoughts, and I took highlighter and graphite to point out what I'd done and what I hoped to do better. I scoffed at what I was happy with weeks ago. *Pshhh, how could I even think this way? What a totally out-of-touch take.* It always felt fake to write about a theme that emerged, because all I could think was that I sure didn't do a good job at analyzing. Every end of term reflection felt like regret. Like hatred. And even more than that, I was angry at feeling regret. After all, the whole point was to take a snapshot of the moment.
 

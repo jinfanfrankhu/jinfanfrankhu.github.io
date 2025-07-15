@@ -10,7 +10,7 @@ tags:
   - "Family"
 ---
 
-This is day 5 of journaling with Selena. Today's <a href="https://collegeadmissions.uchicago.edu/apply/essay/">prompt</a>: 
+This is day 5 of journaling with Selena. Today's <a href="https://collegeadmissions.uchicago.edu/apply/essay/" target="_blank" rel="noopener noreferrer">prompt</a>: 
 
 ***How are apples and oranges supposed to be compared? Possible answers involve, but are not limited to, statistics, chemistry, physics, linguistics, and philosophy.***
 
