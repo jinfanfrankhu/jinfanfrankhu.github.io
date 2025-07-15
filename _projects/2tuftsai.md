@@ -49,7 +49,7 @@ TLDR: Language families are groups of languages that are related through a commo
   </tr>
 </table>
 
-<p>Of course, determining language families is not so easy as just comparing words. Taking English as an example, we took tons of vocabulary from the <a href="https://en.wikipedia.org/wiki/Influence_of_French_on_English" target="_blank">French</a>, but we're actually a Germanic family language. You can take a looksie at what English would've looked like without French influence: it's called <a href="https://anglish.org/wiki/Anglish" target="_blank">Anglish</a>! 
+<p>Of course, determining language families is not so easy as just comparing words. Taking English as an example, we took tons of vocabulary from the <a href="https://en.wikipedia.org/wiki/Influence_of_French_on_English" target="_blank">French</a>, but we're actually a Germanic family language. You can take a looksie at what English would've looked like without French influence: it's called <a href="https://anglish.org/wiki/Anglish" target="_blank">Anglish</a>!</p> 
 
 <p>Unfortunately, it's hard to classify language families at times. Theories come and go on language families, and they're always complicated by actual history. For the case of English, the reason we had so much French influence was because of the Norman Conquest of England. An example of where trying to use history to back-track language spreading failed is the <a href="https://en.wikipedia.org/wiki/Altaic_languages" target="_blank">Altaic language family</a>, a theory that was supported by the nomadic migration of the peoples in the areas that "Altaic" languages were spoken. Unfortunately, the similarities that the languages shared were largely coincidental, and Altaic is no longer supported.</p>
 
@@ -69,7 +69,7 @@ TLDR: Woah, shots fired, you got me there! I was just messing around with words 
 
 <img src="{{ '/images/projects/tuftsudhr/levenshteinformula.png' | relative_url }}" alt="A formula for deriving Levenshtein Distance" style="display: block; margin: 20px auto; max-width: 100%; height: auto;">
 
-<p>Yeah, I know. Don't worry though, despite this math looking really complicated, it's actually pretty simple. Levenshtein distance is basically a measurement of <i>how many letters you have to substitute, add, or delete to get from word a to word b.</i> An example: the Levenshtein distance between the words "Frank" and "Tank" is two! Substitute "r" for "T" (+1 to distance), and delete "F" from "FTank" (+1 to distance). This is often used in spell-check algorithms: if a word isn't recognized in the spell-checker's dictionary, it'll ask you if you meant words that are a small Levenshtein distance away. It's also used in... drumroll please... comparative linguistics! Because languages with a shared common ancestor should have tons of cognates with each other, levenshtein distance becomes a great way to measure the linguistic distance between two languages!</p>
+<p>Yeah, I know. Don't worry though, despite this math looking really complicated, it's actually pretty simple. Levenshtein distance is basically a measurement of <i>how many letters you have to substitute, add, or delete to get from word a to word b.</i> An example: the Levenshtein distance between the words "Frank" and "Tank" is two! Substitute "r" for "T" (+1 to distance), and delete "F" from "FTank" (+1 to distance). This is often used in spell-check algorithms: if a word isn't recognized in the spell-checker's dictionary, it'll ask you if you meant words that are a small Levenshtein distance away. It's also used in... drumroll please... comparative linguistics! Because languages with a shared common ancestor should have tons of cognates with each other, Levenshtein distance becomes a great way to measure the linguistic distance between two languages!</p>
 
 <img src="{{ '/images/projects/tuftsudhr/dutchmeme.png' | relative_url }}" alt="A meme of Dutch's similarity with English" style="display: block; margin: 20px auto; max-width: 100%; height:auto;">
 
@@ -81,7 +81,7 @@ TLDR: Woah, shots fired, you got me there! I was just messing around with words 
 
 #### Sure, I guess that makes sense. So why use the Universal Declaration of Human Rights?
 
-TLDR: I was looking for a document that was well-translated and available for a whole bunch of different languages, from high to low resource. The UDHR checks all of those boxes, as it's kind of a go-to for providing examples of a language.
+TLDR: I was looking for a document that was well-translated and available for a whole bunch of different languages, from high to low resource. The <a href="https://www.ohchr.org/en/search?f%5B0%5D=event_type_taxonomy_term_name%3AUniversal%20Declaration%20of%20Human%20Rights" target="_blank">UDHR</a> checks all of those boxes, as it's kind of a go-to for providing examples of a language.
 
 <details>
 <img src="/images/cat-closed.png" style="display: block; margin: 0 auto;"><summary><strong>Click to expand a longer explanation.</strong></summary>
