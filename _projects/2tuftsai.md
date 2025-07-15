@@ -93,3 +93,36 @@ TLDR: I was looking for a document that was well-translated and available for a 
 <img src="/images/cat-open.png" style="display: block; margin: 0 auto;">
 
 </details>
+
+#### Ok, got it. So what did you do to create language families?
+
+1.  I calculated pairwise similarity scores between languages by using Levenshtein distance.
+
+2.  I converted them into a standardized similarity matrix, with 10 (0 Levenshtein distance, aka English vs English, aka perfect score) being the highest similarity score.
+
+3.  I used SciPy's hierarchical clustering (linkage) to get clustering trees.
+
+4.  I passed that to Seaborn's clustermap, which drew a heatmap of standardized similarity, and visualized the "trees" corresponding to the clustering order.
+
+#### So where can I see the code and the images you generated after a couple of runs?
+
+Oh come on, I'm kind of embarassed. This stuff is pretty garbage. If you really want to check out what I used for this project, you can find it <a href="https://github.com/jinfanfrankhu/LanguageFamily" target="_blank" rel="noopener noreferrer">here</a>. Seriously, I'm warning you: I grinded this out with a lot of help of AI and a few days of caffeine fueled frenzy. Don't expect much. In fact, don't expect anything! You will laugh at the graphs I generated, because I'm telling you, some of them are total garbage. I also didn't know how to use GitHub back then, so you're going to have to come through some files...
+
+#### It sounds like you're talking down this project a lot. What can be improved?
+
+TLDR: Levenshtein distance is not enough. It doesn't account for syntactic difference, phonological difference, difference in writing systems, and a whole bunch of other stuff.
+
+<details>
+<img src="/images/cat-closed.png" style="display: block; margin: 0 auto;"><summary><strong>Click to expand a longer explanation.</strong></summary>
+
+<p>So the first thing that I talked about earlier, is that language families aren't about surface forms, they're about historical descent. Two unrelated languages (English and French) may borrow a ton of vocabulary from each other and look more similar than they actually are.</p>
+
+<p>The second thing that really kills this project is Writing system bias. Take Serbian and Croatian for example -- "Human rights" in Serbian is "Људска права," while in Croatian it's "Ljudska prava." Looks really different, right? Well surprise surprise, they're actually pronounced the same. While in my project I tried to mitigate this by using online text converters from their script to latin script, it's obviously not a sustainable nor good solution, as each language can use a script differently. Another example: Haitian Creole and French -- they should be super related, but since their orthography is different, their Levenshtein distance is inflated. To really make this project shine, it would've been cool to convert each language's writing to <a href="https://en.wikipedia.org/wiki/International_Phonetic_Alphabet" target="_blank" rel="noopener noreferrer">IPA</a>.
+
+<p>Again, I mentioned this before, but you have to take into account morphology, word order, and grammar. If some language uses Subject-Verb-Object ordering, and some other language uses flexible word order, even if their vocabulary is similar, their Levenshtein distance is going to be huge because there's going to be tons of substitutions. Even worse, <a href="https://jinfanhu.com/projects/tokenizationtf" target="_blank" rel="noopener noreferrer">some languages</a> still smash multiple words into one, making Levenshtein distance an even more difficult method of comparing linguistic similarity.</p>
+
+<img src="/images/cat-open.png" style="display: block; margin: 0 auto;">
+
+</details>
+
+If you'd like to check out a quick presentation I made for the camp, click <a href="https://jinfanhu.com/files/tuftsai.pptx" target="_blank" rel="noopener noreferrer">here</a>. Thank you to Victor, my roommate, for putting up with my late-night grinds and keeping me entertained with your Roblox gambling sessions. Love you pookie 🥰🥰
