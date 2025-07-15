@@ -82,6 +82,7 @@ sass:
 plugins:
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-redirect-from
 
 # Exclude these files from your production _site
 exclude:

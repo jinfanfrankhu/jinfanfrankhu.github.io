@@ -3,7 +3,8 @@ layout: post
 title: "3 Hours of Sleep: The Humble Text Message Conversation"
 date: 2025-06-19
 permalink: /posts/text-conversation
-description: Jinfan Frank Hu reflects on texting and calling as communication methods.
+redirect_from: /posts/textconversation
+description: Jinfan Frank Hu reflects on texting and calling as communication methods. Texting may have it's merits too!
 tags:
   - "Little Things"
   - "Friends"

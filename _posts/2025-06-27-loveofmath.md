@@ -3,7 +3,7 @@ layout: post
 title: "Day 7: An Open Secret I've Come to Accept: I Like Math"
 date: 2025-06-28
 permalink: /posts/math
-description: "Frank Hu talks about his love for math and his struggles he's had with it."
+description: "Frank Hu talks about his love for math and his struggles he's had with it. The writing prompt: Write about a guilty pleasure."
 tags:
   - "Deep Dives"
   - "Family"

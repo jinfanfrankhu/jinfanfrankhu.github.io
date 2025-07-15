@@ -3,7 +3,8 @@ layout: post
 title: "Day 8: It Ends When I Decide"
 date: 2025-07-02
 permalink: /posts/when-does-it-end
-description: "When does revision end? When does your paintbrush fall and you give your masterpiece to the world? Do I get a takebacksie? "
+redirect-from: /posts/whendoesitend
+description: "A deep dive on what it means to live, to die, and to create. Jinfan Frank Hu talks about his childhood, his family, and his desire to keep living."
 tags:
   - "Deep Dives"
   - "Family"

@@ -3,6 +3,7 @@ layout: post
 title: "Reaction Coordinate Diagrams and What They Say About Living Life"
 date: 2025-06-20
 permalink: /posts/chemistry-and-life
+redirect_from: /posts/chemistryandlife
 description: Jinfan Frank Hu applies his chemistry knowledge as a mantra to live your life.
 tags:
   - "Little Things"
