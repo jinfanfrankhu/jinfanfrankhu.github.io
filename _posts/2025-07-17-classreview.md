@@ -42,7 +42,7 @@ Phys Ed 200: There's nothing like helping the gym teacher (120lb MAX) belay a 6'
 
 PHR 360 (Proof and Persuasion): I got all excited doing formal logic for the first week and then I had to write papers on epistemic bubbles :(
 
-CSC 403 (Discrete Math): This is actually pretty cool, I sure hope no <a href="https://www.youtube.com/watch?v=47aSeHHnFAY" target="_blank" rel="noopener noreferrer">monstrosities</a> are made from this!
+CSC 403 (Discrete Math): This is actually pretty cool, I sure hope no <a href="https://www.youtube.com/watch?v=47aSeHHnFAY" target="_blank" rel="noopener noreferrer">monstrosities</a> are made from this...
 
 Music 410 (The Musical Brain): So this explains why I have to chant some stupid tiktok audio under my breath while playing hockey
 
@@ -66,7 +66,7 @@ Physics 552 (Physics C Mechanics Pt. 2): Why were our homework problems so much 
 
 Physics 553 (Physics C E&M Pt. 3): So my analogy for electrical force and gravitational force did not work 1:1 much to my embarrassment
 
-Physics 554 (Physics C E&M Pt. 4): RC? LC? RL? What is going on? I'd rather derive your equations every test than have to memorize Q(t) = CE(1 - e<sup>-t/RC</sup>)
+<p>Physics 554 (Physics C E&M Pt. 4): RC? LC? RL? What is going on? I'd rather derive your equations every test than have to memorize Q(t) = CE(1 - e<sup>-t/RC</sup>)</p>
 
 Chemistry 610/620 (Organic Chemistry): Unironically probably the most fun class I've been in -- after all, <a href="https://en.wikipedia.org/wiki/Sigmatropic_reaction" target="_blank" rel="noopener noreferrer">sigmas go where they're needed</a>
 
