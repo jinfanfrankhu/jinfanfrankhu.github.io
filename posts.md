@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Post Tags
-permalink: /posttags/
+permalink: /posts/
 ---
 <div class="tag-hub">
    <!-- Tag buttons will go here -->
