@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Post Tags
+title: Posts
 permalink: /posts/
 ---
 <div class="tag-hub">

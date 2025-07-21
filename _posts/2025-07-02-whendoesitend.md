@@ -166,3 +166,5 @@ As you from crimes would pardoned be,
 Let your indulgence set me free.  
 
 ![Let me keep going.]({{ "/images/posts/letmeplease.jpg" | relative_url }})
+
+*An update from 7/19/2025: My great-grandmother passed away today at the age of 97. She was admitted to the ICU after her blood oxygen was found dangerously low. It turns out, she'd been unable to swallow food properly, and it had gone into her lungs instead.*
