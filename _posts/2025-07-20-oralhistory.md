@@ -11,9 +11,9 @@ tags:
   - "Language"
 ---
 
-When I watched Forrest Gump for the first time on a JetBlue flight, I was charmed by the way he's interwoven into so many historic events as the main player. I'd like to think that my grandparents are Forrest Gump too, the face of the common man, whichever way China's history led them. 
+When I watched Forrest Gump for the first time on a JetBlue flight, I was charmed by the way he's interwoven into so many historic events as the main player. I'd like to think that my grandparents are Forrest Gump too, the face of the common man, whichever way China's history led them. My grandfather's interview is more meandering, less personal. My grandmother's has more personal stories, more grounded in the times. It seems that my family's men and women are always this way. 
 
-My grandfather was born in 1950, and my grandmother in 1951. Their names are 新民 and 华，meaning "New People" (of the <a href="https://en.wikipedia.org/wiki/History_of_the_People%27s_Republic_of_China" target="_blank" rel="noopener noreferrer">New China</a>) and “magnificent/splendid/China." You can find recordings of the interviews here, here, and here. PS: please don't judge how my voice sounds, I'm very sick and congested. I'll try my best to translate them below.
+My grandfather was born in 1950, and my grandmother in 1951. Their names are 新民 and 华，meaning "New People" (of the <a href="https://en.wikipedia.org/wiki/History_of_the_People%27s_Republic_of_China" target="_blank" rel="noopener noreferrer">New China</a>) and “magnificent/splendid/China." You can find recordings of the interviews <a href="https://jinfanhu.com/files/爹爹.wav" target="_blank" rel="noopener noreferrer">here</a>, <a href="https://jinfanhu.com/files/嫁嫁.wav" target="_blank" rel="noopener noreferrer">here</a>, and <a href="https://jinfanhu.com/files/一起.wav" target="_blank" rel="noopener noreferrer">here</a>. PS: please don't judge how my voice sounds, I'm very sick and congested. I'll try my best to translate them below. Minor edits have been made for readability (removing repeated words/sentences), but to the best of my Chinese ability, I've tried to maintain the content as is for historical integrity.
 
 ## Interview 1 -- Grandpa
 
@@ -111,13 +111,13 @@ When she was in high school, her grandmother would send her lunch. At the time, 
 
 #### How far was the high school?
 
-It was far. At the time, it was all busses as no one had cars. She had to transfer twice. 
+It was far. At the time, it was all es as no one had cars. She had to transfer twice. 
 
 #### So how did you deal with the cold?
 
 Extra layers. It was so cold. At the time, we didn't even have good shoes. I had cloth shoes. It was far getting from home to work. It was 30km. It was freezing. My feet were so cold, and I only had cloth shoes. The soles were made of plastic, and they were nigh *pinches fingers together* thick. Cold rises from the feet, no? If your feet are warm, then your body is warm. 
 
-The busses to and from work had a big engine next to the driver. There was a large cover, but a little slit near the bottom of the engine cover. In wintertime, even if there were seats, I stood for the entire bus ride. I stood next to that slit, holding the railing, and I plugged my feet in that gap. I used it to keep warm. It was only then that I was warm. But then I got home and it was cold again. I got frostbite often. My feet and my hands were always frostbitten.
+The buses to and from work had a big engine next to the driver. There was a large cover, but a little slit near the bottom of the engine cover. In wintertime, even if there were seats, I stood for the entire bus ride. I stood next to that slit, holding the railing, and I plugged my feet in that gap. I used it to keep warm. It was only then that I was warm. But then I got home and it was cold again. I got frostbite often. My feet and my hands were always frostbitten.
 
 We didn't have good clothes either. We had nylon socks, not even socks made of cotton. 
 
@@ -130,3 +130,104 @@ Your grandmother worked with iron. Iron plates needed to be punched into pieces.
 #### What was your, or Wuhan's reaction to Mao dying?
 
 There was no reaction. Of course there were some elderly people, I figured who weren't educated. They cried. The whole country had a memorial ceremony. The factory even held memorial ceremonies. People cried painfully. *Uuuuuuaaaaaaa!* Of course you didn't cry. We definitely didn't cry.
+
+## Interview 2 -- Grandma
+
+#### Were you born in '51?
+
+Yes, I was born in Chongqing. When I was four, my grandfather moved from Chongqing to Wuhan for work. So our family moved here.
+
+#### What memories do you have of Chongqing?
+
+I have no memories. I was still very young. But when your mother was one or two years old, we visited. At that time, Chongqing was broken-down and shoddy. The houses were bad. They were on the side of the mountain, all of them about to collapse. They held on barely. Later they slowly were rebult and they're better now. The good thing about Chongqing is the food. All of their dishes are good, they're tender, they're delicious.
+
+#### Is the food in Chongqing better than in Wuhan?
+
+Of course. And it's cheaper. You know, people from Chongqing have good skin. The climate is warm, the rain is warm. 
+
+#### When you were little, were you hungry?
+
+For my household, it wasn't so bad. His (my grandfather) house was hungry because they were all wolf children, they ate everything. At that time there was only 13.5 kg of food, so they didn't have enough. You know why food wasn't scarce in our house? It was my jiajia (maternal grandmother). She would work in a store. They'd sell fish, flour. She worked there a few years, and she was very brave. She did some improper things to get stuff. I was small so I don't remember. 
+
+Anyways, peoople wanted to eat (fried?) food, but she convinced them to eat rice. At that time you needed to keep track of sugar too. White sugar. You couldn't buy it normally. There was another woman who worked in a different store, and jiajia worked with her. Jiajia would bring me to the store to buy candy, and she gave it to me. Normally you couldn't buy it. And she would come over to jiajia's store to buy rice. Anyways our family was small, and there were more women, so we weren't as hungry. We felt as though conditions were OK.
+
+#### What did your parents do?
+ 
+My mom also worked in the store, then she worked as a nanny in a kindergarten. She worked for a while. She taught in elementary school for two years, grade one or two. She didn't have much education, so she couldn't teach the higher grades. Then she went home to take care of us. I had three siblings, an older sister and two younger brothers. She didn't work. 
+
+(My grandmother did not say, but her mother divorced her father. She took her mothers last name instead of her fathers')
+
+#### What was life like at school? How did you get there?
+
+It was a half-hour walk to school. We didn't have buses at the time. We walked for half an hour there, and half an hour back. I studied in middle school for two years. I would get up at six in the morning, then walk. Class started at seven. School was over at twelve, then after school got out, we walked home for lunch. There was no cafeteria. Even if there were, there wasn't money to buy food there. So at the time we just went home and had a meal. I got home at 12:30, ate for ten minutes, took a five minute break, then walked to school again. Not like you guys, eating at school. Pitiful, the way we were walking.
+
+What was also pitiful was when we had to pay school tuition. It made me anxious. At that time, tuition was six yuan a month. Money was very valuable at the time. Six yuan tuition. When it came time to pay, my jiajia had no money. She wouldn't pay it of her own volition. I would remind her, as I was anxious. "Pay me the tuition money quickly," and I knew she had no money. And so I had to ask my diedie (maternal grandfather). I wouldn't dare open my mouth, but there was no other way. "Diedie, I have to pay the tuition. Can you lend me money?" I remember that time very clearly, and I was always afraid of not having money to pay tuition with. 
+
+At the time my diedie made 78 yuan a month. His salary was high by comparison to other people, most people earned about 30-40 yuan a month. It was because he used to be in the <a href="https://en.wikipedia.org/wiki/Kuomintang" target="_blank" rel="noopener noreferrer">Kuomintang</a>. He was a senior official. Of course, his salary was reduced after the liberation (communists kicked Kuomintang out of the country). He used to earn more, more than 200 yuan. So he gave it to jiajia, and left 15, 20 yuan for himself. That 50, 60 yuan that he gave jiajia, well, our family needs to eat, right?
+
+Jiajia was not the type of person that knew how to save. She was a big spender. She'd bring home good things to eat, didn't plan, and every time there was not enough for tuition. So what did my diedie do? He came to a hospital. He was in charge of registration. Each person paid five, ten cents for registration at the hospital. He collected medicine fees and prescribed medicine. He was like an accountaant. Every month the family would ask him to borrow money, five, ten, fifteen yuan, and we'd pay it back the next month, then borrow again. 
+
+#### Was there ever a time when you couldn't get money for tuition?
+
+No, we made it work. We all went to school in the end. How could you not go to school? We still paid the tuition after all. There was no free schooling back then. Even if it were free, it wouldn't've been free for us. There were people in worse situations than us. After all, there were people earning only 30-40 yuan. How did they survive? I don't know.
+
+#### So when you finished school, did you go to the countryside?
+
+Yes, it was '68. I graduated from middle school in 1967, and I was sent down the countryside in 1968. I was there for two and a half years.
+
+#### Were you a Red Guard?
+
+No. But I followed them while they were searching peoples homes. We were searching their homes, searching if they were capitalists. Some people led us to their homes, thinking that they were rich. The Red Army led us to search people's homes. Anyways, I was still a teenager at the time, not yet a Red Guard. I was just listening to Chairman Mao, searching homes. *Aiya*, we would stand in a row and take things, pass it down. Their families were also poor. You can't say they are part of the old guard, the capitalist. It was the 60s then, years after liberation, they were poor now too. They didn't have much of a salary, all their original money was spent. There was nothing in their homes. 
+
+Even if there was nothing, we'd search the house anyways, confiscating items. 
+
+#### The 50s were not far from WWII and the Chinese Civil War. Could you feel the influence?
+
+We were still young, we didn't understand these things at all. We didn't know that there was war. We were girls, war didn't affect us. I was still three. 
+
+#### What did you do when you were sent to the countryside?
+
+It was really pitiful. We had a big paddy field, and it was flooded with water. We picked things all day. Bent our back, picked like this. From one end of the field to the other side, it was long. You got a back ache. After the plants grew up, we had to (thresh?) them. Like this, you'd snap the plant, and bundle it. Snap the plant, then bundle it. And after gathering it all, we still had to bring it back. 
+
+#### How many hours did you work in the field?
+
+At least eight or nine hours. It was pitiful when we were sent down. In the morning, we would get up at five AM, and buy things before the sun came up. We came back at dawn. After making breakfast, then we went to work at nine. We would work and work, then come back for lunch at twelve o'clock. Making and eating lunch took about an hour and a half, and so we ate and went back to work in the afternoon. We worked until about six. What's worse was that when we got home, there was no food to eat. We didn't know how to grow vegetables, we were still very young.
+
+Nobody buys vegetables in the countryside, you just grow them yourself. It was real pitiful. All we did was eat white rice. Sometimes, we started to learn how to grow beans, and for a while, every day we'd come back home to eat beans and only beans. And then after finishing the beans, there were no vegetables. Sometimes we would go to the town center, buy some pickles, some radishes, and just bring them back. 
+
+The countryside's rice is delicious. There was no need for vegetables. A little bit of salt, a little oil, a little soy sauce, and it was really good. It was fresh rice. 
+
+#### Were you able to satiate your hunger?
+
+When we went to the countryside, there was no sort of regulation on food. It was fine. We weren't hungry.
+
+#### When were rations introduced?
+
+We had ration tickets starting from the liberation, and we used those ration tickets all the way until the nineties. Eighties, I mean. For tofu, every person every month was given four portions. You could eat one plate of tofu a month. But if there are several people in the house, there's enough, we could buy more than ten portions of tofu. It was cheap. Three yuan a portion, each portion four pieces. We'd fry them. In the countryside it was just that there was no vegetables to eat.
+
+#### Do you remember how often you'd be able to eat meat?
+
+In the countryside, farmers raised pigs. When they slaughtered them, they would share a little bit with us. Maybe 0.5, 1 kg per person, for a few people. In my commune, there were seven or eight people. You could take that and eat it for a while. 
+
+#### You ate meat every month?
+
+No, only during New Year's and other festivals in the countryside, any festivities. They would give each person a little bit of pork to eat. It was in each commune. Later, when we returned to Wuhan, out of the countryside, there was a meat ration ticket. One person, every month, was maybe 250 grams, maybe 500 grams, I forget. It was when your mother was born (1979). She always says that she wasn't able to eat meat. I never heard her say she wanted to eat meat.
+
+When your mother got a little older, all the rations were cancelled. It was 13.5 kg at the time, maybe 14.5-15kg for men. 
+
+#### Tell me the story of how you went to Beijing on the train.
+
+Haha, that was Chairman Mao. He already did many things. We were still quite young, we were only 16 or 17. We saw that everyone was going there, that they were meeting with Chairman Mao. We lived at home, several us, and so we saw that and we said that we should go too. Later, we heard that Chairman Mao would meet with the Red Guard. And so we became students, Red Guards, and we ran off to Beijing. 
+
+It was three people from my family, my younger brother, my older sister, and me. A girl next door to me came, ah, in total seven people went. We were all quite young. It was on the train that we ran away. There it was all Red Guards. There were so many people, and at that time the train tickets were free. Some Red Guards ended up climbing on the train and sneaking on board to go to Beijing.
+
+We couldn't beat other people. We saw other people climb on each other into the windows, and flip themselves into the train car. After we flipped in, it was crowded. Everyone sat, on the floor, on seats, no one slept. When we arrived in Beijing, there was a public transportaion company, public buses, they handled everything. 
+
+They gave us thirty cents a day. It was fine back then. It was December, winter at the time, and we didn't wear shoes. We didn't have boots in the winter, and so we got them. Whether they were sneakers, or cloth shoes... I ended up wearing a pair of cloth shoes. Our feet froze in Beijing, they froze into ice cubes. It was too pitiful. 
+
+#### How long did you stay in Beijing?
+
+We were only supposed to stay for ten days to meet Chairman Mao, then leave. But we had a relative in Beijing. Your great-grandmother's little sister. We found her, and she was super happy. At the time, of course there was no money to go visit far-flung relatives. She was so happy, all three of us came. She told us to stay at their house, and we stayed there for more than ten days. 
+
+That company ended up giving us meal tickets, we already overstayed and they still gave them to us. We took the money in our hands and we bought bags, bags of stamed buns and the like, and we brought them all back to eat in Wuhan. That was my first time in Beijing. We'd never been to a faraway place before.
+
