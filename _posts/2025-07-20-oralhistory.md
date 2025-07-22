@@ -12,6 +12,16 @@ tags:
   - "My Favorites"
 ---
 
+# Table of Contents
+
+- [Intro](#intro)
+- [Interview 1 – Grandpa](#interview-1----grandpa)
+- [Interview 2 – Grandma](#interview-2----grandma)
+- [Interview 3 – Together](#interview-3----together)
+- [My Takeaways](#my-takeaways)
+
+## Intro
+
 When I watched Forrest Gump for the first time on a JetBlue flight, I was charmed by the way he's interwoven into so many historic events as the main player. I'd like to think that my grandparents are Forrest Gump too, the face of the common man, whichever way China's history led them. My grandfather's interview is more meandering, less personal. My grandmother's has more personal stories, more grounded in the times. It seems that my family's men and women are always this way. 
 
 My grandfather was born in 1950, and my grandmother in 1951. Their names are 新民 and 华，meaning "New People" (of the <a href="https://en.wikipedia.org/wiki/History_of_the_People%27s_Republic_of_China" target="_blank" rel="noopener noreferrer">New China</a>) and “magnificent/splendid/China." You can find recordings of the interviews <a href="https://drive.google.com/drive/folders/1rVO-nmieZZd2ttN2pQ59p5aUqMpXVAua?usp=drive_link" target="_blank" rel="noopener noreferrer">here</a>. PS: please don't judge how my voice sounds, I'm very sick and congested. I'll try my best to translate them below. Minor edits have been made for readability (removing repeated words/sentences), but to the best of my Chinese ability, I've tried to maintain the content as is for historical integrity.
