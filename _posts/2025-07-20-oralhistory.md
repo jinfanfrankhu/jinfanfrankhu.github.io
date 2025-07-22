@@ -9,6 +9,7 @@ tags:
   - "Deep Dives"
   - "Family"
   - "Language"
+  - "My Favorites"
 ---
 
 When I watched Forrest Gump for the first time on a JetBlue flight, I was charmed by the way he's interwoven into so many historic events as the main player. I'd like to think that my grandparents are Forrest Gump too, the face of the common man, whichever way China's history led them. My grandfather's interview is more meandering, less personal. My grandmother's has more personal stories, more grounded in the times. It seems that my family's men and women are always this way. 
@@ -231,3 +232,182 @@ We were only supposed to stay for ten days to meet Chairman Mao, then leave. But
 
 That company ended up giving us meal tickets, we already overstayed and they still gave them to us. We took the money in our hands and we bought bags, bags of stamed buns and the like, and we brought them all back to eat in Wuhan. That was my first time in Beijing. We'd never been to a faraway place before.
 
+## Interview 3 -- Together
+
+#### What did you eat for lunch and dinner as a kid?
+
+Grandpa: You can eat whatever. If you want to eat rice, buy rice, If you want to eat noodles, eat noodles. China is too rich!
+
+Grandma: He said when you were young.
+
+Grandpa: When we were young we just ate rice.
+
+Grandma: It was quite poor back then. We ate some small vegetables on the side. You didn't know if you could plan to eat meat.
+
+Grandpa: There were many people then, many brothers and sisters. 
+
+Grandma: For dinner, we ate leftovers from lunch. 
+
+Grandpa: Ha! Like there were leftovers, there were no leftovers in my house.
+
+Grandma: We had rice in soup overnight.
+
+#### And school, what happened if you were late, what things did you do in school?
+
+Grandpa: For middle school, I went to boarding school. I was there for three years, eating and sleeping. Your grandmother walked to school.
+
+#### So what did you learn in school? What was taught?
+
+Grandpa: There were textbooks, we just followed whatever the textbooks taught us. What it wrote, we wrote. There are mandated teaching materials, just like the US. There were patriotic teaching materials (literally translated: loving the country teaching materials). Loving the Communist Party, loving your motherland.
+
+#### What do you think are the biggest differences between China today and China of your childhood?
+
+Grandpa: It got rich. The whole world knows it now, China has money.
+
+Grandma: There are things to do/entertain yourself in China now.
+
+Grandpa: Look, nowadays, whatever country you go to, there are Chinese people. They all want to do business with Chinese people, earn Chinese people's money.
+
+#### Where did you like to go play as a kid?
+
+Grandpa: We didn't play. There was no place to play. When we were little it was just going to school and going home, three points in a line so to speak. School, home, school, home, there was only these two. There was nowhere to play. No cars. 
+
+#### Then at home, what did you do?
+
+Grandpa: At home, we played with classmates.
+
+Grandma: When I went home, we did homework.
+
+Grandpa: We would play with marbles. Glass marbles. We would dig little holes, and flick them with our thumbs. Just like golf. We took turns flicking the ball. 
+
+Grandma: We would skip rope, and we would kick a <a href="https://en.wikipedia.org/wiki/Jianzi" target="_blank" rel="noopener noreferrer">jianzi</a> (shuttlecock/hackysack). At school, when we had free time, we just did that.
+
+#### Are there differences between the Yangtze now and before?
+
+Grandpa: Yes, there's been a change. The water is clearer now. The Three Gorges Dam blocked it. Before the altitude of the water didn't even reach 100m, and now it's built to 175m. They rely on that water to generate electricity. Doesn't America have dams too? When it dammed the water, it became clear. Now, it's like lake water, green and beautiful. It used to be turbid, more yellow. Now it's green. If you go back to China this summer, I'll put you on a boat to Chongqing, and you can watch the water flow in the Three Gorges Dam.
+
+Grandpa: It's beautiful to see the muddy water be let out from the dam. It looks like a watery dragon, the muddy water being released from the dam. We can ride a boat and go check it out. When you were little I told you stories of ghost cities, they're right by the bank of the Yangtze. (Frying in oil?) saws, say that you're living right now, and you do something bad. Once you die, the King of Hell will punish you. He'll put you in a pan and fry you, saw you with a saw, put you in a lantern. I've taken pictures of it before, and shown you. There are colorful clay sculptures. I'll take you to Fengdu ghost city if I have the chance.
+
+Grandpa: There's also Baidi city. Didn't <a href="https://en.wikipedia.org/wiki/Li_Bai" target="_blank" rel="noopener noreferrer">Li Bai</a> (famous poet) write a poem there? Baidi (city) Caiyunjian (stepping between clouds). It's about leaving Baidi City in the morning, stepping within the clouds, two mountains sandwiching the river. 3000 miles of the river, in a day, I could cover. The monkeys on the banks would chitter. And the little boat would go through it all. (This is all a description of poetry)
+
+Grandpa: It's actually where Liu Bei and Tuo Gu (no idea) from the <a href="https://en.wikipedia.org/wiki/Three_Kingdoms" target="_blank" rel="noopener noreferrer">Three Kingdoms</a> are. There's not much to see, but it's a cool historic point.
+
+#### Were there any ceremonies to getting married back then?
+
+Grandpa: Wine parties! You go to a restaurant, pay a few dollars, well, in the '70s, gifting ten yuan was a lot of money. Some people would give cigarette holders. They came to drink. Money was worth a whole lot back then, in the '60s and '70s. With two cents, in the '60s, I would eat breakfast, eating chiba (Chinese mochi), covered in yellow soybean powder. Sweet chiba. So even though people were poor at the time, moeny was worth a lot. 
+
+Grandpa: At the time, an average person would get maybe 10, 20, 30 yuan. At the time, my dad, he earned 300 yuan a month. Wasn't it so much? Ten times a normal person's.
+
+#### Was life happier back then?
+
+Grandpa: Let's put it this way. It was a time of poverty, but there were no corrupt officials. (erm, sure...) Whether you were a leader, whether you were a mayor, everyone was paid by salary. There wasn't a hierarchy. There weren't corrupt officials. So even though we had little money, even if you were an official, you had a salary. Say I am workking class, I get 20 yuan, you're an official, you get 30-40 yuan. There was no class distinction back then. There wasn't such thing as being extremely poor or extremely rich at the time.
+
+Grandpa: Now, the gap between the rich and the poor is huge. Of course, commoners still can eat, you can get your stomach full. It's to have a good life. I'll tell you a joke from the countryside: Chinese people have this habit of panbi (comparison). What is it? If you have it, then I need it. What you don't have, I also want! Panbi. So now for countryside villagers, it's a weird thing, working in the city, you buy a car, why can't I have a car? Well, while you're working, there's no time to drive a car. You buy one, you leave it in the house, in the countryside. And you're scared of getting the paint scratched up and everything, so you put up a shed to keep it safe.
+
+Grandpa: You end up only driving it once a year, driving it during the New Years. All those migrant workers from the countryside go back to their hometowns, and they drive that car. And then once there's no more work to be done, there's no more money, no more salary. Does it cost money to refuel the car? Does it cost money to insure the car? And so you have no more money to do those things. So they end up selling that car anyways. So why panbi (compare yourself to others)? Chinese people are always panbi'ing.
+
+Grandpa: Now when rural workers go back to their hometowns from working in the city, they have to do side jobs. There's no more jobs in the city. So they raise fish, raise chickens, do more side jobs and grow fruits, that sort of thing.
+
+#### Do you think you lived by any teachings or idioms that modern Chinese people don't anymore?
+
+Grandpa: Not really, to be frank I don't really get your question.
+
+Grandma: Use idioms to talk about life!
+
+Grandpa: Ah there's a couple, "happy and contented," "self-sufficiency begets happiness," hmmm, there are so many that I can't remember them all. Well those are the usual ones.
+
+Grandma: Then before, when we were kids, what idioms were there?
+
+Grandpa: "Drunk and full,"
+
+Grandma: There's no way.... When we were young, when you couldn't be full! 
+
+Grandpa: "Hungry and cold" then?
+
+Grandma: Ah, you can't say that either. They'll think you're mocking the Communist Party. Life was plain.
+
+Grandpa: No one panbi'd then, everyone was hungry.
+
+#### If you were to go back to being young, what would you do?
+
+Grandpa: Sure, if I went back to thirty or forty, I'll buy a big truck. I can make money, and it's fun. I'm not afraid of hard work, and driving I don't even consider work. At the time, it was difficult to get a driver's license. If I wanted to learn, it was inconvenient. And anyways, there were no cars to drive. At the time, China's trucks were all imported. There was only one brand, and that was the liberation brand. The Soviet Union helped China produce those liberation trucks. Our cars were imported from Eastern European countries -- Romania, Soviet Union, those cars made their way to China.
+
+Grandma: I'd be very happy, to be young again.
+
+*mom interjects about their impending cataract surgery*
+
+Grandma: I'd like to eat well, to have warm clothing, to go everywhere and be a tourist.
+
+Grandpa: She wanted to be a teacher. She didn't know what certifications you needed to be a teacher. She went to the factory manager and asked what talents you needed, and the factory manager gave her a lecture. He said you need a diploma, a university diploma. 
+
+#### How did you pass New Year's?
+
+Grandpa: Eat and buy stuff.
+
+Grandma: Cooking.
+
+Grandpa: When we were young, we looked forward to it, you got money. The 
+
+Grandma: You would get new clothes. Every year I got a flower-embroidered coat.
+
+Grandpa: It was all about eating good food. We'd eat from the first to the fifteenth day of the first lunar month. We ate <a href="https://en.wikipedia.org/wiki/Tangyuan_(food)" target="_blank" rel="noopener noreferrer">tangyuan</a>, big fish, and meat. China attaches a lot of importance to this holiday. You can go without eating meat for a year, but you must have eat over New Year's. In the North, people eat dumplings. In the South, people eat stir-fry dishes. 
+
+#### Do you think there were any superstitions that people believed?
+
+Grandpa: People burned incense, worshiped the Buddha, they asked for the blessing of the Buddha. They asked him for protection, peace and safety, health.
+
+Grandma: Burning paper, kneeling your head.
+
+#### What did you do when you were sick?
+
+Grandpa: People went to the hospital if it was bad, and people bought medicine if it was mild.
+
+#### How did neighbors interact?
+
+Grandpa: People were neighborly, we asked if we needed help, needed people at home, looked after children. We had a good relationship.
+
+Grandma: Before the revolution, when I was in middle school, there was a woman next door to me. She was a worker in the sand fields. She had to go to work, and she gave birth to a child. She had no one to take care of the child, and she always asked me to take care of her kid. I took care of the kid for afternoons.
+
+Grandpa: People's relationships with each other were good. There's a saying: "far relatives aren't as good as close neighbors." They'll send you to this hospital if you're sick, pour a glass of water for you, etc.
+
+Grandma: Let me tell you, the house that you're sleeping in, the room that we're in, that'd be for one family. Your room would be one family. Every room in the house would be one family. 
+
+Grandpa: Door to door, everyone was close by. The door across from you was a different family.
+
+Grandma: One floor would be occupied by ten-some families.
+
+Grandpa: Now it's good. You can buy your own house. Back then the government distributed housing.
+
+Grandma: One house for fifteen years, it's about this big.
+
+Grandpa: All socialist countries are all divied up by the Communist Party.
+
+#### Where did you guys buy things? On the street, in markets, in stores?
+
+Together: Stores.
+
+Grandpa: There's all sorts of them. Big ones, small ones.
+
+Grandma: There are cheap ones, good and expensive ones, it's the same in the US. If you're well off, you can get a nice set of clothes, if you're poor, you get a bad set.
+
+#### Alright, that's all the questions I had. 
+
+Grandpa: Don't make China out to be as if it were a mess. 
+
+Grandma: Don't write bad things, it's not all bad. 
+
+Grandpa: China is doing well now. Even foreigners visiting China say that China's good. Foreigners marry in China, they bring their elders to China as tourists. 
+
+Grandma: Chinese people will see you write bad things and get mad at you. 
+
+## My Takeaways:
+
+I know for certain that my grandparents hold a lot of negative stuff in the past. It's a complicated thing. A lot of the time, my grandmother would ask me, "should I answer this," asking if she should share her pain with me. They both have such strong national pride, yet find fault with so many things. It's their upbringing -- taught to love the Communist Party and the motherland, but they can't separate their harsh upbringing from their country. 
+
+My grandfather likes jumping from topic to topic. It's shaped around external events and practical concerns: work, family, survival. There's certainly a self-imposed distance from hardship -- it's much easier to give a matter-of-fact sentence, then jump ship to the next thing. He tends towards philosophical or idiomatic generalizations. 
+
+My grandmother's stories were more intimate and emotional. She focused on family, small acts of kindness and corruption. Lots of her memories are more sensory, and she's much more aware at the emotional cost of the hardship she went through. The story about tuition money contextualizes anxiety about burdening others, and that anxiety has been clear throughout all of my life. Out of fear of burdening us, she sacrifices so much of herself, standing during meals, giving up the best cuts of meat. 
+
+There are certainly gender roles at play here. Chinese society is deeply patriarchal, and I wish my grandmother spoke more about adopting her mother's last name, and what that meant at the time. When I interviewed them together, it's clear that my grandmother was talked over, as she often is in the family. 
+
+They irk me at times, and it's easy to become frustrated with them. I'm stubborn, my mom's stubborn, and they're stubborn too. It runs in the family. Either way, they're my heroes. They might not be a Forrest Gump, making small decisions that would somehow make global ramifications, but they're my world and their stories have certainly impacted mine. 
