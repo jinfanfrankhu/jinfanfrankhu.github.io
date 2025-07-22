@@ -15,9 +15,9 @@ tags:
 # Table of Contents
 
 - [Intro](#intro)
-- [Interview 1 – Grandpa](#interview-1----grandpa)
-- [Interview 2 – Grandma](#interview-2----grandma)
-- [Interview 3 – Together](#interview-3----together)
+- [Interview 1 – Grandpa](#interview-1-grandpa)
+- [Interview 2 – Grandma](#interview-2-grandma)
+- [Interview 3 – Together](#interview-3-together)
 - [My Takeaways](#my-takeaways)
 
 ## Intro
@@ -26,7 +26,7 @@ When I watched Forrest Gump for the first time on a JetBlue flight, I was charme
 
 My grandfather was born in 1950, and my grandmother in 1951. Their names are 新民 and 华，meaning "New People" (of the <a href="https://en.wikipedia.org/wiki/History_of_the_People%27s_Republic_of_China" target="_blank" rel="noopener noreferrer">New China</a>) and “magnificent/splendid/China." You can find recordings of the interviews <a href="https://drive.google.com/drive/folders/1rVO-nmieZZd2ttN2pQ59p5aUqMpXVAua?usp=drive_link" target="_blank" rel="noopener noreferrer">here</a>. PS: please don't judge how my voice sounds, I'm very sick and congested. I'll try my best to translate them below. Minor edits have been made for readability (removing repeated words/sentences), but to the best of my Chinese ability, I've tried to maintain the content as is for historical integrity.
 
-## Interview 1 -- Grandpa
+## Interview 1 -- Grandpa {#interview-1-grandpa}
 
 #### Explain your family. What do your parents do?
 
@@ -142,7 +142,7 @@ Your grandmother worked with iron. Iron plates needed to be punched into pieces.
 
 There was no reaction. Of course there were some elderly people, I figured who weren't educated. They cried. The whole country had a memorial ceremony. The factory even held memorial ceremonies. People cried painfully. *Uuuuuuaaaaaaa!* Of course you didn't cry. We definitely didn't cry.
 
-## Interview 2 -- Grandma
+## Interview 2 -- Grandma {#interview-2-grandma}
 
 #### Were you born in '51?
 
@@ -242,7 +242,7 @@ We were only supposed to stay for ten days to meet Chairman Mao, then leave. But
 
 That company ended up giving us meal tickets, we already overstayed and they still gave them to us. We took the money in our hands and we bought bags, bags of stamed buns and the like, and we brought them all back to eat in Wuhan. That was my first time in Beijing. We'd never been to a faraway place before.
 
-## Interview 3 -- Together
+## Interview 3 -- Together {#interview-3-together}
 
 #### What did you eat for lunch and dinner as a kid?
 
