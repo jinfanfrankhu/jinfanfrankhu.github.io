@@ -1,0 +1,24 @@
+<p>
+  <span id="view-count">Loading views...</span>
+</p>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const page = window.location.pathname.replace(/\/$/, "");
+    const viewCountEl = document.getElementById("view-count");
+    if (!viewCountEl) return;
+
+    fetch(`https://counter.dev/0774af18-d684-4b1e-bd2e-b77747a4fc61/slug${page}`)
+      .then(response => response.json())
+      .then(data => {
+        if (data && typeof data.count === "number") {
+          viewCountEl.textContent = `${data.count} views`;
+        } else {
+          viewCountEl.textContent = `No views`;
+        }
+      })
+      .catch(() => {
+        viewCountEl.textContent = `Error loading views`;
+      });
+  });
+</script>
