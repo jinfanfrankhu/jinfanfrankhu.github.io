@@ -19,7 +19,7 @@ const posts = [
       title: {{ post.title | jsonify }},
       url: {{ post.url | relative_url | jsonify }},
       tags: {{ post.tags | jsonify }},
-      minutes: {{ post.content | number_of_words | divided_by:300 | ceil }}
+      minutes: {{ post.content | number_of_words | divided_by:250 | ceil }}
     },
   {% endfor %}
 ];
