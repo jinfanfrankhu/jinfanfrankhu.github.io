@@ -30,5 +30,20 @@ layout: default
 
   {% include disqus.html %}
 
+  <span id="viewcount">Loading views...</span>
+
+  <script>
+    const pagePath = window.location.pathname;
+
+    fetch(`https://view-counter.jinfanfrankhu.workers.dev/?page=${encodeURIComponent(pagePath)}`)
+      .then(res => res.json())
+      .then(data => {
+        document.getElementById("viewcount").innerText = `${data.views} views`;
+      })
+      .catch(err => {
+        console.error("Failed to fetch view count:", err);
+      });
+  </script>
+
   <meta itemprop="author" content="Jinfan Frank Hu" />
 </article>
