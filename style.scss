@@ -455,19 +455,13 @@ ul.custom-post-list {
 
 .post-meta {
   display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  font-size: 0.95rem;
-  color: #777;
-  margin-bottom: 0.5rem;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.2rem;
+  font-size: 1rem;
 }
 
 .post-date,
-.post-views {
-  flex: 1;
-  text-align: left;
-}
-
 .post-views {
   text-align: right;
 }
