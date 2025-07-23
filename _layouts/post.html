@@ -4,13 +4,19 @@ layout: default
 
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
   <div class="post-header">
-    <h1 class="post-title" itemprop="headline">{{ page.title }}</h1>
-    <div class="post-meta">
-      <div class="post-date">
-        {{ page.date | date: "%B %e, %Y" }}
-      </div>
-      <div class="post-views" id="viewcount">Loading views...</div>
-    </div>
+    <table style="width: 100%;">
+      <tr>
+        <td style="text-align: left; vertical-align: top;">
+          <h1 class="post-title" itemprop="headline">{{ page.title }}</h1>
+        </td>
+        <td style="text-align: right; vertical-align: top; white-space: nowrap;">
+          <div class="post-meta">
+            <div class="post-date">{{ page.date | date: "%B %e, %Y" }}</div>
+            <div class="post-views" id="viewcount">Loading views...</div>
+          </div>
+        </td>
+      </tr>
+    </table>
   </div>
 
 
