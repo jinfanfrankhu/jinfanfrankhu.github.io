@@ -1,12 +1,12 @@
 ---
 layout: project
 title: Tokenization in Turkish and Finnish
-image: /images/projects/tokenizationtf/tokenizationtf.png
+image: /images/projects/tokenization/tokenization.png
 description: Scraped text in Turkish and Finnish to study tokenization in agglutinative languages. Evaluated using Word2Vec and Named Entity Recognition sets.
-permalink: /projects/tokenizationtf/
+permalink: /projects/tokenization/
 ---
 
-![Animation of Word2Vec]({{ "/images/projects/tokenizationtf/Word2VecVisualization.gif" | relative_url }})
+![Animation of Word2Vec]({{ "/images/projects/tokenization/Word2VecVisualization.gif" | relative_url }})
 
 This is a 3d projection of 72,000 English words in Word2Vec. Every point represents a word, and the distance between them captures (or at least, tries to capture) semantic difference. 
 
@@ -21,7 +21,7 @@ TLDR: This is actually super relevant now, as this is an old model for how gener
 
 <p>This process turns language into geometry. Words that appear in similar contexts often land near each other in the high-dimensional space, because they share linguistic environments, and therefore, meanings. More impressively, Word2Vec captures relationships as directions: the famous example is that the vector difference between <em>king</em> and <em>queen</em> roughly matches the difference between <em>man</em> and <em>woman</em>.</p>
 
-<p><img src="{{ '/images/projects/tokenizationtf/VectorDifference.png' | relative_url }}" alt="Vector difference between uncle, aunt, man, and woman" style="display: block; margin: 20px auto; max-width: 100%; height: auto;"></p>
+<p><img src="{{ '/images/projects/tokenization/VectorDifference.png' | relative_url }}" alt="Vector difference between uncle, aunt, man, and woman" style="display: block; margin: 20px auto; max-width: 100%; height: auto;"></p>
 
 <p>So why does this matter for AI today? Modern large language models (LLMs) like GPT or Gemini are way more sophisticated than Word2Vec, but the core idea of representing words as vectors that encode meaning is still foundational.</p>
 
