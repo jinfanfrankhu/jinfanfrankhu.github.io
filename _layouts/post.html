@@ -3,14 +3,20 @@ layout: default
 ---
 
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-  <h1 itemprop="headline">{{ page.title }}</h1>
+  <div class="post-header">
+    <h1 class="post-title" itemprop="headline">{{ page.title }}</h1>
+    <div class="post-meta">
+      <span class="post-date">
+        {{ page.date | date: "%B %e, %Y" }}
+      </span>
+      <span class="post-views" id="viewcount">Loading views...</span>
+    </div>
+  </div>
+
+  <hr class="project-divider">
 
   <div class="entry" itemprop="articleBody">
     {{ content }}
-  </div>
-
-  <div class="date">
-    Written on <time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %e, %Y" }}</time>
   </div>
 
   {% if page.tags %}
@@ -30,11 +36,8 @@ layout: default
 
   {% include disqus.html %}
 
-  <span id="viewcount">Loading views...</span>
-
   <script>
     const pagePath = window.location.pathname;
-
     fetch(`https://view-counter.jinfanfrankhu.workers.dev/?page=${encodeURIComponent(pagePath)}`)
       .then(res => res.json())
       .then(data => {
