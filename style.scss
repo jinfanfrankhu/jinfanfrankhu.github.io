@@ -466,6 +466,13 @@ ul.custom-post-list {
   text-align: right;
 }
 
+.read-time {
+  display: block;
+  font-size: 0.85rem;
+  color: #888;
+  margin-top: 0.1rem;
+}
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start

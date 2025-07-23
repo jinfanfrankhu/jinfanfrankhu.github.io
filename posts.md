@@ -18,7 +18,8 @@ const posts = [
     {
       title: {{ post.title | jsonify }},
       url: {{ post.url | relative_url | jsonify }},
-      tags: {{ post.tags | jsonify }}
+      tags: {{ post.tags | jsonify }},
+      minutes: {{ post.content | number_of_words | divided_by:200 | ceil }}
     },
   {% endfor %}
 ];
@@ -71,6 +72,12 @@ function renderPosts(filterTag = null) {
       a.href = post.url;
       a.innerHTML = `<strong>${post.title}</strong>`;
 
+      // Add read time
+      const readTime = document.createElement('span');
+      readTime.className = 'read-time';
+      readTime.textContent = `~${post.minutes} min read`;
+      div.appendChild(readTime);
+      
       // Wrap in post content div
       const div = document.createElement('div');
       div.className = 'post-content';
