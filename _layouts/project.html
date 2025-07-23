@@ -23,6 +23,18 @@ layout: default
   </div>
   <br><br><br>
   {% include disqus.html %}
+
+  <script>
+    const pagePath = window.location.pathname;
+    fetch(`https://view-counter.jinfanfrankhu.workers.dev/?page=${encodeURIComponent(pagePath)}`)
+      .then(res => res.json())
+      .then(data => {
+        document.getElementById("viewcount").innerText = `${data.views} views 👁️`;
+      })
+      .catch(err => {
+        console.error("Failed to fetch view count:", err);
+      });
+  </script>
   
   <div class="back-link" style="margin-top: 20px;">
     <a href="{{ '/projects' | relative_url }}">&larr; Back to Projects</a>  </div>
