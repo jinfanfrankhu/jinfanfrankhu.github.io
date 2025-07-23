@@ -72,6 +72,6 @@ Chemistry 610/620 (Organic Chemistry): Unironically probably the most fun class 
 
 Math 535 (Stats Pt. 1): Correlation ≠ Causation. Nuff said
 
-Chemistry 487 (Environmental Chemistry): If anything remotely watershed or environmentally related comes up in conversation I *will* be telling people to <a href="https://www3.erie.gov/environment/what-problem-car-washing target="_blank" rel="noopener noreferrer">wash their cars on soil</a>
+Chemistry 487 (Environmental Chemistry): If anything remotely watershed or environmentally related comes up in conversation I *will* be telling people to <a href="https://www3.erie.gov/environment/what-problem-car-washing" target="_blank" rel="noopener noreferrer">wash their cars on soil</a>
 
 Physics 600 (Modern Physics): Gee, I sure hope Farmer John's 15 light year long barn does not have a ladder of 9 light years moving at 0.6c!
