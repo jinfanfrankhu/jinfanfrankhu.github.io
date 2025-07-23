@@ -5,6 +5,10 @@ layout: default
 <article class="project">
   <h1>{{ page.title }}</h1>
 
+  <p>
+    <span id="view-count">Loading views...</span>
+  </p>
+
   <div class="entry">
     {{ content }}
   </div>
@@ -14,3 +18,23 @@ layout: default
   <div class="back-link" style="margin-top: 20px;">
     <a href="{{ '/projects' | relative_url }}">&larr; Back to Projects</a>  </div>
 </article>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const page = window.location.pathname;
+    const viewCountEl = document.getElementById("view-count");
+
+    fetch(`https://counter.dev/0774af18-d684-4b1e-bd2e-b77747a4fc61/slug${page}`)
+      .then(response => response.json())
+      .then(data => {
+        if (data && typeof data.count === "number") {
+          viewCountEl.textContent = `${data.count} views`;
+        } else {
+          viewCountEl.textContent = `No views`;
+        }
+      })
+      .catch(() => {
+        viewCountEl.textContent = `Error loading views`;
+      });
+  });
+</script>
