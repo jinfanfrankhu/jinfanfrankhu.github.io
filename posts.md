@@ -72,16 +72,16 @@ function renderPosts(filterTag = null) {
       a.href = post.url;
       a.innerHTML = `<strong>${post.title}</strong>`;
 
+      // Wrap in post content div
+      const div = document.createElement('div');
+      div.className = 'post-content';
+      div.appendChild(a);
+
       // Add read time
       const readTime = document.createElement('span');
       readTime.className = 'read-time';
       readTime.textContent = `~${post.minutes} min read`;
       div.appendChild(readTime);
-      
-      // Wrap in post content div
-      const div = document.createElement('div');
-      div.className = 'post-content';
-      div.appendChild(a);
 
       // Combine all
       li.appendChild(img);
