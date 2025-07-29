@@ -13,23 +13,6 @@ Lincoln Feng has been my ride or die since the first week of Rye Country Day Sch
 
 <hr class="project-divider">
 
-<audio id="piano-audio" loop>
-  <source src="{{ '/files/chopinballade.mp3' | relative_url }}" type="audio/mpeg">
-</audio>
-
-<script>
-  window.addEventListener('DOMContentLoaded', function() {
-    var audio = document.getElementById('piano-audio');
-    // Try to autoplay after short delay
-    setTimeout(function() {
-      audio.play().catch(() => {
-        // If browser blocks autoplay, do nothing
-        // You could also show a play button here if desired
-      });
-    }, 2000);
-  });
-</script>
-
 **Foreword:**
 
 As I sit down and begin writing, I have to admit that this project is not my idea. No, this is a child born from a little bit of jealousy. As with most things in my life, I begin this piece inspired by <a href="https://jinfanhu.com/posts/when-does-it-end" target="_blank" rel="noopener noreferrer">Frank</a>. 

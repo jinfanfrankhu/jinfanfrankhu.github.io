@@ -125,4 +125,4 @@ TLDR: Levenshtein distance is not enough. It doesn't account for syntactic diffe
 
 </details>
 
-If you'd like to check out a quick presentation I made for the camp, click <a href="https://jinfanhu.com/files/tuftsai.pptx" target="_blank" rel="noopener noreferrer">here</a>. Thank you to Victor, my roommate, for putting up with my late-night grinds and keeping me entertained with your Roblox gambling sessions. Love you pookie 🥰🥰
+Thank you to Victor, my roommate, for putting up with my late-night grinds and keeping me entertained with your Roblox gambling sessions. Love you pookie 🥰🥰
