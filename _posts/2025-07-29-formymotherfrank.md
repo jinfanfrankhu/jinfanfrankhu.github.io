@@ -56,8 +56,9 @@ After all, they have everything they need here.
 
 I have seen the way Mittens  
 frantically  
-rolls and grinds and rubs against the dirt  
-something to scratch other than the faux-leather chairs  
+thrashes and grinds and rubs against the dirt  
+something to scratch  
+other than the faux-leather chairs  
 
 I know him  
 as I too have frantically rolled and scraped and writhed on the asphalt  
