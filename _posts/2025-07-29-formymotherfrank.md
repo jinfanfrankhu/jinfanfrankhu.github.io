@@ -59,7 +59,7 @@ rolls and grinds and rubs against the dirt
 something to scratch other than the faux-leather chairs
 
 I know him
-as I too have frantically rolled and grinded and rubbed on the asphalt 
+as I too have frantically rolled and scraped and writhed on the asphalt 
 even if it burned
 leapt into muddy puddles
 shivered in the sub-zero frost
