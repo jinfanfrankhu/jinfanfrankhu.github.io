@@ -49,245 +49,245 @@ You can find the response form **FILLER!** here. The audio files are below. Answ
   <div class="audio-item">
     <p><strong>Speaker 1</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/LSKDJOZKD.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/LSKDJOZKD.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 2</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/GOLDSCARS.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/GOLDSCARS.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 3</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/DHAY38F2P.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/DHAY38F2P.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 4</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/WHU3354SD.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/WHU3354SD.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 5</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/4HZ823KRH.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/4HZ823KRH.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 6</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/WCHU77581.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/WCHU77581.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 7</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/BOOB69420.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/BOOB69420.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 8</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/PEEPOOPEE.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/PEEPOOPEE.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 9</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/VIOLAGOD7.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/VIOLAGOD7.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 10</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/4G2A0GO67.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/4G2A0GO67.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 11</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/H015469YY.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/H015469YY.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 12</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/PRT9XWARA.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/PRT9XWARA.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 13</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/AIRFORCE1.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/AIRFORCE1.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 14</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/TYSJ69FW5.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/TYSJ69FW5.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 15</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/SCAMMEPLZ.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/SCAMMEPLZ.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 16</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/12345678M.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/12345678M.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 17</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/ABC893DEF.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/ABC893DEF.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 18</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/1JCR8D9J7.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/1JCR8D9J7.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 19</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/TUTUTANGO.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/TUTUTANGO.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 20</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/WTHELLYYY.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/WTHELLYYY.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 21</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/W8C94LK3M.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/W8C94LK3M.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 22</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/PLM47TO8W.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/PLM47TO8W.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 23</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/BRG9123QD5.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/BRG9123QD5.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 24</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/GE638AJD7.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/GE638AJD7.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 25</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/SIGMABOY1.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/SIGMABOY1.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 26</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/NOISY6969.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/NOISY6969.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 27</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/CAMPUSRD1.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/CAMPUSRD1.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 28</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/LADEEDOOD.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/LADEEDOOD.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 29</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/87LQ7H085.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/87LQ7H085.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 30</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/EXP3918FP.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/EXP3918FP.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 31</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/25DM30Y18.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/25DM30Y18.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 32</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/3737P3737.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/3737P3737.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 33</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/PS92JDABC.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/PS92JDABC.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 34</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/JF68DEP64.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/JF68DEP64.mp3" type="audio/mpeg">
     </audio>
   </div>
 
   <div class="audio-item">
     <p><strong>Speaker 35</strong></p>
     <audio controls preload="none">
-      <source src="miscfiles/gayvoicespeakers/X08544611.mp3" type="audio/mpeg">
+      <source src="/miscfiles/gayvoicespeakers/X08544611.mp3" type="audio/mpeg">
     </audio>
   </div>
 </div>
