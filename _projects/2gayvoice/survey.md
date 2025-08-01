@@ -285,10 +285,18 @@ You can find the response form **FILLER!** here. The audio files are below. Answ
   </div>
 
   <div class="audio-item">
-    <p><strong>Speaker 35 UPDATE THIS ONE</strong></p>
+    <p><strong>Speaker 35</strong></p>
     <audio controls preload="none">
       <source src="miscfiles/gayvoicespeakers/X08544611.mp3" type="audio/mpeg">
     </audio>
   </div>
 </div>
 
+<script>
+  document.addEventListener("play", function(e){
+    const audios = document.querySelectorAll("audio");
+    audios.forEach((audio) => {
+      if (audio !== e.target) audio.pause();
+    });
+  }, true);
+</script>
