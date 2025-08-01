@@ -20,3 +20,13 @@
   {% endfor %}
 </ul>
 
+<h2>A Recent Project</h2>
+<div class="project-card">
+  <a href="https://jinfanhu.com/projects/gay-voice">
+    <img src="/images/projects/gayvoice/cover.png" alt="Gay voice image" class="project-image"/>
+  </a>
+  <h2 class="project-title">
+    <a href="https://jinfanhu.com/projects/gay-voice">A Neural Network Informed Study on the Gay Voice</a>
+  </h2>
+  <p class="project-description">An ongoing project with CUNY Queens on identifying linguistic features that correspond with both self-reported sexuality and listener-perceived sexuality in Gen Z youth.</p>
+</div>
