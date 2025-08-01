@@ -20,7 +20,7 @@ If you agree to participate, you will be asked to:
 <ul>
   <li>Provide basic demographic information, including your age, gender identity, sexual orientation, whether you know someone who is gay in real life, and whether you are a native English speaker.</li>
   <li>Listen to a series of short voice samples.</li>
-  <li>Rate each speaker’s perceived sexuality on a continuous 0–10 scale, where 0 = 100% heterosexual, 10 = 100% homosexual, and 5 = evenly bisexual.</li>
+  <li>Rate each speaker’s perceived sexuality on a continuous 0-4 scale, where 0 = 100% heterosexual, 4 = 100% homosexual, and 2 = evenly bisexual.</li>
 </ul>
 </p>
 
@@ -31,7 +31,8 @@ No personally identifying information will be collected. All data will be stored
 There are no anticipated risks beyond those of everyday online activities. There is no direct benefit to you, but your responses will contribute to research on linguistic perception and social identity.</p>
 
 <p><strong>Contact:</strong><br>
-If you have questions about this study, please contact the research team at <em>[jinfanfrank@gmail.com]</em>.</p>
+If you have questions about this study, please contact the research team at <em>jinfanfrank@gmail.com</em>.
+</p>
 
 <p><strong>Consent:</strong><br>
 By proceeding to the survey, you voluntarily agree to participate in this study.</p>
@@ -40,5 +41,254 @@ By proceeding to the survey, you voluntarily agree to participate in this study.
 
 </details>
 
-You can find the response form **FILLER!** here
+You can find the response form **FILLER!** here. The audio files are below. Answer quickly and off what your gut tells you! 
+
+## Audio Files
+
+<div class="audio-grid">
+  <div class="audio-item">
+    <p><strong>Speaker 1</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/LSKDJOZKD.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 2</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/GOLDSCARS.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 3</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/DHAY38F2P.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 4</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/WHU3354SD.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 5</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/4HZ823KRH.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 6</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/WCHU77581.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 7</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/BOOB69420.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 8</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/PEEPOOPEE.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 9</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/VIOLAGOD7.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 10</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/4G2A0GO67.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 11</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/H015469YY.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 12</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/PRT9XWARA.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 13</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/AIRFORCE1.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 14</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/TYSJ69FW5.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 15</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/SCAMMEPLZ.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 16</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/12345678M.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 17</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/ABC893DEF.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 18</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/1JCR8D9J7.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 19</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/TUTUTANGO.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 20</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/WTHELLYYY.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 21</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/W8C94LK3M.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 22</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/PLM47TO8W.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 23</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/BRG9123QD5.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 24</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/GE638AJD7.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 25</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/SIGMABOY1.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 26</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/NOISY6969.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 27</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/CAMPUSRD1.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 28</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/LADEEDOOD.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 29</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/87LQ7H085.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 30</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/EXP3918FP.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 31</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/25DM30Y18.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 32</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/3737P3737.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 33</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/PS92JDABC.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 34</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/JF68DEP64.wav" type="audio/wav">
+    </audio>
+  </div>
+
+  <div class="audio-item">
+    <p><strong>Speaker 35 UPDATE THIS ONE</strong></p>
+    <audio controls preload="none">
+      <source src="miscfiles/gayvoicespeakers/.wav" type="audio/wav">
+    </audio>
+  </div>
+</div>
 
