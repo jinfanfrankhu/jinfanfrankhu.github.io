@@ -4,6 +4,7 @@ title: Tokenization in Turkish and Finnish
 image: /images/projects/tokenization/tokenization.png
 description: Scraped text in Turkish and Finnish to study tokenization in agglutinative languages. Evaluated using Word2Vec and Named Entity Recognition sets.
 permalink: /projects/tokenization/
+display: true
 ---
 
 ![Animation of Word2Vec]({{ "/images/projects/tokenization/Word2VecVisualization.gif" | relative_url }})
