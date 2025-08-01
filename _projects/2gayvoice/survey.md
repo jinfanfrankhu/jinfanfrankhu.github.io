@@ -20,7 +20,7 @@ If you agree to participate, you will be asked to:
 <ul>
   <li>Provide basic demographic information, including your age, gender identity, sexual orientation, whether you know someone who is gay in real life, and whether you are a native English speaker.</li>
   <li>Listen to a series of short voice samples.</li>
-  <li>Rate each speaker’s perceived sexuality on a continuous 0-4 scale, where 0 = 100% heterosexual, 4 = 100% homosexual, and 2 = evenly bisexual.</li>
+  <li>Rate each speaker’s perceived sexuality on a 1-5 scale, where 1 = 100% heterosexual, 5 = 100% homosexual, and 3 = evenly bisexual.</li>
 </ul>
 </p>
 
@@ -41,7 +41,7 @@ By proceeding to the survey, you voluntarily agree to participate in this study.
 
 </details>
 
-You can find the response form **FILLER!** here. The audio files are below. Answer quickly and off what your gut tells you! 
+You can find the response form <a href="https://forms.gle/GRgDbqmxchQDujbM6" target="_blank" rel="noopener noreferrer">here. The audio files are below. Answer quickly and off what your gut tells you! Tip: sometimes there's some silence at the beginning of the file. Click into the middle to quickly get to audio.
 
 ## Audio Files
 
