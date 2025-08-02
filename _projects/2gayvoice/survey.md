@@ -41,7 +41,7 @@ By proceeding to the survey, you voluntarily agree to participate in this study.
 
 </details>
 
-You can find the response form <a href="https://forms.gle/GRgDbqmxchQDujbM6" target="_blank" rel="noopener noreferrer">here. The audio files are below. Answer quickly and off what your gut tells you! Tip: sometimes there's some silence at the beginning of the file. Click into the middle to quickly get to audio.
+You can find the response form <a href="https://forms.gle/GRgDbqmxchQDujbM6" target="_blank" rel="noopener noreferrer">here</a>. The audio files are below. Answer quickly and off what your gut tells you! Tip: sometimes there's some silence at the beginning of the file. Click into the middle to quickly get to audio.
 
 ## Audio Files
 
