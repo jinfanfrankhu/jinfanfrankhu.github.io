@@ -7,7 +7,7 @@ permalink: /projects/gay-voice/
 display: true
 ---
 
-Looking for the survey? Click <a href="https://jinfanhu.com/projects/gay-voice/survey"><b>here</b></a>.
+Looking for the survey/gaydar quiz? Click <a href="https://gayvoice.github.io"><b>here</b></a>.
 
 <hr class="project-divider">
 
