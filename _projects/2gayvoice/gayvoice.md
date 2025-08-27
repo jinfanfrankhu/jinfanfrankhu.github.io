@@ -36,17 +36,17 @@ TLDR: We're using a two-stage neural network approach: first, interpretable mode
 <img src="/images/cat-closed.png" style="display: block; margin: 0 auto;"><summary><strong>Click to expand a longer explanation.</strong></summary>
 
 <p><strong>Stage 1: Interpretable Models (Feature → Prediction)</strong><br>
-We start with hand-crafted sociophonetic features including fundamental frequency (F0), formant frequencies, silibant center of gravity, rhythmic patterns, and pausing behavior. These features are fed into transparent models like logistic regression, random forests, or linear SVMs. Using feature importance tools (coefficients, SHAP values, permutation importance), we can identify which acoustic properties are significant predictors of sexuality perception.</p>
+We start with hand-crafted sociophonetic features including fundamental frequency (F0, aka pitch), formant frequencies (the resonant frequencies that give vowels their distinct sound), silibant center of gravity (how sharp or dull "s" sounds are), rhythmic patterns, and pausing behavior. These features are fed into transparent models like logistic regression (a statistical method that finds relationships between inputs and outputs), random forests, or linear SVMs. Using feature importance tools (methods that tell us which measurements matter most for predictions), we can identify which acoustic properties are significant predictors of sexuality perception.</p>
 
 <p>This approach may not achieve state-of-the-art accuracy, but it provides crucial evidence that aligns with linguistic research expectations: "Pitch range and /s/ spectral characteristics are significant predictors of perceived sexuality."</p>
 
 <p><strong>Stage 2: High-Capacity Predictive Models</strong><br>
-We then train deep neural networks on raw waveforms or self-supervised learning embeddings (Wav2Vec2, HuBERT, Whisper) to maximize predictive accuracy on held-out speakers and listeners. To understand what these black-box models are learning, we employ several probing techniques:</p>
+We then train deep neural networks (complex AI models with many layers) on raw waveforms (the actual audio signal) or self-supervised learning embeddings (pre-trained representations from models like Wav2Vec2, HuBERT, Whisper that have learned to understand speech). These models maximize predictive accuracy on held-out speakers and listeners (people not used during training). To understand what these black-box models (models that work well but don't explain their reasoning) are learning, we employ several probing techniques:</p>
 
 <p><strong>Stage 1.5: Targeted Feature Ablation</strong><br>
-Once we identify which interpretable features matter most in Stage 1, we systematically remove them from the neural network's input. For example, if /s/ center-of-gravity is important in our interpretable models, we mask sibilant regions in the raw audio for Stage 2 models to see how prediction accuracy changes.</p>
+Once we identify which interpretable features matter most in Stage 1, we systematically remove them from the neural network's input. This process is called "ablation" - essentially controlled removal to test importance. For example, if /s/ center-of-gravity is important in our interpretable models, we mask sibilant regions (hide all the "s" and "sh" sounds) in the raw audio for Stage 2 models to see how prediction accuracy changes.</p>
 
-<p>This bridging approach gives us both interpretable linguistic insights and high-performance predictive models, allowing us to say: "A black-box model predicts perceived sexuality at X% accuracy, and when we probe it, we find it relies heavily on prosodic features and sibilants."</p>
+<p>This bridging approach gives us both interpretable linguistic insights and high-performance predictive models, allowing us to say: "A black-box model predicts perceived sexuality at X% accuracy, and when we probe it, we find it relies heavily on prosodic features (rhythm, stress, intonation) and sibilants ("s" and "sh" sounds)."</p>
 
 <img src="/images/cat-open.png" style="display: block; margin: 0 auto;">
 
