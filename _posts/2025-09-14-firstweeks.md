@@ -1,0 +1,67 @@
+---
+layout: post
+title: "First Weeks of Andover"
+date: 2025-09-14
+permalink: /posts/first-week
+description: "A reflection on Jinfan Frank Hu's freshman, sophomore, junior, and senior years, as described as his first few weeks of school"
+tags:
+ - "Andover"
+ - "Academic"
+ - "Friends"
+ - "Family"
+ - "Deep Dives"
+ - "Favorites"
+image: /images/posts/firstweek.jpg
+---
+
+It's hard to come to terms with the fact that <a href="https://www.instagram.com/p/DNvYQhbXH4j/" rel="noopener noreferrer">I'm a senior now</a>. I still remember my first day of school at Andover, my first weeks as a new lower, and how I've changed since then. 
+
+**Sophomore/Lower Year:**
+
+I missed the "corner" behind Snyder, because I knew campus already from my time during Andover Summer. I was placed in Stearns, the same dorm that I'd stayed in, so I told my dad drive straight there. We arrived on campus at maybe 11, maybe 10:30, too late to claim the bigger room in the three-room double. After dropping off some things at the dorm, I remember choosing to walk to Snyder instead.
+
+I don't remember much from orientation, only the fact that I gave a terrible goodbye to my parents. After the "you were chosen" speech from Mr. Ventre, I knew my schedule read *"time to say goodbyes to parents."* Of course, in the hubbub of the day, I'd gotten lost and I had no idea where my parents were. I was excitedly chatting with the people I'd met when I was reminded, maybe it was a call, maybe it was a text. My mom was standing with the refreshments (it was blisteringly hot that day), and I gave her a half-hearted single-arm hug before happily drifting off to other activities. I don't think my mom was very happy with my goodbye, and thinking back, I'm no good at emotional goodbyes either. I didn't call home once, my first term here. Yes, I was a bad son. I'm working on it.
+
+The heat stayed for the entire first week. My first night, I couldn't sleep. The shabby fan that hung in my window only had one working rotor of two, which I learned barely moved any air at all. I kicked my blankets to the floor, rolled around in a pool of sweat, until I decided that something had to happen. I remember dismantling my bed -- I sent a picture to the family group chat with a picture of my mattress beside the wall, the frame of the bed in three pieces, and a timestamp of 2-3-something AM. The heat didn't seem to go away, and though being away from home was paradise, sleeping for the first week was hell.
+
+Us new lowers listened to a quick speech that the class reps gave on the second day. The content of the speeches went in one ear and out the other. I remember that one of them asked me in the lunch line if they seemed nervous. I said no, but that was a lie. One of the reps' friends then came up, and started bad-mouthing me in Chinese. "拍马屁" is what I remember: "slapping the horse's ass" aka "bootlicker" aka "fake ahh glazer." I was kind of indignant at the time -- why would you even assume I didn't speak Chinese? My last name is Hu for crying out loud... Either way, that interaction definitely set the tone for my interactions for the next month -- most people did not see me in the best light, even if they didn't want to tell me that.
+
+There were five new lowers in Stearns, four of us Asian. The White one was my roommate. Even though I'd easily say he's my best friend at school now, I hardly spoke to him -- I suppose we were both scared of judgement or being known (we opened up after overhearing some Instagram Reels). I remember saying: "us four are going to be such good friends!" Maybe it was just because we were Asian, or maybe because we'd walked together for an hour or two on a campus tour? Ironic how the one I am closest to never received said proclamation of friendship.
+
+On the first night, I heard about the dreaded tax: a tradition of fear-based food tribute to one of my prefects. I experienced it not hours later. Though my roommate had stocked the shelves with snacks and goodies, I had 12 gatorades to my name, six blue, six yellow. When I heard clamoring outside the door, I thought about prison -- I had to stand up to the toughest guy there, even if I would get beat up for it. My prefect was a football player, and I got trucked trying to defend my blue gatorade. I struggled against him all the way to his room, when he finally tossed it back. That same prefect would later become a Blue Key Head. During my audition, I was asked: "favorite Gatorade flavor?" Of course, it had to be blue.
+
+For my first week at Andover, I must've been the best student there ever was. I don't think there was a single day where I didn't complete my homework before 5pm. I had so much free time, I didn't know what to do with it (shocker, yes, free time at Andover). Of course, the words that my friend from back home had told me rung in my ears: "If you go back to your dorm before sign in, you're a pussy." I sure didn't want to be a pussy, so I guess my only option was to hang out around campus. I wandered the library, took walks, and worked out at the gym, not because I really wanted to, but because it was not yet time to go back to my dorm.
+
+**Upper/Junior Year**
+
+This year, I was a prefect, and that meant coming to campus early for leadership training. Many of my friends got split up into different dorms: some were still in Stearns as prefects, some prefecting out of house, some in upperclassmen dorms. 
+
+I was one of two prefects in America House, and I distinctly remember my first conversation with my house counselor. We had mandated dinners together, and it was just me, my prefect partner, and our house counselor. The conversation flowed like mud mixed with concrete slurry. After stumbling through 25 excruciating minutes of nothing, our house counselor took our cups and plates, put them away (without asking if we were finished), and left. Walking out of commons while other prefect teams were still getting to know each other did not make me confident what prefecting entailed.
+
+My first shower in America House became a fly genocide. Wispy gray-black flies clung to the curtain, gathered near the drain, and buzzed against the ceiling light. I was so tired, I didn't realize they were flies until they started moving halfway through my showers. I am not one for insects, but the thickness of my shower shoes gave me confidence to kill. Not wanting to waste water, and knowing that I was alone, I stepped out of the shower to get a better fly-swatting angle. Naked, save for a single shower shoe, I must've killed at least twenty flies. 
+
+The previous tenants in America House left behind a table and a body-length mirror in the hallways. Wanting to take advantage of the resources at hand (before they got snatched by my prefectees, who would move in soon), I put the mirror up in my room. Silly me, I didn't stand it up properly, and the mirror came crashing down with a thud so loud that my prefect partner came up to investigate. The mirror left shards of glass in both the carpeted floor and the rug my mother had bought for me. After doing my best to vacuum and sweep, I'd cleaned up the majority. For the rest of the year, I'd occasionally get a shard of glass wedged in my feet, and I cursed my clumsiness while trying to dig it out without causing more bleeding.
+
+When new students moved in, I decided to go with some friends to meet some future classmates. I must've hung out in Snyder for at least four hours. I made myself a name tag: Frank Hu, America House Prefect. It must've been an omen for Blue Key Head, the way I was directing new students around and greeting them. When two students pulled up, their parents with limited English speaking abilities (Spanish instead), I helped translate a bit. I didn't exactly know what the situation was, but one of their mothers kept saying something about "no dorm." I promptly relayed the fact that one of them hadn't been assigned to a dorm to an admissions staff member, and he must've had a heart attack the way his face looked. Turns out I just had to bring them to the admissions office so that they could be spoken to about financial aid.
+
+After a few nights for all of the students to settle in, I thought back to the way that people would randomly pop in and out of each others rooms to talk in my old dorm. I hopped in a conversation between two friends in their room, and as we talked, I picked wayward threads from his carpet and collected them in our hand. As the conversation wore on, I realized that the threads I'd been collecting had been unravelling the rest of the carpet, and I'd been tearing apart a poor freshman's carpet for the last hour. Determined to not make the same mistake the next night, I instead offered to play cards. Not many people were interested -- the ones that did take me up on my offer, they clearly didn't enjoy conversation. Towards fostering community, I think my first two attempts didn't work out too well. C-, maybe D+ at best...
+
+**Senior Year**
+
+I'd started a countdown on my phone and laptop for August 29th, the first day of move-in for student leaders, since the beginning of summer. Unlike my lower and upper years, I dreaded it. I'd gotten my driver's license and I didn't like the prospect of saying goodbye to driving. I also didn't look forward to saying goodbye to my family. Again, it was awkward. My grandparents left before me for China -- I had to get up early for something that day, and they'd groggily just said that they'd see me in Thanksgiving. Driving away left a lump in my throat. I don't remember what I said to my sisters -- I'd gotten in the habit of calling them both freakazoids and sigmas, and I remembered that I was trying to be nicer, so I think I said: "Farewell, Sigmas!" With my mother, I gave her a half-hug, both arms this time, before I left the house.
+
+I still hadn't arrived earlier than my roommate (the same one from lower year), and he got first dibs on room selection again. My dad helped me unpack, and his eyes lit up when he saw that our pod had an ironing board. While I hung up posters, he pressed wrinkles out of my shirts. Friends, old and new, came to my room, and as we chatted away, I lost track of time until I had to go to my first commitment in a rush. My dad was still ironing shirts when I left. "我现在走了，一点半要到." *I'm going now, I have to be there at 1:30.* He responded: "把你的衣服做完我就走了." *When I'm done with your clothes, I'll go.* When I got back to my dorm after leadership training, he was gone, and my shirts were wrinkleless and hung in my closet.
+
+That night, I called my grandparents first. Looking at the WeChat message that I'd missed dated a week ago, I cried. "马上你要开学了要准备形状要离开家了，我好想你们呀，晚上和你们视频一下好吗" *You should start preparing your luggage now that school has almost started, I miss you so much, can we call for a bit tonight?* I gave them a quick room tour, said that I had moved in, and that I missed them. 我想你. *I'm thinking of you.* After the call ended with a ping, I called my mom. It went to voicemail, and I knew she had gone to bed already.
+
+After a morning of cheering at "the corner" for the new students, I was ready for orientation to be over. Unfortunately, duty called. I *zip zap zop*'d, I *mafia*'d, I *icebreaker*'d, and boy, did I do a ton of *what's your name* and *where are you froms*. My blue key head partner and I were in charge of a group of 75 freshmen. To quote my partner: "it was like herding cats." Luckily, most of these cats knew what they were doing. For me, the cat that stood out was the kid I walked to advisory. This cat was crying, and I don't think the herders noticed. Later that night, I sent him an email checking in. I'd give myself a B+ for that day, and that's certainly better than upper year.
+
+The five new lowers that were in Stearns reunited again, this time in Stuart House. Ironically, we scattered perfectly -- each of us lives in a different hall, except my roommate and I. Unlike lower year, there was no second-guessing on what was expected. I looked forward to going back to the dorm and chatting. I looked forward to doing so to the point that I became "a pussy," someone who would go back to the dorm before sign-in. There's no need to prove myself to be anything anymore, "pussy," "bootlicker," prefect, or otherwise. 
+
+<hr class=project-divider>
+
+As I finish up my first real week of school as a fully-fledged senior at Andover, I want so badly to shut my eyes and pretend that I'm a new lower again. I want so badly to see this place as paradise, I want so badly to have my work done by 5pm every day, I want so badly to know that this is not my last rodeo. But alas, underclassmen are already calling me unc.
+
+Each first week was an omen, a symbol of some sorts. My lower year was truly both paradise and hell. My upper year, I'd killed all my flies, yet picked shards of metaphorical broken glass out of my feet time and time again. And now, a senior, I don't know what's to come. It's still too early to tell, and I'm not making any proclamations this time. What I do know is this: that I have eight short months and sixteen shorter days left at this place. That I am dreading this countdown much more than the one that brought me here for my final year. That --
+
+![3am fixing Stearns bed]({{ "/images/posts/firstweek.jpg" | relative_url }})
