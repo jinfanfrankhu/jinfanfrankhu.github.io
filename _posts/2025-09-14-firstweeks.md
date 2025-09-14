@@ -58,7 +58,7 @@ After a morning of cheering at "the corner" for the new students, I was ready fo
 
 The five new lowers that were in Stearns reunited again, this time in Stuart House. Ironically, we scattered perfectly -- each of us lives in a different hall, except my roommate and I. Unlike lower year, there was no second-guessing on what was expected. I looked forward to going back to the dorm and chatting. I looked forward to doing so to the point that I became "a pussy," someone who would go back to the dorm before sign-in. There's no need to prove myself to be anything anymore, "pussy," "bootlicker," prefect, or otherwise. 
 
-<hr class=project-divider>
+<hr class="project-divider">
 
 As I finish up my first real week of school as a fully-fledged senior at Andover, I want so badly to shut my eyes and pretend that I'm a new lower again. I want so badly to see this place as paradise, I want so badly to have my work done by 5pm every day, I want so badly to know that this is not my last rodeo. But alas, underclassmen are already calling me unc.
 
