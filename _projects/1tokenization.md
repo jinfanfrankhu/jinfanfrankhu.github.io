@@ -5,13 +5,22 @@ image: /images/projects/tokenization/tokenization.png
 description: Scraped text in Turkish and Finnish to study tokenization in agglutinative languages. Evaluated using Word2Vec and Named Entity Recognition sets.
 permalink: /projects/tokenization/
 display: true
+tags:
+  - "NLP"
+  - "Machine Learning"
+  - "Computational Linguistics"
+  - "Research"
+  - "Word2Vec"
+  - "Academic"
+keywords: "tokenization, Turkish, Finnish, agglutinative languages, Word2Vec, NLP, machine learning, computational linguistics, named entity recognition"
+date: 2024-06-01
 ---
 
-![Animation of Word2Vec]({{ "/images/projects/tokenization/Word2VecVisualization.gif" | relative_url }})
+![Animation of Word2Vec showing 72,000 English words in 3D space]({{ "/images/projects/tokenization/Word2VecVisualization.gif" | relative_url }}){: loading="lazy" width="800" height="600"}
 
 This is a 3d projection of 72,000 English words in Word2Vec. Every point represents a word, and the distance between them captures (or at least, tries to capture) semantic difference. 
 
-#### So what? How do the points represent words?
+## So what? How do the points represent words?
 
 TLDR: This is actually super relevant now, as this is an old model for how generative AI encodes words. AI models assign words large lists of numbers and do operations with those numbers to predict what to say. 
 
@@ -30,7 +39,7 @@ TLDR: This is actually super relevant now, as this is an old model for how gener
 
 </details>
 
-#### Ok, cool. So what does this have to do with Turkish and Finnish? 
+## Ok, cool. So what does this have to do with Turkish and Finnish? 
 
 TLDR: Turkish and Finnish build words by using lots of suffixes, and sometimes it's more efficient for AI's to break up words into smaller tokens (tokenization) to better understand the text.
 
@@ -48,7 +57,7 @@ TLDR: Turkish and Finnish build words by using lots of suffixes, and sometimes i
 
 </details>
 
-#### I see. So which ways did you end up tokenizing your text?
+## I see. So which ways did you end up tokenizing your text?
 
 TLDR: I used character-level segmentation, character n-grams, word level, and Byte Pair Encoding (BPE) with vocabulary sizes of 5k, 10k, 25k, and 50k. Byte Pair Encoding is a popular tokenization method that merges common pairs of characters until a certain vocabulary size is reached.
 
@@ -71,7 +80,7 @@ TLDR: I used character-level segmentation, character n-grams, word level, and By
 
 </details>
 
-#### Ok, got it. So you where are you getting the text from and how do you compare the strategies once your Word2Vec models are trained?
+## Ok, got it. So you where are you getting the text from and how do you compare the strategies once your Word2Vec models are trained?
 
 TLDR: You can easily scrape Wikipedia articles in both Turkish and Finnish, and you can train a simple model on the Word2Vec models to do something called Named Entity Recognition (NER). I used the accuracy on NER to compare efficacy.
 
@@ -129,7 +138,7 @@ TLDR: You can easily scrape Wikipedia articles in both Turkish and Finnish, and 
 
 </details>
 
-#### So... what were the results? What did you find?
+## So... what were the results? What did you find?
 
 TLDR: Word-level lowkey blew all other strategies out of the water. The best one that came close was BPE50k, which makes sense, as at that vocabulary size, it was probably approaching word-level tokenization anyways. 
 

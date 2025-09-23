@@ -16,7 +16,7 @@ image: /images/posts/firstweek.jpg
 
 It's hard to come to terms with the fact that <a href="https://www.instagram.com/p/DNvYQhbXH4j/" rel="noopener noreferrer">I'm a senior now</a>. I still remember my first day of school at Andover, my first weeks as a new lower, and how I've changed since then. 
 
-**Sophomore/Lower Year:**
+## Sophomore/Lower Year
 
 I missed the "corner" behind Snyder, because I knew campus already from my time during Andover Summer. I was placed in Stearns, the same dorm that I'd stayed in, so I told my dad drive straight there. We arrived on campus at maybe 11, maybe 10:30, too late to claim the bigger room in the three-room double. After dropping off some things at the dorm, I remember choosing to walk to Snyder instead.
 
@@ -32,7 +32,7 @@ On the first night, I heard about the dreaded tax: a tradition of fear-based foo
 
 For my first week at Andover, I must've been the best student there ever was. I don't think there was a single day where I didn't complete my homework before 5pm. I had so much free time, I didn't know what to do with it (shocker, yes, free time at Andover). Of course, the words that my friend from back home had told me rung in my ears: "If you go back to your dorm before sign in, you're a pussy." I sure didn't want to be a pussy, so I guess my only option was to hang out around campus. I wandered the library, took walks, and worked out at the gym, not because I really wanted to, but because it was not yet time to go back to my dorm.
 
-**Upper/Junior Year**
+## Upper/Junior Year
 
 This year, I was a prefect, and that meant coming to campus early for leadership training. Many of my friends got split up into different dorms: some were still in Stearns as prefects, some prefecting out of house, some in upperclassmen dorms. 
 
@@ -46,7 +46,7 @@ When new students moved in, I decided to go with some friends to meet some futur
 
 After a few nights for all of the students to settle in, I thought back to the way that people would randomly pop in and out of each others rooms to talk in my old dorm. I hopped in a conversation between two friends in their room, and as we talked, I picked wayward threads from his carpet and collected them in our hand. As the conversation wore on, I realized that the threads I'd been collecting had been unravelling the rest of the carpet, and I'd been tearing apart a poor freshman's carpet for the last hour. Determined to not make the same mistake the next night, I instead offered to play cards. Not many people were interested -- the ones that did take me up on my offer, they clearly didn't enjoy conversation. Towards fostering community, I think my first two attempts didn't work out too well. C-, maybe D+ at best...
 
-**Senior Year**
+## Senior Year
 
 I'd started a countdown on my phone and laptop for August 29th, the first day of move-in for student leaders, since the beginning of summer. Unlike my lower and upper years, I dreaded it. I'd gotten my driver's license and I didn't like the prospect of saying goodbye to driving. I also didn't look forward to saying goodbye to my family. Again, it was awkward. My grandparents left before me for China -- I had to get up early for something that day, and they'd groggily just said that they'd see me in Thanksgiving. Driving away left a lump in my throat. I don't remember what I said to my sisters -- I'd gotten in the habit of calling them both freakazoids and sigmas, and I remembered that I was trying to be nicer, so I think I said: "Farewell, Sigmas!" With my mother, I gave her a half-hug, both arms this time, before I left the house.
 
@@ -64,4 +64,4 @@ As I finish up my first real week of school as a fully-fledged senior at Andover
 
 Each first week was an omen, a symbol of some sorts. My lower year was truly both paradise and hell. My upper year, I'd killed all my flies, yet picked shards of metaphorical broken glass out of my feet time and time again. And now, a senior, I don't know what's to come. It's still too early to tell, and I'm not making any proclamations this time. What I do know is this: that I have eight short months and sixteen shorter days left at this place. That I am dreading this countdown much more than the one that brought me here for my final year. That --
 
-![3am fixing Stearns bed]({{ "/images/posts/firstweek.jpg" | relative_url }})
+![Frank Hu dismantling his Stearns dormitory bed at 3am during his first week at Phillips Academy Andover]({{ "/images/posts/firstweek.jpg" | relative_url }}){: loading="lazy" width="800" height="600"}

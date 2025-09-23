@@ -5,13 +5,22 @@ image: /images/projects/tuftsudhr/cover.png
 description: "2024 Summer Project for Tufts Engineering with AI Camp: Using the UDHR, ran a comparison using Levenshtein Distance to \"classify\" language families."
 permalink: /projects/tuftsudhr/
 display: true
+tags:
+  - "Computational Linguistics"
+  - "Language Families"
+  - "Data Science"
+  - "Python"
+  - "Research"
+  - "Academic"
+keywords: "language families, Levenshtein distance, UDHR, comparative linguistics, computational linguistics, data science, clustering"
+date: 2024-07-01
 ---
 
 <p>For this project, I tried to explore reverse-engineering language families according to the similarity of the words. This was done by using <a href="https://en.wikipedia.org/wiki/Levenshtein_distance" target="_blank" rel="noopener noreferrer">Levenshtein distance</a>.</p>
 
 <p><img src="{{ 'images/projects/tuftsudhr/indoeuropeanfamilies.jpeg' | relative_url}}" alt="An illustrated rendering of the Proto-Indo-European language family" style="display: block; margin: 20px auto; max-width: 100%; height: auto;"></p>
 
-#### So uh... what is a language family?
+## So uh... what is a language family?
 
 TLDR: Language families are groups of languages that are related through a common ancestor (a language that was spoken before, that diverged to create new languages). Some examples include Romance Languages, Germanic Languages, and Semitic Languages.
 
@@ -58,7 +67,7 @@ TLDR: Language families are groups of languages that are related through a commo
 
 </details>
 
-#### So you said that determining language families aren't done by just comparing words. Levenshtein distance is just comparing words... no?
+## So you said that determining language families aren't done by just comparing words. Levenshtein distance is just comparing words... no?
 
 TLDR: Woah, shots fired, you got me there! I was just messing around with words to try and make families of lexical similarity! You're right that Levenshtein distance looks at words, and there's a lot of limitations with what I was doing! Guess a five-day project can't be too deep after all.
 
@@ -80,7 +89,7 @@ TLDR: Woah, shots fired, you got me there! I was just messing around with words 
 
 </details>
 
-#### Sure, I guess that makes sense. So why use the Universal Declaration of Human Rights?
+## Sure, I guess that makes sense. So why use the Universal Declaration of Human Rights?
 
 TLDR: I was looking for a document that was well-translated and available for a whole bunch of different languages, from high to low resource. The <a href="https://www.ohchr.org/en/search?f%5B0%5D=event_type_taxonomy_term_name%3AUniversal%20Declaration%20of%20Human%20Rights" target="_blank" rel="noopener noreferrer">UDHR</a> checks all of those boxes, as it's kind of a go-to for providing examples of a language.
 
@@ -95,7 +104,7 @@ TLDR: I was looking for a document that was well-translated and available for a 
 
 </details>
 
-#### Ok, got it. So what did you do to create language families?
+## Ok, got it. So what did you do to create language families?
 
 1.  I calculated pairwise similarity scores between languages by using Levenshtein distance.
 
@@ -105,11 +114,11 @@ TLDR: I was looking for a document that was well-translated and available for a 
 
 4.  I passed that to Seaborn's clustermap, which drew a heatmap of standardized similarity, and visualized the "trees" corresponding to the clustering order.
 
-#### So where can I see the code and the images you generated after a couple of runs?
+## So where can I see the code and the images you generated after a couple of runs?
 
 Oh come on, I'm kind of embarassed. This stuff is pretty garbage. If you really want to check out what I used for this project, you can find it <a href="https://github.com/jinfanfrankhu/LanguageFamily" target="_blank" rel="noopener noreferrer">here</a>. Seriously, I'm warning you: I grinded this out with a lot of help of AI and a few days of caffeine fueled frenzy. Don't expect much. In fact, don't expect anything! You will laugh at the graphs I generated, because I'm telling you, some of them are total garbage. I also didn't know how to use GitHub back then, so you're going to have to come through some files...
 
-#### It sounds like you're talking down this project a lot. What can be improved?
+## It sounds like you're talking down this project a lot. What can be improved?
 
 TLDR: Levenshtein distance is not enough. It doesn't account for syntactic difference, phonological difference, difference in writing systems, and a whole bunch of other stuff.
 
