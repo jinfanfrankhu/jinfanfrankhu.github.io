@@ -10,7 +10,7 @@ tags:
  - "Friends"
  - "Family"
  - "Deep Dives"
- - "Favorites"
+ - "My Favorites"
 image: /images/posts/firstweek.jpg
 ---
 

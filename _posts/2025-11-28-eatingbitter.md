@@ -8,6 +8,8 @@ tags:
  - "Friends"
  - "Family"
  - "Deep Dives"
+ - "Andover"
+ - "Food"
 image: /images/posts/pomegranates.JPG
 ---
 
