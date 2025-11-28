@@ -45,4 +45,4 @@ I don't feel like someone who's done eating bitter. If anything, adulthood feels
 
 In a way, it's a bit disappointing. 
 
-![Some pomegranate seeds and arils on Frank Hu's nightstand]({{ "/images/posts/pomegranates.jpg" | relative_url }}){: loading="lazy" width="800" height="600"}
+![Some pomegranate seeds and arils on Frank Hu's nightstand]({{ "/images/posts/pomegranates.JPG" | relative_url }}){: loading="lazy" width="800" height="600"}
