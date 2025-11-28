@@ -5,6 +5,7 @@ image: /images/projects/gayvoice/cover.png
 description: An ongoing project with CUNY Queens on identifying linguistic features that correspond with both self-reported sexuality and listener-perceived sexuality in Gen Z youth.
 permalink: /projects/gay-voice/
 display: true
+date: 2024-08-15
 ---
 
 Looking for the survey/gaydar quiz? Click <a href="https://gayvoice.github.io"><b>here</b></a>.
