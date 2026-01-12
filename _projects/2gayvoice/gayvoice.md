@@ -8,7 +8,11 @@ display: true
 date: 2024-08-15
 ---
 
-Looking for the survey/gaydar quiz? Click <a href="https://gayvoice.github.io"><b>here</b></a>.
+<!-- Looking for the survey/gaydar quiz? Click <a href="https://gayvoice.github.io"><b>here</b></a>. -->
+
+<div style="background-color: #fff3cd; border: 2px solid #ffc107; border-radius: 8px; padding: 15px; margin: 20px 0; text-align: center;">
+<strong>Want an update on where this project is at and some details?</strong> <a href="#project-update"><strong>Click here!</strong></a>
+</div>
 
 <hr class="project-divider">
 
@@ -94,3 +98,15 @@ We'll train two separate neural networks: one trained on self-identified sexuali
 <img src="/images/cat-open.png" style="display: block; margin: 0 auto;">
 
 </details>
+
+<hr class="project-divider">
+
+## An Update From Jan 1 {#project-update}
+
+Hey guys, it's been a while! Welp, it's been a bit of a wild ride -- after securing 36 total recordings, I was told that our IRB (Institutional Review Board) actually told us to start over the project... 
+
+For a bit of context, every research project with human subjects involves an IRB that outlines what you can and cannot do (which is certainly super important if you're going to be testing medicines on babies or something). In our case, our original IRB involved using participants under 18 as speakers. This was originally deemed okay because, at least in my and my mentor's minds, we were studying the voice, and not the person, so the age was irrelevant. 
+
+Unfortunately, I got a call from my mentor late October as I was finishing up my first batches of neural network stuff. He basically told me the whole project had to be redone, as even though we're mainly studying the voice, the sexuality was still being considered (and thus, human subject rules still applied). I know, after having spent an entire summer doing this, I'm just as upset as you are.
+
+So now, we're redoing the project. On the bright side, I've got a nice fancy audio recorder that'll capture a little more auditory information than an iPhone's voice memos. I think my mentor has given me 20ish recordings too, and hopefully we'll be able to submit to LavLangs by mid-March. Sorry to disappoint but hey, I'm chugging along.
