@@ -5,13 +5,13 @@ image: /images/projects/gayvoice/cover.png
 description: An ongoing project with CUNY Queens on identifying linguistic features that correspond with both self-reported sexuality and listener-perceived sexuality in Gen Z youth.
 permalink: /projects/gay-voice/
 display: true
-date: 2024-08-15
+date: 2026-04-09
 ---
 
 <!-- Looking for the survey/gaydar quiz? Click <a href="https://gayvoice.github.io"><b>here</b></a>. -->
 
 <div style="background-color: #fff3cd; border: 2px solid #ffc107; border-radius: 8px; padding: 15px; margin: 20px 0; text-align: center;">
-<strong>Want an update on where this project is at and some details?</strong> <a href="#project-update"><strong>Click here!</strong></a>
+<strong>Want an update on where this project is at and some details?</strong> <a href="#project-update"><strong>Click here for the latest update (Apr 9, 2026)!</strong></a>
 </div>
 
 <hr class="project-divider">
@@ -101,7 +101,7 @@ We'll train two separate neural networks: one trained on self-identified sexuali
 
 <hr class="project-divider">
 
-## An Update From Jan 1 {#project-update}
+## An Update From Jan 1, 2026 {#jan-2026-update}
 
 Hey guys, it's been a while! Welp, it's been a bit of a wild ride -- after securing 36 total recordings, I was told that our IRB (Institutional Review Board) actually told us to start over the project... 
 
@@ -110,3 +110,116 @@ For a bit of context, every research project with human subjects involves an IRB
 Unfortunately, I got a call from my mentor late October as I was finishing up my first batches of neural network stuff. He basically told me the whole project had to be redone, as even though we're mainly studying the voice, the sexuality was still being considered (and thus, human subject rules still applied). I know, after having spent an entire summer doing this, I'm just as upset as you are.
 
 So now, we're redoing the project. On the bright side, I've got a nice fancy audio recorder that'll capture a little more auditory information than an iPhone's voice memos. I think my mentor has given me 20ish recordings too, and hopefully we'll be able to submit to LavLangs by mid-March. Sorry to disappoint but hey, I'm chugging along.
+
+<hr class="project-divider">
+
+## An Update From April 9, 2026 {#project-update}
+
+Good news — we actually have results! We've submitted some initial findings to <a href="https://lavlang.american.edu/" target="_blank" rel="noopener noreferrer">Lavender Languages and Linguistics</a>, a conference dedicated to language and sexuality research. Below I'll share some of the most interesting things we found from our listener perception data, and you can <a href="/projects/gay-voice/dataplots/">see every plot here</a>.
+
+Quick refresher on the setup: 85 listeners rated 36 speakers on a 1–5 scale (1 = sounds very straight, 5 = sounds very gay), and we compare those ratings to the speakers' own self-reported sexuality scores.
+
+---
+
+### Can people actually tell?
+
+The short answer: barely.
+
+<div style="text-align: center; margin: 20px 0;">
+<img src="/images/projects/gayvoice/dataplots/1A_overall_accuracy_scatter.png" style="max-width: 520px; width: 100%;">
+</div>
+
+Overall perception accuracy comes in at r = 0.287, R² = 0.083, p = 0.089 — a weak, marginally significant positive correlation. The regression line is pretty flat. Listeners tend to cluster their guesses toward the middle of the scale regardless of a speaker's actual sexuality, and the variance is enormous. There is *some* signal here, but it's faint.
+
+Signal Detection Theory (SDT) gives us another lens on this. SDT separates a listener's sensitivity (can they actually tell gay from straight voices?) from their bias (do they lean toward calling things one way or the other?):
+
+<div style="text-align: center; margin: 20px 0;">
+<img src="/images/projects/gayvoice/dataplots/8A_signal_detection.png" style="max-width: 520px; width: 100%;">
+</div>
+
+The mean d' (sensitivity) across listeners is **0.11** — essentially at chance. Most listeners are barely better than random at picking up the "gay voice" from voice alone. The criterion c is slightly negative (−0.08), indicating a very mild tendency to rate voices as gay-sounding more liberally, but not dramatically so.
+
+---
+
+### But here's the twist: everyone agrees with each other
+
+Despite performing near chance, listeners are remarkably *consistent* with one another:
+
+<div style="text-align: center; margin: 20px 0;">
+<img src="/images/projects/gayvoice/dataplots/3A_interrater_reliability.png" style="max-width: 520px; width: 100%;">
+</div>
+
+The inter-rater correlation matrix shows an **ICC(2,k) = 0.964** across all 85 listeners — basically perfect reliability. When listeners rate a voice as gay-sounding, pretty much everyone agrees on that rating. They're just wrong a lot of the time.
+
+This is one of the most interesting findings we have. It suggests there's a clear, shared cultural prototype of what "the gay voice" sounds like — a consistent perceptual category — but that prototype doesn't map cleanly onto actual gay speakers. People *know* what they think a gay voice sounds like; they're just not great at using it to identify real sexuality.
+
+---
+
+### Some speakers are just easier to read than others
+
+<div style="text-align: center; margin: 20px 0;">
+<img src="/images/projects/gayvoice/dataplots/5A_speaker_readability_quadrants.png" style="max-width: 520px; width: 100%;">
+</div>
+
+This is probably my favorite plot. Plotting each speaker by listener agreement (SD of ratings, x-axis — lower = more agreement) vs. prediction error (y-axis — lower = more accurate), we get four interesting speaker types:
+
+- **Bottom-left — High Agreement, High Accuracy**: Easy-to-read voices. Everyone agrees, and everyone's right.
+- **Top-left — High Agreement, Low Accuracy**: "Confidently wrong" speakers. Everyone thinks the same thing, and everyone's wrong. These are fascinating cases.
+- **Top-right — Low Agreement, Low Accuracy**: Ambiguous speakers. Nobody agrees, and nobody's right.
+- **Bottom-right — Low Agreement, High Accuracy**: Polarizing speakers. Listeners disagree strongly, but when they do guess, they often land close to correct.
+
+---
+
+### Do some listeners do better than others?
+
+<div style="text-align: center; margin: 20px 0;">
+<img src="/images/projects/gayvoice/dataplots/7A_gender_orientation_interaction.png" style="max-width: 520px; width: 100%;">
+</div>
+
+Gay/lesbian listeners appear to be considerably more accurate (r ≈ 0.37) than straight or bi/pan listeners (r ≈ 0.13–0.16). This aligns with prior literature suggesting ingroup familiarity may sharpen perception. That said — our gay/lesbian listener sample was only N=2, which is way too small to draw real conclusions from. Something worth testing with more listeners in the future.
+
+---
+
+### What doesn't seem to matter
+
+We also looked at whether religiosity predicts rating bias — i.e., whether more religious listeners systematically rate voices as straighter or gayer:
+
+<div style="text-align: center; margin: 20px 0;">
+<img src="/images/projects/gayvoice/dataplots/6B_religiosity_vs_bias.png" style="max-width: 520px; width: 100%;">
+</div>
+
+With r = 0.040 and p = 0.721, religiosity has essentially zero relationship with how listeners rate voices. Whatever individual differences are driving people to rate voices one way or another, it isn't how religious they are.
+
+---
+
+### A "perceived gayness" dimension exists — it just doesn't track reality
+
+Principal component analysis on the listener ratings reveals something interesting. PC1 — the single biggest axis of variation across all listeners, accounting for 30.9% of the variance — correlates with mean listener rating at r = **0.998**:
+
+<div style="text-align: center; margin: 20px 0;">
+<img src="/images/projects/gayvoice/dataplots/5D2_pc1_vs_mean_rating.png" style="max-width: 520px; width: 100%;">
+</div>
+
+That's essentially a perfect line. PC1 is, for all practical purposes, "how gay-sounding listeners collectively perceive this speaker." It's a clean summary of the shared perceptual dimension: the consistent cultural prototype.
+
+Now here's where it gets interesting. When you plot that same PC1 score against each speaker's *actual* self-reported sexuality:
+
+<div style="text-align: center; margin: 20px 0;">
+<img src="/images/projects/gayvoice/dataplots/5D1_pc1_vs_actual.png" style="max-width: 520px; width: 100%;">
+</div>
+
+r = 0.273, p = 0.108 — weak and non-significant. The perceptual dimension that listeners share so reliably barely correlates with actual sexuality. Listeners are collectively measuring *something* with high precision, but that something isn't the speaker's self-reported identity.
+
+Finally, you might expect that speakers at the extremes of that perceptual axis — voices listeners unanimously read as very gay or very straight — would at least be easier to get right. Not so:
+
+<div style="text-align: center; margin: 20px 0;">
+<img src="/images/projects/gayvoice/dataplots/5D3_pc1_extremity_vs_error.png" style="max-width: 520px; width: 100%;">
+</div>
+
+Perceptual extremity (|PC1|) has essentially no relationship with prediction error (r = −0.172, p = 0.316). A voice that listeners unanimously peg as "very gay sounding" is no more likely to actually be gay than one they're ambivalent about. The confidence doesn't translate to accuracy.
+
+---
+
+The big picture takeaway: people largely can't identify who's actually gay from voice alone, but they're strikingly consistent in their (often wrong) judgments — pointing to a shared cultural "gay voice" prototype that doesn't perfectly reflect reality. The acoustic work is still ongoing, and we'll be digging into *what* features drive these perceptions next.
+
+**Interested in seeing all of our analysis plots?** <a href="/projects/gay-voice/dataplots/">Click here for the full plot gallery.</a>
