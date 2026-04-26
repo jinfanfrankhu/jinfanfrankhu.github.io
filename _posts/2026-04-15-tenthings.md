@@ -5,7 +5,8 @@ date: 2026-04-15
 permalink: /posts/tenthings
 description: "placeholder"
 tags:
- - "placeholder"
+ - "Little Things"
+ - "Andover"
 ---
 
 1. I am a shameless grifter; even this blog post idea was stolen from another.
