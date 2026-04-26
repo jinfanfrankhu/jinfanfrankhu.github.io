@@ -3,7 +3,7 @@ layout: post
 title: "Ten Things About Me Right Now"
 date: 2026-04-15
 permalink: /posts/tenthings
-description: "placeholder"
+description: "A slice-of-life list of ten things on a busy April day — cycling races, Blue Key, art class, and thoughts on time and consistency."
 tags:
  - "Little Things"
  - "Andover"
