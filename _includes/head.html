@@ -29,6 +29,14 @@
   <meta name="twitter:site" content="@{{ site.footer-links.twitter | default: 'jinfanfrankhu' }}">
   <meta name="twitter:creator" content="@{{ site.footer-links.twitter | default: 'jinfanfrankhu' }}">
 
+  <!-- Theme: apply saved preference before first paint to avoid flash -->
+  <script>
+    (function() {
+      var t = localStorage.getItem('theme');
+      if (t) document.documentElement.setAttribute('data-theme', t);
+    })();
+  </script>
+
   <!-- Styles and favicon -->
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
   <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />

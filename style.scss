@@ -10,6 +10,78 @@
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
+/* THEME VARIABLES */
+/**************/
+
+:root {
+  --bg: #f6d9b1;
+  --bg-footer: #e4c69b;
+  --border: #eee;
+  --border-footer: #ddd;
+  --text: #333;
+  --text-heading: #222;
+  --text-secondary: #666;
+  --text-tertiary: #888;
+  --text-muted: #555;
+  --link: #4183C4;
+  --link-accent: #0077cc;
+  --tag-bg: #ffe3b3;
+  --tag-text: #3a2c1c;
+  --tag-border: #d4a373;
+  --tag-hover-bg: #ffd8a8;
+  --tag-active-bg: #c97b32;
+  --tag-active-border: #a55a1c;
+  --selection-bg: #eee;
+  --selection-text: #000;
+}
+
+[data-theme="dark"] {
+  --bg: #1e1508;
+  --bg-footer: #150e04;
+  --border: #3a2c1c;
+  --border-footer: #3a2c1c;
+  --text: #e0c9a0;
+  --text-heading: #f0ddb8;
+  --text-secondary: #a08060;
+  --text-tertiary: #806040;
+  --text-muted: #907050;
+  --link: #7ab4e8;
+  --link-accent: #5599cc;
+  --tag-bg: #3a2510;
+  --tag-text: #e0c9a0;
+  --tag-border: #6b4020;
+  --tag-hover-bg: #4a3018;
+  --tag-active-bg: #8b5a20;
+  --tag-active-border: #6b4015;
+  --selection-bg: #3a2c1c;
+  --selection-text: #f0ddb8;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #1e1508;
+    --bg-footer: #150e04;
+    --border: #3a2c1c;
+    --border-footer: #3a2c1c;
+    --text: #e0c9a0;
+    --text-heading: #f0ddb8;
+    --text-secondary: #a08060;
+    --text-tertiary: #806040;
+    --text-muted: #907050;
+    --link: #7ab4e8;
+    --link-accent: #5599cc;
+    --tag-bg: #3a2510;
+    --tag-text: #e0c9a0;
+    --tag-border: #6b4020;
+    --tag-hover-bg: #4a3018;
+    --tag-active-bg: #8b5a20;
+    --tag-active-border: #6b4015;
+    --selection-bg: #3a2c1c;
+    --selection-text: #f0ddb8;
+  }
+}
+
+/**************/
 /* BASE RULES */
 /**************/
 
@@ -18,9 +90,9 @@ html {
 }
 
 body {
-	background: #f6d9b1;
+	background: var(--bg);
   font: 18px/1.4 "Times New Roman", Times, serif;
-  color: $darkGray;
+  color: var(--text);
 }
 
 .container {
@@ -32,7 +104,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Times New Roman", Times, serif;
-  color: $darkerGray;
+  color: var(--text-heading);
   font-weight: bold;
   text-align: center;
 
@@ -62,7 +134,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: var(--text-secondary);
 }
 
 p {
@@ -72,11 +144,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: var(--link);
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: var(--link);
   }
 }
 
@@ -120,7 +192,7 @@ summary {
 
 summary:hover {
   text-decoration: underline;
-  color: #0077cc;
+  color: var(--link-accent);
 }
 
 sup {
@@ -135,17 +207,17 @@ sup {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: var(--text-secondary);
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
-  background: $lightGray;
+  color: var(--selection-text);
+  background: var(--selection-bg);
 }
 ::selection {
-  color: $black;
-  background: $lightGray;
+  color: var(--selection-text);
+  background: var(--selection-bg);
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -174,7 +246,7 @@ sup {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid var(--border);
 
   @include mobile {
     text-align: center;
@@ -210,7 +282,7 @@ sup {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: var(--text-heading);
   cursor: pointer;
   font-family: "Times New Roman", Times, serif;
   font-weight: 300;
@@ -220,7 +292,7 @@ sup {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: var(--text-secondary);
   font-size: 16px;
 
   @include mobile {
@@ -243,15 +315,37 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: var(--text);
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: var(--link);
     }
+  }
+}
+
+// Dark mode toggle button
+.theme-toggle {
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  color: var(--text);
+  cursor: pointer;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+  margin-left: 20px;
+  padding: 2px 8px;
+  vertical-align: middle;
+
+  &:hover {
+    border-color: var(--text-secondary);
+  }
+
+  @include mobile {
+    margin: 0 10px;
   }
 }
 
@@ -261,7 +355,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid var(--border);
 }
 
 .posts > .post:last-child {
@@ -272,9 +366,9 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    border-left: 2px solid var(--text-secondary);
     padding: 0.1em 1em;
-    color: $gray;
+    color: var(--text-secondary);
     font-size: 22px;
     font-style: italic;
   }
@@ -291,9 +385,9 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: #e4c69b;
+  border-top: 1px solid var(--border-footer);
+  border-bottom: 1px solid var(--border-footer);
+  background-color: var(--bg-footer);
 }
 
 footer {
@@ -349,11 +443,11 @@ ul.custom-post-list {
 .project-description {
   font-size: 1.2em;
   margin-top: 10px;
-  color: #555;
+  color: var(--text-muted);
 }
 
 .project-divider {
-  border: 1px solid #eee;
+  border: 1px solid var(--border);
   margin: 40px 0;
 }
 
@@ -373,7 +467,7 @@ ul.custom-post-list {
     flex-direction: column;
     align-items: flex-start;
   }
-  
+
   .about-img {
     width: 100%;
     max-width: 300px;
@@ -381,7 +475,7 @@ ul.custom-post-list {
 }
 
 .tag-hub {
-  
+
   // Tag Buttons Section
     #tag-buttons {
     display: flex;
@@ -391,9 +485,9 @@ ul.custom-post-list {
     margin-bottom: 1em;
 
     button {
-      background-color: #ffe3b3;
-      color: #3a2c1c;
-      border: 1px solid #d4a373;
+      background-color: var(--tag-bg);
+      color: var(--tag-text);
+      border: 1px solid var(--tag-border);
       border-radius: 6px;
       padding: 6px 12px;
       font-family: Georgia, serif;
@@ -402,19 +496,19 @@ ul.custom-post-list {
       transition: background-color 0.2s ease, color 0.2s ease;
 
       &:hover {
-        background-color: #ffd8a8;
-        border-color: #c97b32;
+        background-color: var(--tag-hover-bg);
+        border-color: var(--tag-active-bg);
       }
 
       &.active {
-        background-color: #c97b32;
+        background-color: var(--tag-active-bg);
         color: white;
-        border-color: #a55a1c;
+        border-color: var(--tag-active-border);
       }
     }
   }
 
-  // Post List 
+  // Post List
   .custom-post-list {
     list-style: none;
     padding: 0;
@@ -435,7 +529,7 @@ ul.custom-post-list {
 
   .post-content a {
     text-decoration: none;
-    color: #0077cc;
+    color: var(--link-accent);
     font: 20px/1.4 "Times New Roman", Times, serif;
   }
 
@@ -471,7 +565,7 @@ ul.custom-post-list {
 .read-time {
   display: block;
   font-size: 0.85rem;
-  color: #888;
+  color: var(--text-tertiary);
   margin-top: 0.1rem;
 }
 

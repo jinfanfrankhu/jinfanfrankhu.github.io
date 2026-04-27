@@ -17,6 +17,7 @@
             <a href="{{ site.baseurl }}/projects">Projects</a>
             <a href="{{ site.baseurl }}/posts">Posts</a>
             <a href="{{ site.baseurl }}/about">About Me</a>
+            <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode">&#9790;</button>
           </nav>
         </header>
       </div>
@@ -35,5 +36,32 @@
     </div>
 
     {% include analytics.html %}
+
+    <script>
+      (function() {
+        var btn = document.getElementById('theme-toggle');
+        var root = document.documentElement;
+
+        function getTheme() {
+          var saved = localStorage.getItem('theme');
+          if (saved) return saved;
+          return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        }
+
+        function applyTheme(theme) {
+          root.setAttribute('data-theme', theme);
+          btn.innerHTML = theme === 'dark' ? '&#9728;' : '&#9790;';
+          btn.setAttribute('aria-label', theme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode');
+        }
+
+        applyTheme(getTheme());
+
+        btn.addEventListener('click', function() {
+          var next = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+          localStorage.setItem('theme', next);
+          applyTheme(next);
+        });
+      })();
+    </script>
   </body>
 </html>
