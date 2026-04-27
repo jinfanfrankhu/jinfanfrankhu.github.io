@@ -329,10 +329,10 @@ nav {
 
 // Dark mode toggle button
 .theme-toggle {
-  background: none;
-  border: 1px solid var(--border);
+  background: var(--text);
+  border: 1px solid var(--text);
   border-radius: 4px;
-  color: var(--text);
+  color: var(--bg);
   cursor: pointer;
   font-family: "Times New Roman", Times, serif;
   font-size: 16px;
@@ -341,7 +341,7 @@ nav {
   vertical-align: middle;
 
   &:hover {
-    border-color: var(--text-secondary);
+    opacity: 0.8;
   }
 
   @include mobile {
