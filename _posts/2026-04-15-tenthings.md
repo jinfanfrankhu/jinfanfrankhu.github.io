@@ -9,7 +9,7 @@ tags:
  - "Andover"
 ---
 
-1. I am a shameless grifter; even this blog post idea was stolen from another.
+1. I can be shamelessly unoriginal; even this blog post idea was stolen from another.
 2. It's been just under two months since I tried doing any personal writing on my blog. I have to admit: the last few posts have been a bit much, and I don't have all that in me right now.
 3. I'm typing this out on my phone on the car ride to the first cycling race of the season.
 4. I've gotten slower since I last raced last year. It's a pretty terrible feeling, I won't lie... especially when your teammates have gotten faster :P

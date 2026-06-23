@@ -2,7 +2,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
+  <title>{% if page.url == '/' %}Jinfan Frank Hu | Computational Linguistics & AI Student{% elsif page.title %}{{ page.title }} – {{ site.name }}{% else %}{{ site.name }}{% endif %}</title>
   <meta name="description" content="{{ page.description | default: site.seo_description }}">
   <meta name="author" content="Jinfan Frank Hu">
   <meta name="keywords" content="{% if page.tags %}{{ page.tags | join: ', ' }}, {% endif %}Jinfan Frank Hu, Phillips Academy, computational linguistics, AI research, NLP{% if page.layout == 'project' %}, programming projects{% endif %}">
@@ -24,7 +24,7 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ page.title | default: site.title | escape}}">
   <meta name="twitter:description" content="{{ page.description | default: site.seo_description }}">
-  <meta name="twitter:image" content="{{ site.url }}{{ page.image | default: '/images/preview.jpg' }}">
+  <meta name="twitter:image" content="{{ site.url }}{{ page.image | default: '/images/ProfileCollage.jpg' }}">
   <meta name="twitter:image:alt" content="{% if page.image %}{{ page.title }}{% else %}{{ site.name }} - {{ site.header_description }}{% endif %}">
   <meta name="twitter:site" content="@{{ site.footer-links.twitter | default: 'jinfanfrankhu' }}">
   <meta name="twitter:creator" content="@{{ site.footer-links.twitter | default: 'jinfanfrankhu' }}">
@@ -78,7 +78,7 @@
     "dateModified": "{{ page.date | date_to_xmlschema }}",
     "image": {
       "@type": "ImageObject",
-      "url": "{{ site.url }}{% if page.image %}{{ page.image }}{% else %}/images/preview.jpg{% endif %}",
+      "url": "{{ site.url }}{% if page.image %}{{ page.image }}{% else %}/images/ProfileCollage.jpg{% endif %}",
       "width": 1200,
       "height": 630
     },

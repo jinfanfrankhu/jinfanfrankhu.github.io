@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(grep -h \"^tags:\" -A 20 \"c:/Users/jinfa/Desktop/Personal Projects/Jekyll Github Page/_posts/\"*.md)"
-    ]
-  }
-}

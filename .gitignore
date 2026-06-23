@@ -1,13 +1,39 @@
-_site
-.DS_Store
+# Jekyll build output & cache
+_site/
+.jekyll-cache/
 .jekyll
 .jekyll-metadata
-.bundle
-.sass-cache
+.sass-cache/
+
+# Ruby / Bundler (deps aren't committed; GitHub Pages builds the site)
+.bundle/
+vendor/
 Gemfile
 Gemfile.lock
-node_modules
-package.json
 
+# Node
+node_modules/
+package.json
+package-lock.json
+npm-debug.log*
+
+# Drafts / unpublished posts
 _posts/2025-08-09-wlgytanalysis.md
 _posts/2026-02-18-nostalgia.md
+
+# Claude Code local config
+.claude/
+CLAUDE.md
+
+# Secrets / environment
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor scratch files
+*.swp
+*~
