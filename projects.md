@@ -3,6 +3,8 @@ layout: page
 title: Projects
 permalink: /projects/
 description: "Jinfan Frank Hu's projects. Look out for computational linguistics and AI projects."
+redirect_from:
+  - /projects/crosswalk-detection/
 ---
 
 <div class="projects-container">
