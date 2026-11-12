@@ -1,9 +1,6 @@
-<h1>Hi. My name is Jinfan Frank Hu. Welcome to my website!</h1>
+<p>I'm a student at Yale University thinking of majoring in any of Math, CS, and linguistics. I like writing, I like cats, and I like learning. As of recent, I've been motivated by AI safety.
+
 <p>Check out my <a href="/about">about me</a>, <a href="/projects">projects</a>, or some of my <a href="/posts">posts</a>.</p>
-
-<p>I won't lie to you and tell you that I've got it all figured out, but I love making stuff, fixing problems, and understanding things. I also love my cats. Even if they're a little naughty. Or if they scratch me. (The black one is Mittens and the white one is Coco!)</p>
-
-<p>I've broken two bones (thanks hockey), I speak English, Mandarin, Spanish, and French decent enough (will still get yelled at by a Parisian though).</p>
 
 <!-- Recent posts as a standalone section -->
 <h2>Recent Posts</h2>
